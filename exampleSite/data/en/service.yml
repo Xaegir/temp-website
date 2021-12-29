@@ -6,8 +6,8 @@ service:
   - name: Create, Buy, & Sell NFTs
     icon: ti-layout-grid3
     content: ''
-  - name: ''
-    icon: ''
+  - name: Happy Artists
+    icon: ti-face-smile
     content: ''
   - name: VIBRANT COMMUNITY
     icon: ti-world
@@ -15,17 +15,17 @@ service:
       input on how we can develop our platform for your best experience. We're counting
       on you to give us direction!
   - name: SPEED-OPTIMIZED
-    icon: ti-layout
+    icon: ti-flag-alt-2
     content: The entire platform has been built with the most performant and latest
       technologies. The XAEGIR tech stack will enable your experience to greater heights,
       and take you even further into the crypto seas.
   - name: TONS OF FEATURES
-    icon: ti-blackboard
+    icon: ti-rocket
     content: The initial release of the XAEGIR platform will be focused on bringing
       the core features available in the market right now, but we are hard at work
       developing and integrating new features everyday.
   - name: LIMITLESS
-    icon: ti-palette
+    icon: ti-infinite
     content: We've designed our platform to scale immensely - to meet the growth of
       the community and be able to offer all new features and services at a moments
       notice.
