@@ -1,5 +1,5 @@
 ---
-cta:
+countdown:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
@@ -7,7 +7,7 @@ cta:
   content: XAEGIR release of website
   button:
     enable: false
-    label: Start a project with us
-    link: "#contact"
+    label: Release of the website!
+    link: "#countdown"
 title: countdown.yml
-draft: true
+draft: false
