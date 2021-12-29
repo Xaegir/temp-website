@@ -1,4 +1,4 @@
-baseURL = "https://xaegir.netlify.com"
+baseURL = "https://xaegir.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
