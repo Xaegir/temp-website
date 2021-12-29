@@ -15,8 +15,8 @@
         </div>
       </div>
       {{"<!-- /section title -->" | safeHTML}}
-      {{ $paginator := .Paginate .Data.Pages }}
-      {{ range $paginator.Pages }}
+      {{ $paginator := .Paginate .Data.Jobs }}
+      {{ range $paginator.Jobs }}
       {{ .Render "job" }}
       {{ end }}
       <div class="col-12">
