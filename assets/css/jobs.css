@@ -12,9 +12,18 @@ ol, ul {
 	margin-left: 125px;
 	position: relative;
 }
-.job-list .job-list-content,
-.job-list img {
+.job-list .job-list-content, .job-list img {
 	padding: 35px 0;
+}
+
+.job-list img {
+	float: left;
+	/* display: inline-block; */
+	margin-left: 35px;
+	margin-top: 2px;
+	padding: 35px 0;
+	width: 60px;
+	height: 60px;
 }
 
 .job-list .job-list-content { padding-right: 20px; }
