@@ -23,11 +23,11 @@
   <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 
   	{{"<!-- Jobs stylesheet - for your changes -->" |safeHTML}}
-	{{ $custom := resources.Get "css/jobs.css" | minify }}
+	{{ $jobs := resources.Get "css/jobs.css" | minify }}
   <link rel="stylesheet" href="{{ $jobs.Permalink }}" media="screen">
 
   	{{"<!-- Responsive stylesheet - for your changes -->" |safeHTML}}
-	{{ $custom := resources.Get "css/responsive.css" | minify }}
+	{{ $responsive := resources.Get "css/responsive.css" | minify }}
   <link rel="stylesheet" href="{{ $responsive.Permalink }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
