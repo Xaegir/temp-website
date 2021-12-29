@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Subscribe to the Xaegir Newsletter
+  title: Subscribe to the XAEGIR Newsletter
   content: Keep up with news, promotions, and other events
   button:
     enable: false
