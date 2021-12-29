@@ -8,8 +8,8 @@
       <div class="col-lg-8 offset-lg-2 text-center">
         <h1>{{ .Title }}<span>{{ .Params.Contract }}</span></h1>
         <ul class="list-inline mb-50">
-          <li class="list-inline-item><i class="fa fa-briefcase"></i> {{ .Params.Start }}</li>
-          <li class="list-inline-item><i class="fa fa-map-marker"></i> {{ .Params.Location }}</li>
+          <li class="list-inline-item"><i class="fa fa-briefcase"></i> {{ .Params.Start }}</li>
+          <li class="list-inline-item"><i class="fa fa-map-marker"></i> {{ .Params.Location }}</li>
           <li class="list-inline-item">Posted: {{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
         </ul>
         <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image">
