@@ -6,13 +6,13 @@ fields:
   name: title
   label: title
 - type: text
-  name: contract_type
+  name: contract
   label: contract type
 - type: text
   name: location
   label: location
 - type: datetime
-  name: start_date
+  name: start
   label: start date
 - type: datetime
   name: date
