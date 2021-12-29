@@ -6,8 +6,7 @@ cta:
   title: Subscribe to the Xaegir Newsletter
   content: Keep up with news, promotions, and other events
   button:
-    enable: true
+    enable: false
     label: Keep up with us!
     link: "#newsletter"
 title: newsletter.yml
-draft: false
