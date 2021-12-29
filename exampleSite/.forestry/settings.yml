@@ -10,7 +10,9 @@ sections:
   path: exampleSite/content/english/jobs
   label: Jobs (en)
   create: all
-  match: "*"
+  match: "**/*"
+  templates:
+  - job_post
 - type: heading
   label: Blog Post
 - type: directory
