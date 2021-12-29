@@ -1,32 +1,21 @@
-{{ if .Site.Params.cta.enable }}
-    {{"<!-- Call To Action Section -->" | safeHTML}}
-    <section class="call-to-action" style='background-image: url("{{ with .Site.Params.cta.bg }}{{.}}{{ end }}")' >
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 wow text-center">
-                    <div class="block">
-                        {{ with .Site.Params.cta.title }}
-                            <h2>{{ . }}</h2>
-                        {{ end }}
-                        {{ with .Site.Params.cta.subtitle }}
-                            <p>{{ . }}</p>
-                        {{ end }}
-                        <div class="col-lg-6 offset-lg-3">
-                            <div class="input-group">
-                                <script async src="https://eomail1.com/form/508051db-5a76-11ec-96e5-06b4694bee2a.js" data-form="508051db-5a76-11ec-96e5-06b4694bee2a"></script>
-                                <!-- <input
-                                  type="text"
-                                  class="form-control"
-                                  placeholder='{{ i18n "yourEmailAddressHere" }}'
-                                >
-                                <span class="input-group-btn">
-                                    <button class="btn btn-default btn-subscription" type="button">{{ i18n "subscribe" }}</button>
-                                </span> -->
-                            </div>
-                        </div>
-                    </div>
+{{ $data := index site.Data site.Language.Lang }}
+{{ if $data.newsletter.cta.enable}}
+{{ with $data.newsletter.cta}}
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section id="cta" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img src="{{ .bg_image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2>{{ .title | markdownify }}</h2>
+				<p>{{ .content | markdownify }}</p>
+				<div class="input-group">
+                    <script async src="https://eomail1.com/form/508051db-5a76-11ec-96e5-06b4694bee2a.js" data-form="508051db-5a76-11ec-96e5-06b4694bee2a"></script>
                 </div>
-            </div>
-        </div>
-    </section>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}
 {{ end }}
