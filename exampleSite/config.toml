@@ -6,12 +6,6 @@ summaryLength = "15"
 theme = "meghna-hugo"
 title = "XAEGIR"
 
-# counter
-disableCountdown  = false
-countdownYear = "2022"
-countdownMonth = "3"
-countdownDay  = "10"
-
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -96,6 +90,12 @@ description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
+[params.countdown]
+# counter
+disableCountdown  = false
+countdownYear = "2022"
+countdownMonth = "3"
+countdownDay  = "10"
 [params.cookies]
 enable = false
 expire_days = 2
