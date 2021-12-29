@@ -14,8 +14,8 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
 name = "jobs"
-url = "xaegir.com/jobs"
-weight = ""
+url = "/jobs"
+weight = "1"
 [[Languages.en.menu.main]]
 name = "about"
 url = "#about"
