@@ -1,14 +1,9 @@
 ############################## Contact #############################
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : |3-
-  Interested in what we're doing?
-  Are you talent that we need?
-  
-  Reach out - let's talk!
-
+  enable: true
+  title: Contact Us
+  subtitle: Contact Details
+  content: Interested in what we're doing? \nAre you talent that we need?\nReach out - let's talk!
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
