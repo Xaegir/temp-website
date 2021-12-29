@@ -14,12 +14,12 @@ ol, ul {
 }
 .job-list .job-list-content,
 .job-list img {
-	padding-right: 35px 0;
+	padding: 35px 0;
 }
 .job-list img {
 	float: left;
 	/* display: inline-block; */
-	margin-left: 35px;
+	margin-left: 2px;
 	margin-top: 35px;
 	width: 100px;
 	height: auto;
