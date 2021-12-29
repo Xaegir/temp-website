@@ -1,5 +1,7 @@
 - id: blogTitle
   translation: Latest Post
+  id: jobTitle
+  translation: Latest Jobs
 - id: readMore
   translation: Read more
 - id: viewAllPost
