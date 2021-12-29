@@ -3,6 +3,12 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Create, Buy, & Sell NFTs
+    icon: ti-layout-grid3
+    content: ''
+  - name: ''
+    icon: ''
+    content: ''
   - name: VIBRANT COMMUNITY
     icon: ti-world
     content: XAEGIR will be reaching out to the community to find talent and receive
