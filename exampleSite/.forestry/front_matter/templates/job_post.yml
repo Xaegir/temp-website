@@ -5,6 +5,15 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: time
+  label: contract type
+- type: text
+  name: location
+  label: location
+- type: datetime
+  name: start date
+  label: start date
 - type: datetime
   name: date
   label: date
