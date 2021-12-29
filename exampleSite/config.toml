@@ -1,11 +1,10 @@
 baseURL = "https://xaegir.netlify.app"
-disableLanguages = ["Fr"]
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "XAEGIR"
-
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -90,15 +89,14 @@ description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
-[params.countdown]
-# counter
-disableCountdown  = false
-countdownYear = "2022"
-countdownMonth = "3"
-countdownDay  = "10"
 [params.cookies]
 enable = false
 expire_days = 2
+[params.countdown]
+countdownDay = "10"
+countdownMonth = "3"
+countdownYear = "2022"
+disableCountdown = false
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -115,6 +113,8 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.lwtCountdown-1.0.js"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
