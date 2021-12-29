@@ -6,7 +6,7 @@ fields:
   name: title
   label: title
 - type: text
-  name: time
+  name: contract_type
   label: contract type
 - type: text
   name: location
