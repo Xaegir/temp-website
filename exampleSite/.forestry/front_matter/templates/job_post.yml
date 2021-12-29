@@ -12,7 +12,7 @@ fields:
   name: location
   label: location
 - type: datetime
-  name: start date
+  name: start_date
   label: start date
 - type: datetime
   name: date
