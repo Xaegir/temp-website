@@ -14,7 +14,7 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
 name = "jobs"
-url = "/jobs"
+url = "jobs"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "about"
