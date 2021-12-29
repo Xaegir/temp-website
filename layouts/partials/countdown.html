@@ -1,0 +1,55 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.countdown.countdown.enable}}
+{{ with $data.countdown.countdown}}
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section id="countdown" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img src="{{ .bg_image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+                <div class="col-lg-5 col-md-6 wow zoomIn">
+                    <div class="block">
+                        <div class="counter text-center">
+                            <ul id="countdown_dashboard" data-year="{{ with site.Params.countdown.countdownYear }} {{ . }}{{ end }}" data-month="{{ with site.Params.countdown.countdownMonth }} {{ . }}{{ end }}" data-day="{{ with site.Params.countdown.countdownDay }} {{ . }}{{ end }}">
+                                <li>
+                                    <div class="dash days_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">{{i18n "days" }}</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dash hours_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">{{i18n "hours" }}</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dash minutes_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">{{i18n "minutes" }}</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="dash seconds_dash">
+                                        <div class="digit">0</div>
+                                        <div class="digit">0</div>
+                                        <span class="dash_title">{{i18n "seconds" }}</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}
+{{ end }}
+{{ end }}
