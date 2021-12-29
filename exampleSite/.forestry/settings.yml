@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Job Board
 - type: directory
-  path: exampleSite/content/jobs/en
+  path: exampleSite/content/english/jobs
   label: Jobs (en)
   create: all
-  match: "**/*"
+  match: "*"
 - type: heading
   label: Blog Post
 - type: directory
