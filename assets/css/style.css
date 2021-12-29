@@ -544,12 +544,12 @@ a:hover {
 }
 
 /* ------ */
-.hero-area .counter {
+.countdown .counter {
   background: rgba(255, 255, 255, 0.2);
   padding: 18px;
 }
 
-.hero-area .counter ul li {
+.countdown .counter ul li {
   background-color: rgba(255, 255, 255, 0.3);
   color: #fff;
   display: inline-block;
@@ -560,13 +560,13 @@ a:hover {
   margin-bottom: 3px;
 }
 
-.hero-area .counter ul li span {
+.countdown .counter ul li span {
   display: block;
   font-size: 16px;
   font-weight: 600;
 }
 
-.hero-area .counter ul li .digit {
+.countdown .counter ul li .digit {
   display: inline-block;
   font-size: 50px;
   font-weight: bold;
@@ -577,7 +577,7 @@ a:hover {
 }
 
 @media only screen and (max-width:400px) {
-  .hero-area .counter ul li .digit {
+  .countdown .counter ul li .digit {
     font-size: 30px;
     line-height: 30px;
     height: 40px;
