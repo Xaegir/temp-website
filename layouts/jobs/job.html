@@ -17,12 +17,7 @@
   <li><a class="btn btn-transparent" href="{{ .Permalink }}">
     <img class="img-fluid lozad" data-src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .Params.image | absURL }}'">
     <div class="job-list-content">
-      <h4>{{ .Title }}<span>{{ .contract }}</span></h4>
-      <div class="job-icons">
-        <span><i class="fa fa-briefcase"></i> {{ .start }}</span>
-        <span><i class="fa fa-map-marker"></i> {{ .location }}</span>
-        <span></span>
-      </div>
+      
       <p>{{ .description }}</p>
     </div>
     </a>
