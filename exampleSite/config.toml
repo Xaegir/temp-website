@@ -92,11 +92,6 @@ post_share = true
 [params.cookies]
 enable = false
 expire_days = 2
-[params.countdown]
-countdownDay = "10"
-countdownMonth = "3"
-countdownYear = "2022"
-disableCountdown = false
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
