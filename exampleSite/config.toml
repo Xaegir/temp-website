@@ -115,7 +115,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/XaegirHQ"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/company/xaegir"
