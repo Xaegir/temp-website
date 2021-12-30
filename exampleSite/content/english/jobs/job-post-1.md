@@ -28,6 +28,8 @@ Payments are made in USDC on the 1st working day of each month and may be sent t
 #### **Responsibilities**
 
 * Enroll new users and make sure they're successful as NFT traders going forward.
+
+
 * Use Zendesk, Tweetdeck, SalesIQ, Facebook, Discord, Twitter, Whatsapp and Telegram to provide customer support.
 * Keep the community's spirit alive and well by promoting it.
 * Gather and synthesize community insights and bring them to the attention of the engineering team.
