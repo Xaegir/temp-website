@@ -124,14 +124,14 @@ link = "https://www.facebook.com/XAEGIR.HQ"
 icon = "fab fa-twitter"
 link = "https://twitter.com/XaegirHQ"
 [[params.social]]
-icon = "fab linkedin-in"
+icon = "fab fa-linkedin-in"
 link = "https://www.linkedin.com/company/xaegir"
 [[params.social]]
-icon = "fab discord"
+icon = "fab fa-discord"
 link = "https://discord.gg/duDHWqt4q6"
 [[params.social]]
-icon = "fab instagram"
+icon = "fab fa-instagram"
 link = "#"
 [[params.social]]
-icon = "fab youtube"
+icon = "fab fa-youtube"
 link = "#"
