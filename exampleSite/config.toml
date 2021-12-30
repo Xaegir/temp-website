@@ -119,7 +119,7 @@ preloader = "images/logo.png"
 icon = "fa-brands fa-facebook-f"
 link = "https://www.facebook.com/XAEGIR.HQ"
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "fa-brands fa-twitter"
 link = "https://twitter.com/XaegirHQ"
 [[params.social]]
 icon = "ti-linkedin"
