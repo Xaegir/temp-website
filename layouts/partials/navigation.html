@@ -16,9 +16,6 @@
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
           <!-- menu active -->
-		  {{ $hasBlog := where site.RegularPages "Section" "==" "blog" }}
-		  {{ $blogCount := gt (where site.RegularPages "Section" "==" "blog") 0}}
-		  {{ if and $hasBlog $blogCount}}
           {{ $currentPage := . }}
           {{ range site.Menus.main }}
           {{ $menuURL := .URL | absLangURL }}
@@ -46,7 +43,6 @@
           </li>
           {{ end }}
           {{ end }}
-		  {{ end }}
         </ul>
 				<!-- Language List -->
 				{{- if site.IsMultiLingual }}
