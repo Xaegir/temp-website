@@ -116,7 +116,7 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
+icon = "fa-brands fa-facebook-f"
 link = "https://www.facebook.com/XAEGIR.HQ"
 [[params.social]]
 icon = "ti-twitter-alt"
