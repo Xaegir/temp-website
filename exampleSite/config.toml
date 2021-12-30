@@ -118,7 +118,7 @@ icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/xaegir"
 [[params.social]]
 icon = "ti-discord"
 link = "https://discord.gg/duDHWqt4q6"
