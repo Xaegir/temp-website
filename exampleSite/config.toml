@@ -114,20 +114,17 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
 [[params.social]]
-icon = "ti-dribbble"
+icon = "ti-discord"
+link = "https://discord.gg/duDHWqt4q6"
+[[params.social]]
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
-icon = "ti-pinterest"
+icon = "ti-youtube"
 link = "#"
