@@ -27,3 +27,5 @@ fields:
   name: description
   label: description
   description: meta description
+pages:
+- exampleSite/content/english/jobs/solidity-contract-developer.md
