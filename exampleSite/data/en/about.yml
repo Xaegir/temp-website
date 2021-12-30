@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: About XAEGIR
   about_item:
   - icon: ti-ruler-pencil
     title: Vision
@@ -12,5 +12,5 @@ about:
     content: XAEGIR brings innovative products, services, and tools for the future.
   - icon: ti-thought
     title: Value
-    content: XAEGIR brings interoperability and innovation to digital biosphere while
-      helping customers access innovative products of the future.
+    content: XAEGIR brings interoperability and innovation to the community by helping
+      customers access innovative products of the future.
