@@ -75,7 +75,7 @@ weight = 8
 author = "XAEGIR"
 description = ""
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/variant23-white.png"
 post_share = true
 [params.cookies]
 enable = false
