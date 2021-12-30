@@ -120,7 +120,7 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/variant23-white.png"
 [[params.social]]
 icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/XAEGIR.HQ"
