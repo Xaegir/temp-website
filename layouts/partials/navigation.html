@@ -17,8 +17,8 @@
 				<ul class="navbar-nav ml-auto">
           <!-- menu active -->
 		  {{ $hasBlog := where site.RegularPages "Section" "==" "blog" }}
-		  {{ $blogCount := gt (where site.RegularPages "Section" "==" "blog") 0}}}
-		  {{ if and $hasBlog $blogCount}
+		  {{ $blogCount := gt (where site.RegularPages "Section" "==" "blog") 0}}
+		  {{ if and $hasBlog $blogCount}}
           {{ $currentPage := . }}
           {{ range site.Menus.main }}
           {{ $menuURL := .URL | absLangURL }}
