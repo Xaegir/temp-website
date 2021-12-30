@@ -9,7 +9,6 @@ image: "/images/network.png"
 author: John Doe
 description: 'XAEGIR is searching high and low for an authentic, crypto-fanatic individual
   who loves bringing communities together. '
-draft: true
 
 ---
 ## About XAEGIR
