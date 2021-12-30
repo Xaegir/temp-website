@@ -120,7 +120,7 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "fa-brands fa-facebook-f"
+icon = "fab fa-facebook-f"
 link = "https://www.facebook.com/XAEGIR.HQ"
 [[params.social]]
 icon = "fa-brands fa-twitter"
