@@ -97,9 +97,11 @@ link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 [[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
 link = "plugins/fontawesome/brands.js"
 [[params.plugins.js]]
-link = "plugins/jquery/jquery.min.js"
+link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
@@ -112,8 +114,6 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/fontawesome/fontawesome.js"
 [[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/logo.png"
