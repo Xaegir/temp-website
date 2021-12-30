@@ -2,8 +2,8 @@
 title: Community Manager
 contract: Full-Time
 location: Remote
-start: 2022-01-02T21:00:00+00:00
-date: 2021-12-29T21:00:00+00:00
+start: 2022-01-02T21:00:00.000+00:00
+date: 2021-12-29T21:00:00.000+00:00
 image_webp: "/images/network.png"
 image: "/images/network.png"
 author: John Doe
@@ -19,14 +19,13 @@ We are dedicated to equal employment opportunities regardless of race, color, an
 
 ## About the job
 
-XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an **all-remote** company, but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.  
-  
-For the role of community manager, XAEGIR is looking for a self-starter with a passion for evangelism. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of customer success and marketing in a startup software company setting.  
-  
+XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an **all-remote** company, but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
+
+For the role of community manager, XAEGIR is looking for a self-starter with a passion for evangelism. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of customer success and marketing in a startup software company setting.
+
 Payments are made in USDC on the 1st working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
 
-####   
-**Responsibilities**
+#### **Responsibilities**
 
 * Enroll new users and make sure they're successful as NFT traders going forward.
 * Use Zendesk, Tweetdeck, SalesIQ, Facebook, Discord, Twitter, Whatsapp and Telegram to provide customer support.
@@ -55,4 +54,4 @@ Payments are made in USDC on the 1st working day of each month and may be sent t
 
 Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to write about an ever-changing set of topics from security, eco-conscious, health, economic, gaming, and more!
 
-We're excited to hear from you. 
+We're excited to hear from you.
