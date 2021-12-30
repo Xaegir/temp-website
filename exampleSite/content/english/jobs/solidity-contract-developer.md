@@ -6,6 +6,6 @@ image = "/images/file_type_light_solidity_icon_130436.png"
 image_webp = "/images/file_type_light_solidity_icon_130436.png"
 location = "Remote"
 start = 2022-01-09T21:00:00Z
-title = "Solidity Contract Developer"
+title = "Contract Developer"
 
 +++
