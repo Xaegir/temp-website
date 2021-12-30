@@ -2,15 +2,24 @@
 service:
   enable: true
   title: Our Services
-  content: |2-
-    Xaegir brings a fresh new look to the crypto markets. We are excited to work in this space and even more excited to bring new products and services to the community. Our focus is to bring innovation and growth to a thriving community, and with that goal in mind we have a long road ahead of us. It’s time to start executing on it. We will be launching our NFT marketplace at the end of Q1 2022, and we are looking forward to interacting with you all.
+  content: Xaegir brings a fresh new look to the crypto markets. We are excited to
+    work in this space and even more excited to bring new products and services to
+    the community. Our focus is to bring innovation and growth to a thriving community,
+    and with that goal in mind we have a long road ahead of us. It’s time to start
+    executing on it. We will be launching our NFT marketplace at the end of Q1 2022,
+    and we are looking forward to interacting with you all.
   service_item:
   - name: Create, Buy, & Sell NFTs
     icon: ti-layout-grid3
-    content: ''
+    content: 'We will be offering users the opportunity to create, buy and sell NFTs
+      on the XAEGIR marketplace. We''re quite excited to be the first platform bringing
+      this service to the Middle East.  '
   - name: Happy Artists
     icon: ti-face-smile
-    content: ''
+    content: XAEGIR takes extra steps to reconcile some of the issues that plague
+      the current NFT marketplaces - authentic artworks. It's far too easy for someone
+      to take an unwitting artist's hard work, minting it, and call it their own.
+      XAEGIR aims to solve this issue for artists everywhere.
   - name: VIBRANT COMMUNITY
     icon: ti-world
     content: XAEGIR will be reaching out to the community to find talent and receive
