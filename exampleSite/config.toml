@@ -25,9 +25,6 @@ name = "services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-#name = "blog"
-#url = "#blog"
-#weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
@@ -87,7 +84,7 @@ map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
-link = "plugins/fontawesome/brands.css"
+link = "plugins/fontawesome/all.css"
 [[params.plugins.css]]
 link = "plugins/fontawesome/fontawesome.css"
 [[params.plugins.css]]
