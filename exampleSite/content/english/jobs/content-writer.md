@@ -1,7 +1,7 @@
 +++
 contract = "Full-Time"
 date = 2021-12-29T21:00:00Z
-description = ""
+description = "XAEGIR is looking for a content writer to deliver authentic, engaging material for the community. "
 image = "/images/iwriter_30214.png"
 image_webp = "/images/iwriter_30214.png"
 location = "Remote"
