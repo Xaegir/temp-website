@@ -51,7 +51,7 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 
 #### Benefits
 
-Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to write about an ever-changing set of topics from security, eco-conscious, health, economic, gaming, and more!
+Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry. 
 
 We're excited to hear from you.
 
