@@ -23,7 +23,7 @@ XAEGIR is largely a user-driven organization, so you’ll have a seat at the tab
 
 For the role of community manager, XAEGIR is looking for a self-starter with a passion for evangelism. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of customer success and marketing in a startup software company setting.
 
-Payments are made in USDC on the 1st working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
+Payments are made in USDC on the 5th working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
 
 #### Responsibilities
 
