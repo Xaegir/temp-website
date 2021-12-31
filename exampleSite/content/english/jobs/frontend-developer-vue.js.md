@@ -1,7 +1,7 @@
 +++
 contract = "Full-Time"
 date = 2021-12-29T21:00:00Z
-description = ""
+description = "XAEGIR is looking for a talented hacker that can piece together beautiful designs and performant experiences."
 image = "/images/file_type_vue_icon_130078.png"
 image_webp = "/images/file_type_vue_icon_130078.png"
 location = "Remote"
