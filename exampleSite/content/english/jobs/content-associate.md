@@ -5,7 +5,7 @@ description = "XAEGIR is looking for a content associate to deliver authentic, e
 image = "/images/iwriter_30214.png"
 image_webp = "/images/iwriter_30214.png"
 location = "Remote"
-start = 2021-12-29T21:00:00Z
+start = 2022-01-10T21:00:00Z
 title = "Content Associate"
 
 +++
