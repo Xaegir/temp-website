@@ -19,7 +19,7 @@ We are dedicated to equal employment opportunities regardless of race, color, an
 
 XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an **all-remote** company, but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
 
-For the role of Vue.js frontend developer, XAEGIR is looking for a talented hacker that can piece together beautiful designs and performant experiences. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of state management systems, coding methodologies, best practices, and "gotchas."  
+For the role of Vue.js frontend developer, XAEGIR is looking for a talented hacker that can piece together beautiful designs and performant experiences. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of state management systems, coding methodologies, best practices, and "gotchas."
 
 Payments are made in USDC on the 5th working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
 
@@ -64,7 +64,7 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 
 #### Benefits
 
-Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to write about an ever-changing set of topics from security, eco-conscious, health, economic, gaming, and more!
+Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry. 
 
 We're excited to hear from you.
 
