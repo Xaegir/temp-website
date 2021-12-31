@@ -41,7 +41,7 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 * Deep experience with programming in general.
 * Excellent understanding of blockchain concepts and smart contracts
 * An appetite for TDD and writing unit tests
-* Build and deploy smart contracts both on-chain and off-chain. 
+* Build and deploy smart contracts both on-chain and off-chain.
 * Strong writing and communication skills
 * A commitment to clear and concise documentation
 * Contribute to building, frameworks, libraries and standards that enable DApps to live on the Web3
@@ -66,13 +66,13 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 * Experience in communicating with users, other technical teams, and product management to understand requirements, describe software product features, and technical designs
 * Ability to derive the information from a research paper, whitepaper, technical paper, litepaper, etc.
 * Experience with agile and test driven development
-* Experience with Full-Stack capabilities Vue.js, Web3.js, Golang. 
+* Experience with Full-Stack capabilities Vue.js, Web3.js, Golang.
 * Experience with industry standards (ERPs & EIPs), structuring proposals, and best practices.
 * Accomplished with TypeScript and building web JavaScript libraries for Dapps
 
 #### Benefits
 
-Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to write about an ever-changing set of topics from security, eco-conscious, health, economic, gaming, and more!
+Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry. 
 
 We're excited to hear from you.
 
