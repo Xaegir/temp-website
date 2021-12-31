@@ -2,7 +2,6 @@
 contract = "Full-Time"
 date = 2021-12-29T21:00:00Z
 description = ""
-draft = true
 image = "/images/iwriter_30214.png"
 image_webp = "/images/iwriter_30214.png"
 location = "Remote"
@@ -66,9 +65,10 @@ Please start your application by telling us which newsletter you read / artists 
 
 **To Apply**: send an email to admin@xaegir.com with the subject of the email being “App - Content Writer”.
 
-Please provide a portfolio of your work and answer the following questions:
+If possible, please provide a portfolio of your previous work and answer the following questions:
 
 * How many hours are you available per week?
 * Where do you read content around NFTs (specify twitter accounts if any)?
 * What's your favorite NFT collection?
 * Have you spent time in any metaverse?
+* What's your style of communication?
