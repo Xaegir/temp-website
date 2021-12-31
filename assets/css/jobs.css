@@ -1,8 +1,4 @@
-ol, ul {
-    list-style: none!important; 
-}
-    
-.padding-right { padding-right: 20px; }
+ .padding-right { padding-right: 20px; }
 
 .job-icons span {
 	margin-bottom: 8px;
@@ -33,7 +29,8 @@ ol, ul {
 }
 
 .job-list.full .job-list-content h4 { margin-bottom: 15px; }
-
+ 
+.job-list.full li, .job-list-content li { list-style: none!important; }
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
