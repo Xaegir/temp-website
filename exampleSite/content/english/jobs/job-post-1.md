@@ -25,7 +25,7 @@ For the role of community manager, XAEGIR is looking for a self-starter with a p
 
 Payments are made in USDC on the 1st working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
 
-#### **Responsibilities**
+**Responsibilities**
 
 * Enroll new users and make sure they're successful as NFT traders going forward.
 * Use Zendesk, Tweetdeck, SalesIQ, Facebook, Discord, Twitter, Whatsapp and Telegram to provide customer support.
@@ -36,7 +36,7 @@ Payments are made in USDC on the 1st working day of each month and may be sent t
 * In a fast-changing environment, keep internal and external information resources up to date.
 * Contribute to our brand, content, and community strategies with ideas and efforts.
 
-#### **Ideally, You Would Have...**
+**Ideally, You Would Have...**
 
 * Ability to provide support for questions received outside of U.S. (Europe, Africa, and Asia).
 * Knowledge of and interest in decentralized technologies.
@@ -50,7 +50,7 @@ Payments are made in USDC on the 1st working day of each month and may be sent t
 * (Nice to have) Familiarity with WordPress is an asset.
 * (Nice to have) Extensive experience with distributed computing systems.
 
-#### Benefits
+**Benefits**
 
 Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to write about an ever-changing set of topics from security, eco-conscious, health, economic, gaming, and more!
 
