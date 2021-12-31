@@ -4,8 +4,8 @@ contract: Full-Time
 location: Remote
 start: 2022-01-02T21:00:00.000+00:00
 date: 2021-12-29T21:00:00.000+00:00
-image_webp: "/images/network.png"
-image: "/images/network.png"
+image_webp: "/images/network-1.png"
+image: "/images/network-1.png"
 author: John Doe
 description: 'XAEGIR is searching high and low for an authentic, crypto-fanatic individual
   who loves bringing communities together. '
