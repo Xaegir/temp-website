@@ -28,7 +28,7 @@ Payments are made in USDC on the 1st working day of each month and may be sent t
 **Responsibilities**
 
 * Enroll new users and make sure they're successful as NFT traders going forward.
-* Use Zendesk, Tweetdeck, SalesIQ, Facebook, Discord, Twitter, Whatsapp and Telegram to provide customer support.
+* Use Zendesk, TweetDeck, SalesIQ, Facebook, Discord, Twitter, WhatsApp and Telegram to provide customer support.
 * Keep the community's spirit alive and well by promoting it.
 * Gather and synthesize community insights and bring them to the attention of the engineering team.
 * Examine any new collections or projects that want more exposure on XAEGIR by conducting an audit.
