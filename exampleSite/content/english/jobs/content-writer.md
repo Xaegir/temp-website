@@ -19,7 +19,7 @@ We are dedicated to equal employment opportunities regardless of race, color, an
 
 XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an **all-remote** company, but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
 
-For the role of content associate, XAEGIR is looking for a self-starter with a passion for authentic, community-engaging content. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of customer success and marketing in a startup software company setting.
+For the role of content writer, XAEGIR is looking for a self-starter with a passion for authentic, community-engaging content. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of customer success and marketing in a startup software company setting.
 
 Payments are made in USDC on the 5th working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
 
