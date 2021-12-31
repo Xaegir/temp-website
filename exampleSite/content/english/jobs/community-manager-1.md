@@ -27,7 +27,10 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 
 #### Responsibilities
 
+* Provide engaging content for all social media and professional accounts.
+* Develop, plan and implement social media and communication campaigns and strategies.
 * Enroll new users and make sure they're successful as NFT traders going forward.
+* Organize and manage events to boost brand awareness.
 * Use Zendesk, Tweetdeck, SalesIQ, Facebook, Discord, Twitter, Whatsapp and Telegram to provide customer support.
 * Keep the community's spirit alive and well by promoting it.
 * Gather and synthesize community insights and bring them to the attention of the engineering team.
@@ -35,6 +38,10 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 * Prevent buyers from being duped and respond to complaints.
 * In a fast-changing environment, keep internal and external information resources up to date.
 * Contribute to our brand, content, and community strategies with ideas and efforts.
+* Hands-on familiarity with Discord, Twitter, and Telegram.
+* Experienced in online marketing, growth hacking, and viral marketing.
+* Experience planning and leading community initiatives.
+* Hands-on experience with social media management, ability to interpret website traffic.
 
 #### Ideally, You Would Have...
 
@@ -51,7 +58,7 @@ Payments are made in USDC on the 5th working day of each month and may be sent t
 
 #### Benefits
 
-Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry. 
+Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry.
 
 We're excited to hear from you.
 
