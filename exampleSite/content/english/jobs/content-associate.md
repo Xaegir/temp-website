@@ -21,7 +21,7 @@ XAEGIR is largely a user-driven organization, so you’ll have a seat at the tab
 
 For the role of content associate, XAEGIR is looking for a self-starter with a passion for authentic, community-engaging content. Ideally, this person will have prior experience using decentralized technologies, along with a working knowledge of customer success and marketing in a startup software company setting.
 
-Payments are made in USDC on the 1st working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
+Payments are made in USDC on the 5th working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
 
 #### Responsibilities
 
@@ -61,9 +61,9 @@ We're excited to hear from you.
 
 #### Applying
 
-Please start your application by telling us which newsletter you read / artists you like / twitter accounts you follow etc., to demonstrate your interest in NFTs. 
+Please start your application by telling us which newsletter you read / artists you like / twitter accounts you follow etc., to demonstrate your interest in NFTs.
 
-**To Apply**: send an email to admin@xaegir.com with the subject of the email being “App - Content Associate”. 
+**To Apply**: send an email to admin@xaegir.com with the subject of the email being “App - Content Associate”.
 
 Please provide a portfolio of your work and answer the following questions:
 
