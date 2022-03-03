@@ -122,7 +122,7 @@ enable = true
 preloader = "images/variant23-white.png"
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/XAEGIR.HQ"
+link = "https://www.facebook.com/xaegir.io/"
 [[params.social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/XaegirHQ"
