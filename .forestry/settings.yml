@@ -16,7 +16,7 @@ sections:
   path: xaegir/content/english/blog
   label: Blog
   create: all
-  match: "**/*"
+  match: "*"
 - type: directory
   path: xaegir/content/english
   label: Pages
