@@ -44,6 +44,10 @@ icon = "fab fa-instagram"
 link = "#"
 title = "instagram"
 [[social]]
+icon = "fab fa-discord"
+link = ""
+title = ""
+[[social]]
 icon = "fab fa-facebook"
 link = "#"
 title = "facebook"
