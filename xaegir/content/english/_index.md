@@ -32,8 +32,7 @@ feature:
     content: Avatar NFT Collection
   - name: Optimized Data
     image: images/feature/feature-3.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    content: XAEGIR Realms
 about:
   enable: true
   about_item:
