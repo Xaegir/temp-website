@@ -2,10 +2,10 @@
 banner:
   enable: true
   bg_image: images/background/banner.png
-  title: Build Your Business Together
-  watermark: Build
-  content: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-    idest laborum sed ut perspiciatis.
+  title: A Platform For Innovation
+  watermark: 'Innovation '
+  content: The virtual space where artists, developers and enthusiasts can come together
+    to solve the real problems of our time.
   image: images/banner/banner-1.png
   button:
     enable: true
