@@ -1,47 +1,21 @@
-#################### default parameters ################################
-# favicon
-favicon = "images/favicon.ico"
-# logo
-logo = "images/logo.png"
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-# contact info
 address = "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-mobile = "+211234565523"
+author = "Themefisher"
+contact_form_action = "#"
+custom_script = ""
+description = "This is meta description"
 email = "info@agico.com"
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# Google Analitycs
+favicon = "images/favicon.ico"
 google_analitycs_id = "Your ID"
-# main sections
+image = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
+logo = "images/logo.png"
 mainSections = ["blog"]
-# search
+mobile = "+211234565523"
 search = false
-# custom script on header
-custom_script= ""
-
-
-# Preloader
-[preloader]
+[cookies]
+button = "I Accept"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
 enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
-
-# Navigation button
-[navigation_button]
-enable = true
-label = "sign up"
-link = "#"
-
-# Subscription
-[subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-# google map
+expire_days = 2
 [gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
@@ -50,36 +24,34 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 map_marker_label = "Agico"
 map_zoom = 17
-
-# cookies
-[cookies]
+[navigation_button]
 enable = true
-expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
-
-############################# social site ########################
+label = "sign up"
+link = "#"
+[preloader]
+enable = true
+preloader = "images/preloader.gif"
+[subscription]
+enable = true
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[social]]
+icon = "fab fa-facebook"
+link = "#"
 title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
 [[social]]
+icon = "fab fa-twitter"
+link = "#"
 title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
 [[social]]
+icon = "fab fa-instagram"
+link = "#"
 title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
 [[social]]
+icon = "fab fa-github"
+link = "#"
 title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
 [[social]]
-title = "linkedin"
-icon = "fab fa-linkedin-in" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-linkedin-in"
 link = "#"
+title = "linkedin"
