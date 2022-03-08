@@ -12,7 +12,7 @@ banner:
     label: Get Agico
     link: "#"
 partner:
-  enable: false
+  enable: true
   partner_logo:
   - images/partner/client-logo-1.png
   - images/partner/client-logo-2.png
