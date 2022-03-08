@@ -1,11 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image: images/background/banner.png
+  bg_image: "/uploads/uriel-sc-11kdtiuwrq4-unsplash.jpg"
   title: A Platform For Innovation
   watermark: 'Innovation '
-  content: The virtual space where artists, developers and enthusiasts can come together
-    to solve the real problems of our time.
+  content: The virtual space where artists, developers and enthusiasts come together
+    to and create.
   image: images/banner/banner-1.png
   button:
     enable: true
