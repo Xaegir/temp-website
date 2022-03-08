@@ -28,6 +28,10 @@ custom_script= ""
 enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
+# Partner
+[partner]
+enable: true
+
 # Navigation button
 [navigation_button]
 enable = true
