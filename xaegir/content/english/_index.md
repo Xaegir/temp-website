@@ -110,8 +110,8 @@ download:
   enable: true
   title: Join Our Discord
   image: images/download-mobile-img.jpg
-  content: 'Here at XAEGIR, we put the community at the centre of our development.
-    We are building a space to learn and engage with '
+  content: Here at XAEGIR, the user comes first. We are building a community to learn
+    and engage with and to show our followers exactly what we're working on.
   playstore:
     label: Discord
     link: https://discord.gg/BFTmyUuC8u
