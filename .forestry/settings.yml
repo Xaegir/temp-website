@@ -29,9 +29,12 @@ sections:
 - type: heading
   label: Configuration
 - type: document
+  path: xaegir/config/_default/menus.en.toml
+  label: Menus
+  match: "**/*"
+- type: document
   path: xaegir/config/_default/params.toml
   label: Parameters
-  match: "**/*"
 upload_dir: xaegir/static/images
 public_path: "/uploads"
 front_matter_path: ''
