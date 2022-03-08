@@ -1,65 +1,52 @@
-{{"<!-- end Contact Area -->" | safeHTML}}
-<footer id="footer" class="section-bg">
-	<div class="container">
-		<div class="row wow fadeInUp" data-wow-duration="500ms">
-			<div class="col-xl-12">
+{{"<!-- footer part start -->" | safeHTML }}
+<footer class="bg-secondary pt-5">
+  <section class="section border-bottom border-color">
+    <div class="container">
+      <div class="row justify-content-between">
+        <div class="col-md-5 mb-4 mb-md-0">
+          <a href="{{ .Site.BaseURL | relLangURL }}"><img src="{{ .Site.Params.logo | absURL }}" class="mb-4" alt="{{ .Site.Title }}"></a>
+          <p class="text-light mb-4">{{ .Site.Params.footer_content | markdownify }}</p>
+          <ul class="list-inline social-icons">
+            {{ range .Site.Params.social }}
+            <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6">
+          <h4 class="text-white mb-4">{{ i18n "quick_links" }}</h4>
+          <ul class="list-styled list-hover-underline">
+            {{ range .Site.Menus.footer }}
+            <li class="mb-3 text-light"><a href="{{ .URL | relLangURL }}" class="text-light">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+          <h4 class="text-white mb-4">{{ i18n "contact_info"}}</h4>
+          <ul class="list-unstyled">
+            <li class="mb-3 text-light">{{.Site.Params.address | safeHTML }}</li>
+            <li class="mb-3 text-light">{{.Site.Params.mobile | safeHTML }}</li>
+            <li class="mb-3 text-light">{{.Site.Params.email | safeHTML }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{"  <!-- footer part end -->" | safeHTML }}
 
-				{{"<!-- Footer Social Links -->" | safeHTML}}
-				<div class="social-icon">
-					<ul class="list-inline">
-						{{ range site.Params.social }}
-						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-						{{ end }}
-					</ul>
-				</div>
-
-				{{"<!-- copyright -->" | safeHTML}}
-				<div class="copyright text-center">
-					<a href="{{ site.Home.Permalink }}">
-						<img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
-					</a>
-					<br>
-					<p>{{ site.Params.copyright | markdownify }}</p>
-				</div>
-			</div>
-		</div>
-	</div>
+  {{"  <!-- copyright part start -->" | safeHTML }}
+  <section class="py-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <p class="mb-0 text-light copyright">{{ site.Params.copyright | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{"  <!-- copyright part end -->" | safeHTML }}
 </footer>
-{{"<!-- /footer -->" | safeHTML}}
 
 {{ "<!-- Google Map API -->" | safeHTML }}
-{{ if site.Params.map.enable }}
-<script src="{{ site.Params.map.gmap_api | safeURL }}"></script>
-{{ end }}
-
-{{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
-{{ end }}
-
-{{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
-<script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
-
-<!-- cookie -->
-{{ if site.Params.cookies.enable }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-transparent">I Accept</span>
-</div>
-<script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires: {{ site.Params.cookies.expire_days }}
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
-		}
-	})(jQuery);
-</script>
+{{ with .Site.Params.map.gmap_api }}
+<script src="{{ . | safeURL }}"></script>
 {{ end }}
