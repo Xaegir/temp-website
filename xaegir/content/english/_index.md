@@ -21,13 +21,12 @@ partner:
   - images/partner/client-logo-5.png
 feature:
   enable: true
-  subtitle: fetures
-  title: exclusive features
+  subtitle: ''
+  title: Current Projects
   feature_item:
   - name: Free Trial
     image: images/feature/feature-1.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    content: Community Development
   - name: No Setup
     image: images/feature/feature-2.png
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
