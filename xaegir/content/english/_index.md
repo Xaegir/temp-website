@@ -116,7 +116,7 @@ download:
     label: app store
     link: "#"
 pricing:
-  enable: true
+  enable: false
   section: pricing
   show_items: "3"
 
