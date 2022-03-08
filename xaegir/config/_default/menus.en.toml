@@ -18,13 +18,13 @@ URL = "about"
 name = "Roadmap"
 weight = 2
 [[main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[main]]
 URL = "blog"
 name = "Blog"
 weight = 4
+[[main]]
+URL = "service"
+name = "NFT "
+weight = 3
 [[main]]
 URL = "contact"
 name = "Contact"
@@ -33,23 +33,3 @@ weight = 5
 hasChildren = true
 name = "Pages"
 weight = 6
-[[main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[main]]
-URL = "career"
-name = "Career"
-parent = "Pages"
-[[main]]
-URL = "team"
-name = "Team"
-parent = "Pages"
-[[main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[main]]
-URL = "changelog"
-name = "Changelog"
-parent = "Pages"
