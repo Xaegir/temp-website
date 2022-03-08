@@ -1,72 +1,55 @@
-############# English navigation ##############
-# main menu    
-[[main]]
-name = "About"
-URL = "about"
-weight = 2
-  
-[[main]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[main]]
-name = "Blog"
-URL = "blog"
-weight = 4
-
-[[main]]
-name = "Contact"
-URL = "contact"
-weight = 5
-
-[[main]]
-weight = 6
-name = "Pages"
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[main]]
-  parent = "Pages"
-  name = "Career"
-  URL = "career"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Team"
-  URL = "team"
-
-  [[main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  URL = "changelog"
-
-#Footer menu
 [[footer]]
+URL = "about"
 name = "Company History"
-URL = "about"
-
 [[footer]]
+URL = "about"
 name = "About us"
-URL = "about"
-
 [[footer]]
-name = "Contact us"
 URL = "contact"
-
+name = "Contact us"
 [[footer]]
-name = "Services"
 URL = "service"
-
+name = "Services"
 [[footer]]
-name = "Privacy Policy"
 URL = "#"
+name = "Privacy Policy"
+[[main]]
+URL = "about"
+name = "Roadmap"
+weight = 2
+[[main]]
+URL = "service"
+name = "Service"
+weight = 3
+[[main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+[[main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[main]]
+hasChildren = true
+name = "Pages"
+weight = 6
+[[main]]
+URL = "pricing"
+name = "Pricing"
+parent = "Pages"
+[[main]]
+URL = "career"
+name = "Career"
+parent = "Pages"
+[[main]]
+URL = "team"
+name = "Team"
+parent = "Pages"
+[[main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[main]]
+URL = "changelog"
+name = "Changelog"
+parent = "Pages"
