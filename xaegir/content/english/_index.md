@@ -3,14 +3,14 @@ banner:
   enable: true
   bg_image: images/background/banner.png
   title: A Platform For Innovation
-  watermark: 'Innovation '
+  watermark: XAEGIR
   content: The virtual space where artists, developers and enthusiasts come together
     to and create.
   image: images/banner/banner-1.png
   button:
     enable: true
     label: Join Us
-    link: "#"
+    link: https://discord.gg/BFTmyUuC8u
 partner:
   enable: false
   partner_logo:
