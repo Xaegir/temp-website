@@ -63,11 +63,10 @@ promo_video:
   video_thumbnail: images/check-video.png
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
   subtitle: Check Video
-  title: Best Way to Chat Your Customers.
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis aute.
-
-    Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
+  title: Watch Our Creative Team In Action
+  content: 'We have spent a lot of time researching, planning and creating all the
+    areas that go into a successful NFT collection and would love to give you a sneak
+    peak behind '
 testimonial:
   enable: true
   subtitle: testimonial
