@@ -4,14 +4,18 @@ auto_deploy: false
 admin_path: ".forestry"
 webhook_url: 
 sections:
+- type: heading
+  label: Localization
+- type: document
+  path: xaegir/i18n/en.yaml
+  label: i18n
+- type: heading
+  label: Content
 - type: directory
   path: xaegir/content/english/career
   label: career
   create: all
   match: "**/*"
-- type: document
-  path: xaegir/i18n/en.yaml
-  label: i18n
 - type: directory
   path: xaegir/content/english/blog
   label: Blog
@@ -22,6 +26,12 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: Configuration
+- type: document
+  path: xaegir/config/_default/params.toml
+  label: Parameters
+  match: "**/*"
 upload_dir: xaegir/static/images
 public_path: "/uploads"
 front_matter_path: ''
