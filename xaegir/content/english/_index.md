@@ -5,7 +5,7 @@ banner:
   title: A Platform For Innovation
   watermark: XAEGIR
   content: The virtual space where artists, developers and enthusiasts come together
-    to and create.
+    and create.
   image: images/banner/banner-1.png
   button:
     enable: true
