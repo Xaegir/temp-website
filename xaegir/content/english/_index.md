@@ -9,7 +9,7 @@ banner:
   image: images/banner/banner-1.png
   button:
     enable: true
-    label: Get Agico
+    label: Join Us
     link: "#"
 partner:
   enable: false
