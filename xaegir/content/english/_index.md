@@ -113,7 +113,7 @@ download:
     label: Discord
     link: https://discord.gg/BFTmyUuC8u
   appstore:
-    enable: true
+    enable: false
     label: app store
     link: "#"
 pricing:
