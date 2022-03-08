@@ -108,14 +108,13 @@ testimonial:
       qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
 download:
   enable: true
-  title: Download Agico Now
+  title: Join Our Discord
   image: images/download-mobile-img.jpg
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis
-    nostrud exercitation.
+  content: 'Here at XAEGIR, we put the community at the centre of our development.
+    We are building a space to learn and engage with '
   playstore:
-    label: Google Play
-    link: "#"
+    label: Discord
+    link: https://discord.gg/BFTmyUuC8u
   appstore:
     label: app store
     link: "#"
