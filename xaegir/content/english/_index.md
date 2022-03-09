@@ -68,7 +68,7 @@ promo_video:
     areas that go into a successful NFT collection and would love to give you a sneak
     peak behind '
 testimonial:
-  enable: true
+  enable: false
   subtitle: testimonial
   title: What Our Clients Says?
   testimonial_item:
