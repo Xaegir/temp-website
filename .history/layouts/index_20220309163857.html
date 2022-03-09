@@ -194,14 +194,19 @@
           <ul class="list-inline">
             <li class="list-inline-item mb-3 mb-lg-0">
               {{ with .discord }}
+              {{ if .enable }}
               <a class="btn btn-white" href="{{ .link | safeURL }}" data-aos="zoom-in" data-aos-delay="400"><img src="{{`images/discord.png` | absURL }}" class="img-fluid mr-2" alt="">{{ .label }}</a>
+              {{ end }}
               {{ end }}
             </li>
             <li class="list-inline-item">
               {{ with .appstore }}
+              {{ if .enable }}
               <a class="btn btn-outline-white" href="{{ .link | safeURL }}" data-aos="zoom-in" data-aos-delay="500"><i class="fab fa-apple fa-2x mr-2" style="vertical-align:-8px"></i>{{ .label }}</a>
               {{ end }}
+              {{ end }}
             </li>
+            {{ end }}
           </ul>
         </div>
       </div>

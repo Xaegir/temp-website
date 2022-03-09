@@ -199,9 +199,11 @@
             </li>
             <li class="list-inline-item">
               {{ with .appstore }}
+              {{ if .enable }}
               <a class="btn btn-outline-white" href="{{ .link | safeURL }}" data-aos="zoom-in" data-aos-delay="500"><i class="fab fa-apple fa-2x mr-2" style="vertical-align:-8px"></i>{{ .label }}</a>
               {{ end }}
             </li>
+            {{ end }}
           </ul>
         </div>
       </div>

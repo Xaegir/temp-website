@@ -193,7 +193,7 @@
           <p class="text-white mb-4" data-aos="fade-up" data-aos-delay="200">{{ .content | markdownify }}</p>
           <ul class="list-inline">
             <li class="list-inline-item mb-3 mb-lg-0">
-              {{ with .playstore }}
+              {{ with .discord }}
               <a class="btn btn-white" href="{{ .link | safeURL }}" data-aos="zoom-in" data-aos-delay="400"><img src="{{`images/icon/google-play.png` | absURL }}" class="img-fluid mr-2" alt="">{{ .label }}</a>
               {{ end }}
             </li>
