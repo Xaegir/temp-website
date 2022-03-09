@@ -3,7 +3,7 @@ author = "Themefisher"
 contact_form_action = "#"
 custom_script = ""
 description = "This is meta description"
-email = "info@agico.com"
+email = "admin@xaegir.com"
 favicon = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
 google_analitycs_id = "Your ID"
 image = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
@@ -26,8 +26,8 @@ map_marker_label = "Agico"
 map_zoom = 17
 [navigation_button]
 enable = true
-label = "sign up"
-link = "#"
+label = "Discord"
+link = "https://discord.gg/BFTmyUuC8u"
 [preloader]
 enable = true
 preloader = "images/preloader.gif"
@@ -37,33 +37,21 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[selectedsocial]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/xaegir_"
 title = "twitter"
 [[selectedsocial]]
 icon = "fab fa-instagram"
-link = "#"
+link = "https://www.instagram.com/xaegir_"
 title = "instagram"
 [[social]]
 icon = "fab fa-discord"
-link = ""
+link = "https://discord.gg/BFTmyUuC8u"
 title = ""
 [[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/xaegir_"
 title = "twitter"
 [[social]]
 icon = "fab fa-instagram"
-link = "#"
+link = "https://www.instagram.com/xaegir_/"
 title = "instagram"
-[[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
-[[social]]
-icon = "fab fa-linkedin-in"
-link = "#"
-title = "linkedin"
