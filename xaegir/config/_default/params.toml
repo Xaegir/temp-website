@@ -26,7 +26,7 @@ map_marker_label = "Agico"
 map_zoom = 17
 [navigation_button]
 enable = true
-label = "sign up"
+label = "Discord"
 link = "#"
 [preloader]
 enable = true
