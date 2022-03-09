@@ -3,7 +3,7 @@ author = "Themefisher"
 contact_form_action = "#"
 custom_script = ""
 description = "This is meta description"
-email = "info@agico.com"
+email = "admin@xaegir.com"
 favicon = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
 google_analitycs_id = "Your ID"
 image = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
@@ -37,7 +37,7 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[selectedsocial]]
 icon = "fab fa-twitter"
-link = "#"
+link = "https://twitter.com/xaegir_"
 title = "twitter"
 [[selectedsocial]]
 icon = "fab fa-instagram"
