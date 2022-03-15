@@ -9,10 +9,7 @@ URL = "contact"
 name = "Contact us"
 [[footer]]
 URL = "service"
-name = "Services"
-[[footer]]
-URL = "#"
-name = "Privacy Policy"
+name = "Roadmap"
 [[main]]
 URL = "about"
 name = "Roadmap"
