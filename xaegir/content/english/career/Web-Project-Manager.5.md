@@ -6,7 +6,7 @@ page_header_image: images/background/about.jpg
 description: XAEGIR is looking for a talented hacker that can piece together beautiful
   designs and performant experiences.
 image: images/career/logo-5.png
-location: London, United Kingdom
+location: Remote
 job_type: Full time
 job_category: Software Development
 apply_link: "#"
