@@ -40,8 +40,7 @@ sections:
 - type: document
   path: xaegir/config/_default/languages.toml
   label: Languages
-  match: "**/*"
-upload_dir: xaegir/static/images
+upload_dir: xaegir/static/images/**
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
