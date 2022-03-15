@@ -40,8 +40,8 @@ about:
     subtitle: Roadmap
     title: We Are Currently Working On Several Projects
     content: We have plans to work on an extensive range of products and services,
-      starting with our NFT collection(our MVP) and community development. Other planned
-      and researched projects include…
+      starting with our NFT collection and community development. Other planned and
+      researched projects include…
     button:
       enable: true
       label: Roadmap
