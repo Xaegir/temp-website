@@ -3,8 +3,8 @@ title: Smart Contract Developer
 date: 2022-03-15T03:51:57+00:00
 watermark: Smart Contract Developer
 page_header_image: images/background/about.jpg
-description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-  idest laborum sed ut perspiciatis.
+description: XAEGIR is looking for a talented smart contract developer that can piece
+  together business requirements into secure, functional blockchain applications.
 image: images/career/logo-4.png
 location: Remote
 job_type: Full time
