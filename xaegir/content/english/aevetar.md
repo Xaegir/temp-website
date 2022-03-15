@@ -53,10 +53,10 @@ enable = true
 subtitle = ""
 title = "Exclusives"
 [[feature.feature_item]]
-content = "Unlocks exclusive channels on our Discord server"
+content = "Unlock exclusive channels on our Discord server"
 icon = "fas fa-desktop"
 icon_color = "primary"
-title = "Membership Announcements"
+title = "Membership"
 [[feature.feature_item]]
 content = "Gain access to our Metaverse and integrate your Aevetar"
 icon = "fas fa-cogs"
