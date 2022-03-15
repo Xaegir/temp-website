@@ -11,7 +11,7 @@ name = "Roadmap"
 URL = "contact"
 name = "Contact us"
 [[main]]
-URL = "aevetar"
+URL = "service"
 name = "Aevetar"
 weight = "3"
 [[main]]
