@@ -27,7 +27,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[main]]
-URL = "team"
+URL = "career"
 hasChildren = true
 name = "Careers"
 weight = 6

@@ -1,29 +1,9 @@
 +++
 description = "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
-draft = true
 layout = "aevetar"
 page_header_image = "images/background/aevetar.jpg"
 title = "Aevetar"
 watermark = "Aevetar"
-[feature]
-enable = true
-subtitle = "features"
-title = "exclusive features"
-[[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-icon = "fas fa-desktop"
-icon_color = "primary"
-title = "Exclusive Design"
-[[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-icon = "fas fa-cogs"
-icon_color = "primary"
-title = "Easy Customize"
-[[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
-icon = "fas fa-shield-alt"
-icon_color = "primary"
-title = "Extreme Security"
 [aevetar]
 enable = true
 subtitle = "aevetars"
@@ -68,5 +48,24 @@ content = "Lorem ipsum dolor sit amet consectetur elit sed do"
 icon = "fab fa-wpexplorer"
 icon_color = "blue"
 title = "UX Prototyping"
+[feature]
+enable = true
+subtitle = "features"
+title = "exclusive features"
+[[feature.feature_item]]
+content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+icon = "fas fa-desktop"
+icon_color = "primary"
+title = "Exclusive Design"
+[[feature.feature_item]]
+content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+icon = "fas fa-cogs"
+icon_color = "primary"
+title = "Easy Customize"
+[[feature.feature_item]]
+content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+icon = "fas fa-shield-alt"
+icon_color = "primary"
+title = "Extreme Security"
 
 +++
