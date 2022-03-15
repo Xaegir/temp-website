@@ -12,6 +12,7 @@ categories:
 tags:
 - Advice
 type: post
+draft: true
 
 ---
 ### Elit duied aiusmod tempor did labore dolory
