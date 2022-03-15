@@ -37,6 +37,10 @@ sections:
 - type: document
   path: xaegir/config/_default/menus.en.toml
   label: Menus
+- type: document
+  path: xaegir/config/_default/languages.toml
+  label: Languages
+  match: "**/*"
 upload_dir: xaegir/static/images
 public_path: "/uploads"
 front_matter_path: ''
