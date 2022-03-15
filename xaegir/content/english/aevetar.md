@@ -1,5 +1,5 @@
 +++
-description = "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description = "This is the next phase of our NFT project. We are giving the user the ability to customize their NFTs and use them in the metaverse as an interoperable and personalised Avatar."
 layout = "aevetar"
 page_header_image = "images/background/aevetar.jpg"
 title = "Aevetar"
