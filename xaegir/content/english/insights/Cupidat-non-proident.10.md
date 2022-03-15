@@ -6,7 +6,7 @@ page_header_image: images/thecurrentstateofweb3.jpg
 description: The current climate of Web3 is a volatile one. Frequent shifts in public
   opinion and ideas on regulation make it difficult to asses the current state of
   the space.
-image: images/blog/blog-post-10.jpg
+image: images/thecurrentstateofweb3.jpg
 author: Admin
 categories:
 - Investment Planning
