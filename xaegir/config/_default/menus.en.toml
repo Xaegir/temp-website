@@ -15,7 +15,7 @@ URL = "roadmap"
 name = "Roadmap"
 weight = 2
 [[main]]
-URL = "blog"
+URL = "insights"
 name = "Insights"
 weight = 4
 [[main]]
