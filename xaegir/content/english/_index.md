@@ -48,7 +48,7 @@ about:
       link: about
   - image: images/about/about-2.png
     subtitle: Insights
-    title: Keep Up With The Latest Web3 News
+    title: Keep Up With The Latest Web3 Developments
     content: There is a lot of uncertainty and scepticism associated with Web3 at
       the moment, which is why we strongly believe in doing our research. XAEGIR has
       a fantastic Editorial team dedicated to producing unbiased articles and research
