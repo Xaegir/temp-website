@@ -19,7 +19,7 @@ icon = "fas fa-users"
 icon_color = "yellow"
 title = "Partnership"
 [[aevetar.aevetar_item]]
-content = "View your Aevetar in our online public gallery"
+content = "View your Aevetar in our online public gallery and make use of our 3D view options"
 icon = "fas fa-desktop"
 icon_color = "purple"
 title = "XAEGIR Gallery"
@@ -28,26 +28,6 @@ content = "Utilize Aevetars on other platforms though partnerships in virtual la
 icon = "fas fa-cloud"
 icon_color = "cyan"
 title = "Interoperability"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "far fa-comments"
-icon_color = "red"
-title = "Consulting"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "fas fa-search-plus"
-icon_color = "green"
-title = "SEO Optimization"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "fas fa-chart-line"
-icon_color = "orange"
-title = "Usability Testing"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "fab fa-wpexplorer"
-icon_color = "blue"
-title = "UX Prototyping"
 [feature]
 enable = true
 subtitle = ""
