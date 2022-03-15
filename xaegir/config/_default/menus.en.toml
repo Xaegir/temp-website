@@ -11,6 +11,10 @@ name = "Roadmap"
 URL = "contact"
 name = "Contact us"
 [[main]]
+URL = "aevetar"
+name = "Aevetar"
+weight = "3"
+[[main]]
 URL = "roadmap"
 name = "Roadmap"
 weight = 2
