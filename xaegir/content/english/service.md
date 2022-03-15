@@ -1,10 +1,10 @@
 ---
-title: Aevatar NFT Collection
-watermark: Aevatar NFT Collection
+title: Services
+watermark: Services
 page_header_image: images/background/about.jpg
 description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
   idest laborum sed ut perspiciatis.
-layout: NFT
+layout: services
 service:
   enable: true
   subtitle: Services
