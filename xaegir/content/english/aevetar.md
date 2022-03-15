@@ -50,8 +50,8 @@ icon_color = "blue"
 title = "UX Prototyping"
 [feature]
 enable = true
-subtitle = "features"
-title = "exclusive features"
+subtitle = ""
+title = "Exclusives"
 [[feature.feature_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 icon = "fas fa-desktop"
