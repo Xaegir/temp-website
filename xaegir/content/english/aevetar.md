@@ -19,10 +19,10 @@ icon = "fas fa-users"
 icon_color = "yellow"
 title = "Partnership"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "View your Aevetar in our online public gallery."
 icon = "fas fa-desktop"
 icon_color = "purple"
-title = "Web Design"
+title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do"
 icon = "fas fa-cloud"
