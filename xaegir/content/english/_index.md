@@ -38,11 +38,10 @@ about:
   about_item:
   - image: images/about/about-1.png
     subtitle: Roadmap
-    title: Eausmod tempor magna nostrud exercitation
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    title: We Are Currently Working On Several Projects
+    content: |2-
+
+      XAEGIR is an open-ended platform that prioritizes the user, with innovation as our central focus. XAEGIR consists of multiple products and services that bring real ideas to the table. We have a Roadmap that outlines what you can expect to see in our future.
     button:
       enable: true
       label: Roadmap
