@@ -9,10 +9,10 @@ enable = true
 subtitle = ""
 title = "Features"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "Upgrade, modify, and swap components of your Aevetar to your personal preference."
 icon = "far fa-object-ungroup"
 icon_color = "primary"
-title = "Networking"
+title = "Customizability"
 [[aevetar.aevetar_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do"
 icon = "fas fa-users"
