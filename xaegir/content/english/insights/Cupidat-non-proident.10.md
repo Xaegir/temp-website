@@ -2,9 +2,10 @@
 title: The Current State of Web 3.0
 date: 2022-03-15T03:51:57+00:00
 watermark: The Current State of Web 3.0
-page_header_image: images/background/about.jpg
-description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-  idest laborum sed ut perspiciatis.
+page_header_image: images/thecurrentstateofweb3.jpg
+description: The current climate of Web3 is a volatile one. Frequent shifts in public
+  opinion and ideas on regulation make it difficult to asses the current state of
+  the space.
 image: images/blog/blog-post-10.jpg
 author: Admin
 categories:
