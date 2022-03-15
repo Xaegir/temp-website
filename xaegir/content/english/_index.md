@@ -39,9 +39,9 @@ about:
   - image: images/about/about-1.png
     subtitle: Roadmap
     title: We Are Currently Working On Several Projects
-    content: |2-
-
-      XAEGIR is an open-ended platform that prioritizes the user, with innovation as our central focus. XAEGIR consists of multiple products and services that bring real ideas to the table. We have a Roadmap that outlines what you can expect to see in our future.
+    content: We have plans to work on an extensive range of products and services,
+      starting with our NFT collection(our MVP) and community development. Other planned
+      and researched projects include…
     button:
       enable: true
       label: Roadmap
