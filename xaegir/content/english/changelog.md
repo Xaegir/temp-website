@@ -1,9 +1,11 @@
 ---
-title: "Changelog"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt dolore magna aliquyam erat, sed diam voluptua. At vero eos et ustoLorem ipsum dolor sit amet, consetetur."
-draft: false
----
+title: Changelog
+description: We endeavour to distinguish ourselves from the status quo of Web2 and
+  the preliminary infrastructures that have led us up to this point in Web3. We know
+  that there are harmful things in the ecosystem that go against the ideology of what
+  a free and open web means, and we aim to steer things in a better direction.
 
+---
 ### February Updates
 
 **Feb 6, 2019**
