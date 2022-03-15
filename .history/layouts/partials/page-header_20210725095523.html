@@ -10,7 +10,7 @@
         <nav class="position-relative zindex-1" aria-label="breadcrumb">
           <ol class="breadcrumb justify-content-end bg-transparent">
             <li class="breadcrumb-item"><a href="{{ .Site.BaseURL | relLangURL }}" class="text-white">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a></li>
-            {{ if or (eq .Section "post") (eq .Section "insights") (eq .Section "career") }}
+            {{ if or (eq .Section "post") (eq .Section "blog") (eq .Section "career") }}
             <li class="breadcrumb-item text-white" aria-current="page">{{ .Params.watermark }}</li>
             {{ else }}
             <li class="breadcrumb-item text-white" aria-current="page">{{ .Title }}</li>
