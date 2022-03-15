@@ -28,5 +28,5 @@ name = "Careers"
 weight = 6
 [[main]]
 URL = "contact"
-name = "Contact Us"
+name = "Contact"
 weight = 5
