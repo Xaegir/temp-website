@@ -58,10 +58,10 @@ icon = "fas fa-desktop"
 icon_color = "primary"
 title = "Membership Announcements"
 [[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+content = "Gain access to our Metaverse and integrate your Aevetar"
 icon = "fas fa-cogs"
 icon_color = "primary"
-title = "Easy Customize"
+title = "XAEGIR Realms"
 [[feature.feature_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 icon = "fas fa-shield-alt"
