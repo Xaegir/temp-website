@@ -18,7 +18,7 @@ type: post
 ---
 ## NFTs
 
-Currently, NFTs have a broad set of use cases around collectables, digital assets in games, digital art, reputation systems among others but represent one of the areas which have taken off and highlighted the power of ownership (and speculation) that web3 can bring.
+Currently, NFTs have a broad set of use cases around collectables, digital assets, games, digital art and reputation systems but mainly represents an area that has taken off and highlighted the power of ownership (and speculation) that web3 can bring.
 
 * OpenSea has over 600K traders on its platform with a trading volume of $3B a month, **growing over 500X from the same time last year**. For context, its trading volume is 3X the size of Etsy, a $30B public company.
 * Coinbase announced the launch of an NFT marketplace and already has 3.8M users on its waitlist!
