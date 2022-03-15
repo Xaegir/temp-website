@@ -63,9 +63,9 @@ promo_video:
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
   subtitle: XAEGIR Art
   title: Watch Our Creative Team In Action
-  content: 'We have spent a lot of time researching, planning and creating all the
+  content: We have spent a lot of time researching, planning and creating all the
     areas that go into a successful NFT collection and would love to give you a sneak
-    peak behind '
+    peak behind the scenes.
 testimonial:
   enable: false
   subtitle: testimonial
