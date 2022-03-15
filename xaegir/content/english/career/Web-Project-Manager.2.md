@@ -7,7 +7,7 @@ description: XAEGIR is looking for an advisor or mentor that has an expansive kn
   of the crypto environment, a deep technical understanding of dApps, industry standards,
   protocols, TCRs and so on,
 image: images/career/logo-2.png
-location: London, United Kingdom
+location: Remote
 job_type: Full time
 job_category: Business Operations Specialist
 apply_link: "#"
