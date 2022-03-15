@@ -8,7 +8,7 @@ favicon = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
 google_analitycs_id = "Your ID"
 image = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
 logo = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
-mainSections = ["blog"]
+mainSections = []
 mobile = ""
 search = false
 [cookies]
