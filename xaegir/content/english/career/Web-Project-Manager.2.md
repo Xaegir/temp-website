@@ -9,7 +9,7 @@ description: XAEGIR is looking for an advisor or mentor that has an expansive kn
 image: images/career/logo-2.png
 location: Remote
 job_type: Full time
-job_category: Business Specialist
+job_category: Business Operations Specialist
 apply_link: "#"
 
 ---
