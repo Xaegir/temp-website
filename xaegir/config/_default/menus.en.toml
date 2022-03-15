@@ -11,7 +11,7 @@ name = "Roadmap"
 URL = "contact"
 name = "Contact us"
 [[main]]
-URL = "roadmap"
+URL = "about"
 name = "Roadmap"
 weight = 2
 [[main]]
@@ -19,7 +19,7 @@ URL = "blog"
 name = "Insights"
 weight = 4
 [[main]]
-URL = "NFT"
+URL = "service"
 name = "NFT "
 weight = 3
 [[main]]
@@ -27,6 +27,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[main]]
+URL = "team"
 hasChildren = true
 name = "Careers"
 weight = 6
