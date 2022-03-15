@@ -6,7 +6,7 @@ description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> 
   idest laborum sed ut perspiciatis.
 layout: service
 service:
-  enable: true
+  enable: false
   subtitle: Services
   title: Our Service Area
   service_item:
