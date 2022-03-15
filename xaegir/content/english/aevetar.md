@@ -63,9 +63,9 @@ icon = "fas fa-cogs"
 icon_color = "primary"
 title = "XAEGIR Realms"
 [[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+content = "Earn discounts, giveaways and other exclusive features "
 icon = "fas fa-shield-alt"
 icon_color = "primary"
-title = "Extreme Security"
+title = "Offerings"
 
 +++
