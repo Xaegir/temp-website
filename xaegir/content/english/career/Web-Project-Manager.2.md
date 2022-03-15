@@ -1,6 +1,6 @@
 ---
 title: Crypto Advisor
-date: 2019-04-10T09:51:57.000+06:00
+date: 2022-03-15T03:51:57+00:00
 watermark: Crypto Advisor
 page_header_image: images/background/about.jpg
 description: XAEGIR is looking for an advisor or mentor that has an expansive knowledge
@@ -9,7 +9,7 @@ description: XAEGIR is looking for an advisor or mentor that has an expansive kn
 image: images/career/logo-2.png
 location: Remote
 job_type: Full time
-job_category: Business Operations Specialist
+job_category: Business Specialist
 apply_link: "#"
 
 ---
