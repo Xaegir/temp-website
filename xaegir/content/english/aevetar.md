@@ -7,7 +7,7 @@ watermark = "Aevetar"
 [aevetar]
 enable = true
 subtitle = ""
-title = "Featues"
+title = "Features"
 [[aevetar.aevetar_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do"
 icon = "far fa-object-ungroup"
