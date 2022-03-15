@@ -120,7 +120,7 @@ testimonial:
 download:
   enable: true
   title: Join Our Discord
-  image: images/download-mobile-img.jpg
+  image: images/bigdiscordlogo.png
   content: Here at XAEGIR, the user comes first. We are building a community to learn
     and engage with and to show our followers exactly what we're working on.
   discord:
