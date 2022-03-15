@@ -23,10 +23,6 @@ URL = "insights"
 name = "Insights"
 weight = 4
 [[main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[main]]
 URL = "contact"
 name = "Contact"
 weight = 5
