@@ -53,10 +53,10 @@ enable = true
 subtitle = ""
 title = "Exclusives"
 [[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+content = "Unlocks exclusive channels on our Discord server"
 icon = "fas fa-desktop"
 icon_color = "primary"
-title = "Exclusive Design"
+title = "Membership Announcements"
 [[feature.feature_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
 icon = "fas fa-cogs"
