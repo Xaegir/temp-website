@@ -24,7 +24,7 @@ name = "NFT "
 weight = 3
 [[main]]
 hasChildren = true
-name = "Jobs"
+name = "Careers"
 weight = 6
 [[main]]
 URL = "contact"
