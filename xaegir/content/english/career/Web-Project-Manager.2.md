@@ -5,7 +5,7 @@ watermark: Crypto Advisor
 page_header_image: images/background/about.jpg
 description: XAEGIR is looking for an advisor or mentor that has an expansive knowledge
   of the crypto environment, a deep technical understanding of dApps, industry standards,
-  protocols, TCRs and so on,
+  protocols, TCRs and so on.
 image: images/career/logo-2.png
 location: Remote
 job_type: Full time
