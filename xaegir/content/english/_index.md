@@ -51,8 +51,8 @@ about:
     title: Keep Up With The Latest Web 3.0 Developments
     content: There is a lot of uncertainty and scepticism associated with Web3 at
       the moment, which is why we strongly believe in doing our own research. XAEGIR
-      has a fantastic Editorial team dedicated to producing unbiased articles and
-      research on the current projects in the space.
+      has a fantastic team dedicated to producing unbiased articles and research on
+      the current projects in the space.
     button:
       enable: true
       label: Insights
