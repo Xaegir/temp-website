@@ -9,7 +9,7 @@ enable = true
 subtitle = ""
 title = "Features"
 [[aevetar.aevetar_item]]
-content = "Upgrade, modify, and swap components of your Aevetar to your personal preference."
+content = "Upgrade, modify, and swap components of your Aevetar to your personal preference"
 icon = "far fa-object-ungroup"
 icon_color = "primary"
 title = "Customizability"
@@ -19,15 +19,15 @@ icon = "fas fa-users"
 icon_color = "yellow"
 title = "Partnership"
 [[aevetar.aevetar_item]]
-content = "View your Aevetar in our online public gallery."
+content = "View your Aevetar in our online public gallery"
 icon = "fas fa-desktop"
 icon_color = "purple"
 title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
 icon = "fas fa-cloud"
 icon_color = "cyan"
-title = "Cloud aevetar"
+title = "Interoperability"
 [[aevetar.aevetar_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do"
 icon = "far fa-comments"
