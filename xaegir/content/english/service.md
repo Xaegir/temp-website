@@ -4,7 +4,7 @@ watermark: Services
 page_header_image: images/background/about.jpg
 description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
   idest laborum sed ut perspiciatis.
-layout: services
+layout: service
 service:
   enable: true
   subtitle: Services
