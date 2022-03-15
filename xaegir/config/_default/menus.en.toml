@@ -19,7 +19,7 @@ name = "Roadmap"
 weight = 2
 [[main]]
 URL = "blog"
-name = "Blog"
+name = "Insights"
 weight = 4
 [[main]]
 URL = "service"
