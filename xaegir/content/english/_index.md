@@ -47,15 +47,15 @@ about:
       label: Roadmap
       link: about
   - image: images/about/about-2.png
-    subtitle: about agico
-    title: Rehenderit volupate velit proident sunt culpa
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    subtitle: Insights
+    title: Keep Up With The Latest Web3 News
+    content: There is a lot of uncertainty and scepticism associated with Web3 at
+      the moment, which is why we strongly believe in doing our research. XAEGIR has
+      a fantastic Editorial team dedicated to producing unbiased articles and research
+      on the current projects in the industry.
     button:
       enable: true
-      label: read more
+      label: Insights
       link: about
 promo_video:
   enable: true
