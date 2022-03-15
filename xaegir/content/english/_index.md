@@ -65,7 +65,7 @@ promo_video:
   title: Watch Our Creative Team In Action
   content: We have spent a lot of time researching, planning and creating all the
     areas that go into a successful NFT collection and would love to give you a sneak
-    peak behind the scenes.
+    peek behind the scenes.
 testimonial:
   enable: false
   subtitle: testimonial
