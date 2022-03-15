@@ -37,7 +37,7 @@ about:
   enable: true
   about_item:
   - image: images/about/about-1.png
-    subtitle: about agico
+    subtitle: Roadmap
     title: Eausmod tempor magna nostrud exercitation
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -45,7 +45,7 @@ about:
       aute.
     button:
       enable: true
-      label: read more
+      label: Roadmap
       link: about
   - image: images/about/about-2.png
     subtitle: about agico
