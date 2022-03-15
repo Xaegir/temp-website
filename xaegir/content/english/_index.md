@@ -44,7 +44,7 @@ about:
       and researched projects include…
     button:
       enable: true
-      label: View Roadmap
+      label: Roadmap
       link: about
   - image: images/about/about-2.png
     subtitle: Insights
