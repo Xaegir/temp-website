@@ -5,11 +5,11 @@ name = "Careers"
 URL = "about"
 name = "Insights"
 [[footer]]
-URL = "contact"
-name = "Contact us"
-[[footer]]
 URL = "service"
 name = "Roadmap"
+[[footer]]
+URL = "contact"
+name = "Contact us"
 [[main]]
 URL = "about"
 name = "Roadmap"
