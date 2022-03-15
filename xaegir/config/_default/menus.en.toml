@@ -23,10 +23,10 @@ URL = "service"
 name = "NFT "
 weight = 3
 [[main]]
-hasChildren = true
-name = "Careers"
-weight = 6
-[[main]]
 URL = "contact"
 name = "Contact"
 weight = 5
+[[main]]
+hasChildren = true
+name = "Careers"
+weight = 6
