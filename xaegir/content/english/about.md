@@ -12,10 +12,7 @@ about:
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
   subtitle: About Agico
   title: Eausmod tempor magna nostrud exercitation
-  content: Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor
-    incididunt.enim ad minim veniam, quis nostrud exer citation ulla mco laboris nisi
-    ut aliquip commodo. <br><br>Sed ut perspiciatis unde omnis iste natus error sit
-    voluptatem accu santium doloreque laudantum.
+  content: test .
   button:
     enable: true
     label: Contact Us
