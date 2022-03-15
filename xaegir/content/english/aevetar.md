@@ -14,10 +14,10 @@ icon = "far fa-object-ungroup"
 icon_color = "primary"
 title = "Customizability"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "Have a say in what new Aevetar features or attributes will be released in the future "
 icon = "fas fa-users"
 icon_color = "yellow"
-title = "Social Activity"
+title = "Partnership"
 [[aevetar.aevetar_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do"
 icon = "fas fa-desktop"
