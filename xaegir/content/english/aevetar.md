@@ -1,13 +1,13 @@
 +++
 description = "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
 draft = true
-layout = "service"
-page_header_image = "images/background/about.jpg"
+layout = "aevetar"
+page_header_image = "images/background/aevetar.jpg"
 title = "Aevetar"
-watermark = "Services"
+watermark = "Aevetar"
 [feature]
 enable = true
-subtitle = "fetures"
+subtitle = "features"
 title = "exclusive features"
 [[feature.feature_item]]
 content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
