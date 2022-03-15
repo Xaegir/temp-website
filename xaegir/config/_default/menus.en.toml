@@ -19,7 +19,7 @@ URL = "blog"
 name = "Insights"
 weight = 4
 [[main]]
-URL = "service"
+URL = "NFT"
 name = "NFT "
 weight = 3
 [[main]]
