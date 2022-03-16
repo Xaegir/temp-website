@@ -2,8 +2,9 @@
 title: Roadmap
 watermark: Roadmap
 page_header_image: images/background/roadmap.jpg
-description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-  idest laborum sed ut perspiciatis.
+description: Here you can find a more detailed breakdown of exactly what we're working
+  on. XAEGIR is not defined by one single product or service and endeavours to push
+  the envelope regarding Web 3.0 technology.
 layout: roadmap
 roadmap:
   enable: true

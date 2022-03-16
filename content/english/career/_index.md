@@ -1,11 +1,8 @@
 ---
-title: "Career"
-# watermark text
-watermark: "Career"
-# page header background image
-page_header_image: "images/background/about.jpg"
-# meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+title: Career
+watermark: Work With Us
+page_header_image: images/background/about.jpg
+description: Would you like to work in Web3? Submit an application with us and we'd
+  be more than happy to discuss what value you can bring to XAEGIR over a cup of coffee.
 
-draft: false
 ---

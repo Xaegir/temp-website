@@ -39,9 +39,9 @@ about:
   - image: images/about/about-1.png
     subtitle: Roadmap
     title: We Are Currently Working On Several Projects
-    content: |2-
-
-      XAEGIR is an open-ended platform that prioritizes the user, with innovation as our central focus. XAEGIR consists of multiple products and services that bring real ideas to the table. We have a Roadmap that outlines what you can expect to see in our future.
+    content: We have plans to work on an extensive range of products and services,
+      starting with our NFT collection and community development. Other planned and
+      researched projects include…
     button:
       enable: true
       label: Roadmap
@@ -52,7 +52,7 @@ about:
     content: There is a lot of uncertainty and scepticism associated with Web3 at
       the moment, which is why we strongly believe in doing our own research. XAEGIR
       has a fantastic team dedicated to producing unbiased articles and research on
-      the current projects in the space.
+      the current groundbreaking projects in the space.
     button:
       enable: true
       label: Insights
@@ -63,9 +63,25 @@ promo_video:
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
   subtitle: XAEGIR Art
   title: Watch Our Creative Team In Action
-  content: We have spent a lot of time researching, planning and creating all the
-    areas that go into a successful NFT collection and would love to give you a sneak
-    peek behind the scenes.
+  content: |+
+    We have spent a lot of time researching, planning and creating all the areas that go into a successful NFT collection and would love to give you a sneak peek behind the scenes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 testimonial:
   enable: false
   subtitle: testimonial
@@ -104,7 +120,7 @@ testimonial:
 download:
   enable: true
   title: Join Our Discord
-  image: images/download-mobile-img.jpg
+  image: images/bigdiscordlogo.png
   content: Here at XAEGIR, the user comes first. We are building a community to learn
     and engage with and to show our followers exactly what we're working on.
   discord:

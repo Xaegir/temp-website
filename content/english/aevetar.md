@@ -1,71 +1,51 @@
 +++
-description = "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description = "This is the next phase of our NFT project. We are giving the user the ability to customize their NFTs and use them in the metaverse as interoperable and personalised avatars."
 layout = "aevetar"
 page_header_image = "images/background/aevetar.jpg"
 title = "Aevetar"
 watermark = "Aevetar"
 [aevetar]
 enable = true
-subtitle = "aevetars"
-title = "Our aevetar Area"
+subtitle = ""
+title = "Features"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "Upgrade, modify, and swap components of your Aevetar to your personal preference"
 icon = "far fa-object-ungroup"
 icon_color = "primary"
-title = "Networking"
+title = "Customizability"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "Have a say in what new Aevetar features or attributes will be released in the future "
 icon = "fas fa-users"
 icon_color = "yellow"
-title = "Social Activity"
+title = "Partnership"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "View your Aevetar in our online public gallery and make use of our 3D view options"
 icon = "fas fa-desktop"
 icon_color = "purple"
-title = "Web Design"
+title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
+content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
 icon = "fas fa-cloud"
 icon_color = "cyan"
-title = "Cloud aevetar"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "far fa-comments"
-icon_color = "red"
-title = "Consulting"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "fas fa-search-plus"
-icon_color = "green"
-title = "SEO Optimization"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "fas fa-chart-line"
-icon_color = "orange"
-title = "Usability Testing"
-[[aevetar.aevetar_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do"
-icon = "fab fa-wpexplorer"
-icon_color = "blue"
-title = "UX Prototyping"
+title = "Interoperability"
 [feature]
 enable = true
-subtitle = "features"
-title = "exclusive features"
+subtitle = ""
+title = "Exclusives"
 [[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+content = "Unlock exclusive channels on our Discord server"
 icon = "fas fa-desktop"
 icon_color = "primary"
-title = "Exclusive Design"
+title = "Membership"
 [[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+content = "Gain access to our Metaverse and integrate your Aevetar"
 icon = "fas fa-cogs"
 icon_color = "primary"
-title = "Easy Customize"
+title = "XAEGIR Realms"
 [[feature.feature_item]]
-content = "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+content = "Earn discounts, giveaways and other exclusive features "
 icon = "fas fa-shield-alt"
 icon_color = "primary"
-title = "Extreme Security"
+title = "Offerings"
 
 +++
