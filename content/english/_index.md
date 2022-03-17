@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/banner.png
+  bg_image: images/background/banner.png
   title: A Platform For Innovation
   watermark: XAEGIR
   content: The virtual space where artists, developers and enthusiasts come together
