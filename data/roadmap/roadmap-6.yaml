@@ -1,0 +1,35 @@
+modalID: 6
+title: title
+category: category
+date: 2014-07-05
+img: roadmap_item_6.jpg
+description: description
+initiatives:
+- name: initiative#1
+  enable: true
+  initiative: Web
+  initiativeLink: Web
+  subtitle: subtitle
+  status: "#status"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+- name: initiative#2
+  enable: true
+  initiative: Web
+  initiativeLink: Web
+  subtitle: subtitle
+  status: "#status"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+- name: initiative#3
+  enable: true
+  initiative: Web
+  initiativeLink: Web
+  subtitle: subtitle
+  status: "#status"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+- name: initiative#4
+  enable: true
+  initiative: Web
+  initiativeLink: Web
+  subtitle: subtitle
+  status: "#status"
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+	{{- partial "head.html" . -}}
+	{{- partialCached "style.html" . -}}
+</head>
+
+<body>
+	{{- partial "inspector.html" . -}}
+	{{- partial "header.html" . -}}
+	{{ if not .IsHome }}
+	{{ partial "page-header.html" . }}
+	{{ end }}
+	{{- block "main" . }}{{- end }}
+	{{ if where .Site.Sections "Type" "roadmap" }}
+	{{- partial "modals.html" . -}}
+	{{ end }}
+	{{ partialCached "subscription.html" . }}
+	{{- partialCached "footer.html" . -}}
+	{{- partialCached "script.html" . -}}
+</body>
+
+</html>

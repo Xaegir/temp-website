@@ -1,0 +1,395 @@
+<style>
+  #hti-container{
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      background-color: #f9f9f9;
+      font-family: muli,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+      color: #0a1922;
+      padding: 10px;
+      margin: 10px;
+      border-radius: 6px;
+      border: 2px #202020 solid;
+      max-width: calc(100% - 20px);
+  }
+  #hti-container ul {
+      list-style-type: none; 
+  }
+  ul .hti-subli {
+      list-style-type: square;
+  }
+  #hti-container pre {
+      overflow: scroll;
+  }
+</style>
+
+<div id="hti-container">
+  <section id="hti-page-vars">
+      <header>
+          <h3>Page Variables</h3>
+      </header>
+      <section>
+          <ul>
+              <li>.Type: <b>{{ .Type }}</b></li>
+              <li>.Kind: <b>{{ .Kind }}</b></li>
+              <li>.Section: <b>{{ .Section }}</b></li>
+              <li>.Sections:
+                  <ul>
+                  {{ range .Sections }}
+                      <li class="hti-subli"><b>{{ .Name }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Data:
+                  <ul>
+                  {{ range .Data }}
+                          <li class="hti-subli">Param 1: <b>{{ . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Aliases:</li>
+                  <ul>
+                  {{ range .Aliases }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              <li>.Pages:
+                  <ul>
+                  {{ range .Pages }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.RegularPages:
+                  <ul>
+                  {{ range .RegularPages }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+
+              <li>.AlternativeOutputFormats:
+                  <ul>
+                  {{ range .AlternativeOutputFormats }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.OutputFormats:
+                  <ul>
+                  {{ range .OutputFormats }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Sites:
+                  <ul>
+                  {{ range .Sites }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+
+              <li>.Resources: <b>{{ .Resources }}</b></li>
+              <li>.File: <b>{{ .File }}</b></li>
+              <li>.Keywords: <b>{{ .Keywords }}</b></li>
+              <li>.Language: <b>{{ .Language }}</b></li>
+              <li>.Language.Lang: <b>{{ .Language.Lang }}</b></li>
+              {{/*  <li>.Hugo: <b>{{ .Hugo }}</b></li>  */}}
+              <li>.Weight: <b>{{ .Weight }}</b></li>
+              <li>.Description: <b>{{ .Description }}</b></li>
+              <li>.Summary: <b>{{ .Summary }}</b></li>
+              {{/*  <li>.Dir: <b>{{ .Dir }}</b></li>  */}}
+              <li>.Draft: <b>{{ .Draft }}</b></li>
+              <li>.FuzzyWordCount: <b>{{ .FuzzyWordCount }}</b></li>
+              <li>.WordCount: <b>{{ .WordCount }}</b></li>
+              <li>.ReadingTime: <b>{{ .ReadingTime }}</b></li>
+              <li>.IsHome: <b>{{ .IsHome }}</b></li>
+              <li>.IsNode: <b>{{ .IsNode }}</b></li>
+              <li>.IsPage: <b>{{ .IsPage }}</b></li>
+              <li>.IsTranslated: <b>{{ .IsTranslated }}</b></li>
+              <li>.RelPermalink: <b>{{ .RelPermalink }}</b></li>
+              <li>.Permalink: <b>{{ .Permalink }}</b></li>
+              {{/*  <li>.RSSLink(DEPRECATED): <b>{{ .RSSLink }}</b></li>  */}}
+              <li>.LinkTitle: <b>{{ .LinkTitle }}</b></li>
+              <li>.Title: <b>{{ .Title }}</b></li>
+              <li>.Truncated: <b>{{ .Truncated }}</b></li>
+              <li>.UniqueID: <b>{{ .UniqueID }}</b></li>
+              <li>.PublishDate: <b>{{ .PublishDate }}</b></li>
+              <li>.Date: <b>{{ .Date }}</b></li>
+              <li>.ExpiryDate: <b>{{ .ExpiryDate }}</b></li>
+              <li>.Lastmod: <b>{{ .Lastmod }}</b></li>
+              <li>.NextInSection: <b>{{ .NextInSection }}</b></li>
+              <li>.Next: <b>{{ .Next }}</b></li>
+              <li>.PrevInSection: <b>{{ .PrevInSection }}</b></li>
+              <li>.Prev: <b>{{ .Prev }}</b></li>
+              <li>.Site: <b>{{ .Site }}</b></li>
+              <li>.Sites.First: <b>{{ .Sites.First }}</b></li>
+              <li>.Translations: <b>{{ .Translations }}</b></li>
+              <li>.TranslationKey: <b>{{ .TranslationKey }}</b></li>
+              <li>.Truncated: <b>{{ .Truncated }}</b></li>
+              <li>.CurrentSection: <b>{{ .CurrentSection }}</b></li>
+              <li>.FirstSection: <b>{{ .FirstSection }}</b></li>
+              <li>.Parent: <b>{{ .Parent }}</b></li>
+          </ul>
+      </section>
+      <section id="hti-page-content-container">
+          <h4>.Content</h4> 
+          <div id="hti-page-content">
+              <pre>
+              {{ .Content }}
+              </pre>
+          </div>
+          <h4>.Plain</h4>
+          <div id="hti-plain-page-content">
+              <pre>
+              {{ .Plain }}
+              </pre>
+          </div>
+          <h4>.PlainWords</h4>
+          <div id="hti-plain-words-page-content">
+              <pre>
+              {{ .PlainWords }}
+              </pre>
+          </div>
+          <h4>.RawContent</h4>
+          <div id="hti-raw-page-content">
+              <pre>
+              {{ .RawContent }}
+              </pre>
+          </div>
+          <h4>.TableOfContents</h4>
+          <div id="hti-table-of-contents">
+              {{ .TableOfContents}}
+          </div>
+      </section>
+  </section>
+  <section id="hti-site-vars">
+      <header>
+          <h3>Site Variables</h3>
+      </header>
+      <section>
+          <ul>
+              <li>.Site.Author: <b>{{ .Site.Author }}</b></li>
+              <li>.Site.BaseURL: <b>{{ .Site.BaseURL }}</b></li>
+              <li>.Site.BuildDrafts: <b>{{ .Site.BuildDrafts }}</b></li>
+              <li>.Site.Copyright: <b>{{ .Site.Copyright }}</b></li>
+              <li>.Site.DisqusShortname: <b>{{ .Site.DisqusShortname }}</b></li>
+              <li>.Site.GoogleAnalytics: <b>{{ .Site.GoogleAnalytics }}</b></li>
+              <li>.Site.Home: <b>{{ .Site.Home}}</b></li>
+              <li>.Site.IsMultiLingual: <b>{{ .Site.IsServer }}</b></li>
+              <li>.Site.Language.Lang: <b>{{ .Site.Language.Lang }}</b></li>
+              <li>.Site.Language.LanguageName: <b>{{ .Site.Language.LanguageName }}</b></li>
+              <li>.Site.Language.Weight: <b>{{ .Site.Language.Weight }}</b></li>
+              <li>.Site.Language: <b>{{ .Site.Language }}</b></li>
+              <li>.Site.LanguageCode: <b>{{ .Site.LanguageCode }}</b></li>
+              <li>.Site.LanguagePrefix: <b>{{ .Site.LanguagePrefix }}</b></li>
+              <li>.Site.Languages: <b>{{ .Site.Languages }}</b></li>
+              <li>.Site.LastChange: <b>{{ .Site.LastChange }}</b></li>
+              <li>.Site.Title: <b>{{ .Site.Title }}</b></li>
+              <li>.Site.AllPages:
+                  <ul>
+                  {{ range .Site.AllPages }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.Data:
+                  <ul>
+                  {{ range .Site.Data }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.Menus:
+                  <ul>
+                  {{ range .Site.Menus }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.Pages:
+                  <ul>
+                  {{ range .Site.Pages }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.RegularPages:
+                  <ul>
+                  {{ range .Site.RegularPages }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.Sections:
+                  <ul>
+                  {{ range .Site.Sections }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.Taxonomies:
+                  <ul>
+                  {{ range .Site.Taxonomies }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Site.Params:
+                  <ul>
+                  {{ range .Site.Params }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+          </ul>
+      </section>
+  </section>
+  <section id="hti-taxonomy-vars">
+      <header>
+          <h3>Taxonomy Variables</h3>
+      </header>
+      <section>
+          <ul>
+              <li>.Data.Singular: <b>{{ .Data.Singular }}</b></li>
+              <li>.Data.Plural: <b>{{ .Data.Plural }}</b></li>
+              <li>.Data.Terms:
+                  <ul>
+                  {{ range .Data.Terms }}
+                      <li class="hti-subli"><b>{{ printf "#v%" . }}</b></li>
+                  {{ end }}
+                  </ul>
+              </li>
+              <li>.Data.Terms.Alphabetical: <b>Same as Above, just sorted</b></li>
+              <li>.Data.Terms.Alphabetical.Reverse: <b>Same as Above, just sorted</b></li>
+              <li>.Data.Terms.ByCount: <b>Same as Above, just sorted</b></li>
+              <li>.Data.Terms.ByCount.Reverse: <b>Same as Above, just sorted</b></li>
+          </ul>
+      </section>
+  </section>
+  <section id="hti-file-vars">
+      <header>
+          <h3>File Vars</h3>
+      </header>
+      <section>
+          <ul>
+              <li>.File.Path: <b>{{ .File.Path }}</b></li>
+              <li>.File.LogicalName: <b>{{ .File.LogicalName }}</b></li>
+              <li>.File.TranslationBaseName: <b>{{ .File.TranslationBaseName }}</b></li>
+              <li>.File.ContentBaseName: <b>{{ .File.ContentBaseName }}</b></li>
+              <li>.File.BaseFileName: <b>{{ .File.BaseFileName }}</b></li>
+              <li>.File.Ext: <b>{{ .File.Ext }}</b></li>
+              <li>.File.Lang: <b>{{ .File.Lang }}</b></li>
+              <li>.File.Dir: <b>{{ .File.Dir }}</b></li>
+          </ul>
+      </section>
+  </section>
+  <section id="hti-hugo-vars">
+      <header>
+          <h3>Hugo Vars</h3>
+          <p>Check documentation for <a href="https://gohugo.io/variables/hugo/">deprecation notice</a>.</p>
+      </header>
+      <section>
+          <ul>
+              <li>.Hugo.Generator: 
+                  <stextarea id="hti-hugo-generator">
+                 {{ .Hugo.Generator }}
+                  </textarea>
+              </li>
+              <li>.Hugo.Version: <b>{{ .Hugo.Version }}</b></li>
+              <li>.Hugo.Environmet: <b>{{ .Hugo.Environment }}</b></li>
+              <li>.Hugo.CommitHash: <b>{{ .Hugo.CommitHash }}</b></li>
+              <li>.Hugo.BuildDate: <b>{{ .Hugo.BuildDate }}</b></li>
+          </ul>
+      </section>
+  </section>
+  <section id="hti-menu-vars">
+      <header>
+          <h3>Menu Entry Vars</h3>
+      </header>
+      <section>
+          {{ range $index, $element := .Site.Menus }} 
+          <header>     
+              <h4> MENU: {{ $index }} </h4>
+          </header>
+              <p>Below are listed the variable definitions for each menu entry on the <b>{{ $index }}</b> menu.</p>
+              {{ range $element }}
+           <ul>
+              <li>Variables:
+                  <ul>
+                      <li>.Menu: <b>{{ .Menu }}</b></li>
+                      <li>.URL: <b>{{ .URL }}</b></li>
+                      <li>.Page: <b>{{ .Page }}</b></li>
+                      <li>.Name: <b>{{ .Name }}</b></li>
+                      <li>.Identifier: <b>{{ .Identifier }}</b></li>
+                      <li>.Pre: <b>{{ .Pre }}</b></li>
+                      <li>.Post: <b>{{ .Post }}</b></li>
+                      <li>.Weight: <b>{{ .Weight }}</b></li>
+                      <li>.Parent: <b>{{ .Parent }}</b></li>
+                      <li>.Children: <b>{{ .Children }}</b></li>
+                  </ul>
+              </li>
+              <li>Functions:
+                  <ul>
+                      <li>.HasChildren: <b>{{ .HasChildren }}</b></li>
+                      <li>.KeyName: <b>{{ .KeyName }}</b></li>
+                      <li>.Title: <b>{{ .Title }}</b></li>
+                  </ul> 
+              </li>
+          </ul>
+          {{ end }}
+
+          {{ end }}
+      </section>
+  </section>
+  <section id="hti-sitemap-vars">
+      <header>
+          <h3>Sitemap Vars</h3>
+      </header>
+      <section>
+          <ul>
+              <li>.Sitemap.ChangeFreq: <b>{{ .Sitemap.ChangeFreq }}</b></li>
+              <li>.Sitemap.Priority: <b>{{ .Sitemap.Priority }}</b></li>
+              <li>.Sitemap.Filename: <b>{{ .Sitemap.Filename }}</b></li>
+          </ul>
+      </section>
+  </section>
+  <section id="hti-git-vars">
+      <header>
+          <h3>Git Vars</h3>
+      </header>
+      <section>
+          <ul>
+              <li>.GitInfo.AbbreviatedHash: <b>{{ .GitInfo.AbbreviatedHash }}</b></li>
+              <li>.GitInfo.AuthorName: <b>{{ .GitInfo.AuthorName }}</b></li>
+              <li>.GitInfo.AuthorEmail: <b>{{ .GitInfo.AuthorEmail }}</b></li>
+              <li>.GitInfo.AuthorDate: <b>{{ .GitInfo.AuthorDate }}</b></li>
+              <li>.GitInfo.Hash: <b>{{ .GitInfo.Hash }}</b></li>
+              <li>.GitInfo.Subject: <b>{{ .GitInfo.Subject }}</b></li>
+              <li>.Lastmod: <b>{{ .Lastmod }}</b></li>
+          </ul>
+      </section>
+  </section>
+</div>
+<script type="text/javascript">
+var htiToggle = function() {
+    var htiOn = false;
+  return function() {
+    if(!htiOn) {
+      htiOn = true;
+      document.getElementById('hti-container').setAttribute('style','display:none;');
+      return;
+    }
+    document.getElementById('hti-container').setAttribute('style','display:block;');
+    htiOn = false;
+  }
+}();
+//htiToggle(); //Set OFF as default    
+document.addEventListener('keydown',function(e) {
+   var key = e.keyCode || e.which;
+   if(key === 81) {
+    htiToggle();
+   }
+}, false);
+</script>

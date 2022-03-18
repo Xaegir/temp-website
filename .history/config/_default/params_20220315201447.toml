@@ -1,0 +1,57 @@
+address = "Dubai, UAE"
+author = ""
+contact_form_action = "#"
+custom_script = ""
+description = "This is meta description"
+email = "admin@xaegir.com"
+favicon = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
+google_analitycs_id = "Your ID"
+image = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
+logo = "images/xaegir-nimbus-sans-quick-01-artboard-1.png"
+mainSections = []
+mobile = ""
+search = false
+[cookies]
+button = "I Accept"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+enable = true
+expire_days = 2
+[gmap]
+enable = true
+gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+map_marker_label = "Agico"
+map_zoom = 17
+[navigation_button]
+enable = true
+label = "Discord"
+link = "https://discord.gg/BFTmyUuC8u"
+[preloader]
+enable = true
+preloader = "images/preloader.gif"
+[subscription]
+enable = false
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[[selectedsocial]]
+icon = "fab fa-twitter"
+link = "https://twitter.com/xaegir_"
+title = "twitter"
+[[selectedsocial]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/xaegir_"
+title = "instagram"
+[[social]]
+icon = "fab fa-discord"
+link = "https://discord.gg/BFTmyUuC8u"
+title = ""
+[[social]]
+icon = "fab fa-twitter"
+link = "https://twitter.com/xaegir_"
+title = "twitter"
+[[social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/xaegir_/"
+title = "instagram"

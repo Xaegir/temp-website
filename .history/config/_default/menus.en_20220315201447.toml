@@ -1,0 +1,33 @@
+[[footer]]
+URL = "about"
+name = "Careers"
+[[footer]]
+URL = "about"
+name = "Insights"
+[[footer]]
+URL = "service"
+name = "Roadmap"
+[[footer]]
+URL = "contact"
+name = "Contact us"
+[[main]]
+URL = "aevetar"
+name = "Aevetar"
+weight = "3"
+[[main]]
+URL = "roadmap"
+name = "Roadmap"
+weight = 2
+[[main]]
+URL = "insights"
+name = "Insights"
+weight = 4
+[[main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[main]]
+URL = "career"
+hasChildren = true
+name = "Careers"
+weight = 6

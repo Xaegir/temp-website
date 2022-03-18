@@ -1,0 +1,370 @@
+{{ define "main" }}
+
+{{"<!-- roadmap xaegir -->" | safeHTML }}
+{{/*  {{ partial "modals.html" . }}  */}}
+{{ with .Params.roadmap }}
+{{ if .enable }}
+<section class="section roadmap">
+  <div class="lg:px-8 pt-24 lg:pt-0 min-h-screen md:px-5 relative">
+    <div class="max-w-11xl mx-auto pb-24">
+      <div class="main lg:block hidden">
+        <div class="" style="position: relative; width: 100%; height: 100%; overflow: auto">
+        {{/*  height: 614px;  */}}
+        <div
+        style="
+        display: flex;
+            flex-flow: column wrap;
+            justify-content: flex-start;
+            align-items: stretch;
+            position: relative;
+            height: 2000px;
+            overflow: hidden;
+            min-height: 100%;
+          ">
+          {{ range .roadmap_item }}
+          {{ if .item_enable }}
+          {{/*  position: absolute;  */}}
+          {{/*  width: {{ .width }};  */}}
+          {{/*  height: {{ .height }};  */}}
+          
+          <div 
+          style="
+                flex: {{ .growValue }} 0 {{ .height }};
+                will-change: transform, width, height, opacity;
+                opacity: 1;
+                padding: 5px;
+                height: {{ .height }}
+                z-index: {{ .zindex }};
+                transform: translate3d({{ .transformX }}, {{ .transformY }}, {{ .transformZ }});
+                ">
+            <a href="#roadmapModal{{ .modalID }}" class="roadmap-box roadmap-link" data-toggle="modal">
+            <div
+              class="bg-olive text-black cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-40 font-sans text-6xl -ml-1 font-700 pb-1 pr-10">
+                  {{ .progress }} - {{ .date }}
+                </p>
+                <p class="uppercase opacity-40 font-sans text-6xl -ml-1 font-700 pb-1 pr-10">
+                  {{ .name }} 
+                </p>
+                
+                <p class="
+                flex
+                items-center
+                uppercase
+                text-sm
+                tracking-wide
+                font-sans
+                font-500
+                fade-in"
+                >
+                {{ .feature }}
+                <span class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-{{ .transformW }} right-{{ .transformRight }} bottom-{{ .transformBottom }}"
+                  src="{{ .roadmap_bg_image | absURL }}"
+                />
+              </div>
+            </div>
+          </a>
+          </div>
+
+          {{ end }}
+          {{ end }}
+          
+          <!-- <div style="
+              position: absolute;
+              will-change: transform, width, height, opacity;
+              opacity: 1;
+              width: 284px;
+              height: 224px;
+              z-index: 1;
+              transform: translate3d(296px, 6px, 0px);
+            ">
+            <div
+              class="bg-olive text-black cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-10 font-sans text-6xl -ml-1 font-700 pb-1">
+                  03
+                </p>
+                <p class="flex items-center uppercase text-sm tracking-wide font-sans font-500 fade-in">
+                  Metaverse<span
+                    class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-64 -right-4 -bottom-6"
+                  src="/map/meta3.png" />
+              </div>
+            </div>
+          </div>
+          <div style="
+              position: absolute;
+              will-change: transform, width, height, opacity;
+              opacity: 1;
+              width: 284px;
+              height: 360px;
+              z-index: 2;
+              transform: translate3d(585px, 6px, 0px);
+            ">
+            <div
+              class="bg-olive text-black cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-10 font-sans text-6xl -ml-1 font-700 pb-1">
+                  05
+                </p>
+                <p class="flex items-center uppercase text-sm tracking-wide font-sans font-500 fade-in">
+                  Bridge Between<span
+                    class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img
+                  class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-72 -right-24 -bottom-10"
+                  src="/map/bridge.png" />
+              </div>
+            </div>
+          </div>
+          <div style="
+              position: absolute;
+              will-change: transform, width, height, opacity;
+              opacity: 1;
+              width: 284px;
+              height: 360px;
+              z-index: 3;
+              transform: translate3d(875px, 6px, 0px);
+            ">
+            <div
+              class="bg-olive text-black cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-10 font-sans text-6xl -ml-1 font-700 pb-1">
+                  06
+                </p>
+                <p class="flex items-center uppercase text-sm tracking-wide font-sans font-500 fade-in">
+                  Seedlings<span
+                    class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-56 right-2 bottom-4"
+                  src="/map/seedlings.png" />
+              </div>
+            </div>
+          </div>
+          <div style="
+              position: absolute;
+              will-change: transform, width, height, opacity;
+              opacity: 1;
+              width: 284px;
+              height: 236px;
+              z-index: 4;
+              transform: translate3d(6px, 372px, 0px);
+            ">
+            <div
+              class="bg-olive text-black cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-10 font-sans text-6xl -ml-1 font-700 pb-1">
+                  02
+                </p>
+                <p class="flex items-center uppercase text-sm tracking-wide font-sans font-500 fade-in">
+                  Community<span
+                    class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-64 -right-8 -bottom-8"
+                  src="/map/community.png" />
+              </div>
+            </div>
+          </div>
+          <div style="
+              position: absolute;
+              will-change: transform, width, height, opacity;
+              opacity: 1;
+              width: 284px;
+              height: 372px;
+              z-index: 5;
+              transform: translate3d(296px, 236px, 0px);
+            ">
+            <div
+              class="bg-olive text-black cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-10 font-sans text-6xl -ml-1 font-700 pb-1">
+                  04
+                </p>
+                <p class="flex items-center uppercase text-sm tracking-wide font-sans font-500 fade-in">
+                  Physical World<span
+                    class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-72 -right-6 -bottom-6"
+                  src="/map/shirts.png" />
+              </div>
+            </div>
+          </div>
+          <div style="
+              position: absolute;
+              will-change: transform, width, height, opacity;
+              opacity: 1;
+              width: 573px;
+              height: 236px;
+              z-index: 6;
+              transform: translate3d(585px, 372px, 0px);
+            ">
+            <div
+              class="bg-azukired text-white cursorplus h-full overflow-hidden duration-100 hover:shadow-lg hover:shadow-none"
+              style="cursor: pointer">
+              <div class="button-container flex group h-full flex-col justify-end p-6"
+                style="will-change: opacity, transform; opacity: 1">
+                <p class="uppercase opacity-10 font-sans text-6xl -ml-1 font-700 pb-1">
+                  07
+                </p>
+                <p class="flex items-center uppercase text-sm tracking-wide font-sans font-500 fade-in">
+                  Connect Your Mind<span
+                    class="text-lg transform -translate-y-0.5 opacity-0 group-hover:opacity-100 pl-2 group-hover:translate-x-1 duration-300 translate-x-0">→</span>
+                </p>
+                <img class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-36 right-10 bottom-0"
+                  src="/map/brainwhite.png" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+    </div>
+    </div>
+</div>
+</section>
+{{/*  {{ end }}  */}}
+{{/*  {{ end }}  */}}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 pr-lg-4 mb-4 mb-md-0">
+        <div class="position-relative" data-aos="fade-right">
+          <img src="{{ .video_bg_image | absURL }}" class="img-fluid rounded-sm" alt="videoThumbBg" />
+          {{ if and .video_thumbnail }}
+          <div class="floating-video {{ if .video_link }}overlay{{end}} rounded-sm">
+            <img src="{{ .video_thumbnail | absURL }}" class="img-fluid rounded-sm" alt="video-thumb" />
+            {{ if .video_link }}
+            <a class="venobox play-icon icon-center" data-autoplay="true" data-vbtype="video" href="{{ .video_link }}">
+              <i class="fa fa-play text-secondary bg-white rounded-circle"></i>
+            </a>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      <div class="col-md-6 align-self-center pl-lg-4">
+        <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="200">
+          {{ .title }}
+        </h2>
+        <p data-aos="fade-up" data-aos-delay="400">
+          {{ .content | markdownify }}
+        </p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a class="btn btn-primary" href="{{ .link | absLangURL }}" data-aos="fade-up" data-aos-delay="600">
+          {{ .label }}
+        </a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- roadmap xaegir -->" | safeHTML }}
+{{"<!-- counter -->"| safeHTML }}
+{{ with .Params.funfacts }}
+{{ if .enable }}
+<section class="bg-light py-5">
+  <div class="container">
+    <div class="row">
+      {{ range .funfact_item }}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0 text-center">
+        <p class="h2 font-weight-light text-dark">
+          <span class="counter" data-count="{{ .count }}">0</span>+
+        </p>
+        <h6 class="text-dark font-weight-normal">{{ .name }}</h6>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- counter -->" | safeHTML }}
+{{ if .Params.service.enable }}
+{{ with site.GetPage (string .Params.service.section)}}
+{{ partial "services.html" . }}
+<div class="section pt-0"></div>
+{{ end }}
+{{else}}
+<div class="section-lg-bottom"></div>
+{{ end }}
+{{ end }}
+{{ "<!-- Roadmap Modals -->" | safeHTML }}
+{{ with .Site.Sections "roadmap"}}
+{{ range .RegularPages }}
+{{/*  {{ range .Site.Data.roadmap}}  */}}
+{{ printf "%#v" . }}
+{{/*  {{ range where .RegularPagesRecursive "Section" "roadmap" }}  */}}
+{{/*  {{ .Content }}  */}}
+<div class="roadmap-modal modal fade" id="roadmapModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        {{ with .title }}
+                            <h2>{{ . }}</h2>
+                        {{ end }}
+                        {{ if and .title .description }}
+                            <hr class="star-primary">
+                        {{ end }}
+                        <img src="img/roadmap/{{ .img }}" class="img-responsive img-centered" alt="">
+                        {{ with .description }}
+                            <p>{{ . | markdownify }}</p>
+                        {{ end }}
+                        {{ if or .client .date .category }}
+                            <ul class="list-inline item-details">
+                                {{ if .client }}
+                                    <li>{{ with $.Site.Params.portfolio.modal.client }}{{.}}: {{ end }}
+                                        <strong><a href="{{ with .clientLink }}{{ . }}{{ else }}#{{ end }}">{{ .client }}</a></strong>
+                                    </li>
+                                {{ end }}
+                                {{ if .date }}
+                                    <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}: {{ end }}
+                                        <strong><a href="#">{{ .date }}</a></strong>
+                                    </li>
+                                {{ end }}
+                                {{ if .category }}
+                                    <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}: {{ end }}
+                                        <strong><a href="#">{{ .category }}</a></strong>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        {{ end }}
+                        {{ with $.Site.Params.portfolio.modal.buttonText }}
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>{{.}}</button>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
+{{ end }}
+{{ "<!-- Roadmap Modals -->" | safeHTML }}
