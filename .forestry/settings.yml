@@ -28,7 +28,7 @@ sections:
   path: content/english
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: document
