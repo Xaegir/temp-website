@@ -6,7 +6,7 @@ banner:
   watermark: XAEGIR
   content: The virtual space where artists, developers and enthusiasts come together
     and create.
-  image: images/bannerimage.png
+  image: images/banner-1.png
   button:
     enable: true
     label: Join Us
