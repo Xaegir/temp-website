@@ -21,6 +21,10 @@ sections:
   label: Insights
   create: all
   match: "*"
+- type: document
+  path: content/_default/roadmap/**/*
+  label: Roadmap
+  match: "**/*"
 - type: directory
   path: content/english
   label: Pages
