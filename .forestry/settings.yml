@@ -9,6 +9,11 @@ sections:
 - type: document
   path: xaegir/i18n/en.yaml
   label: i18n
+- type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
