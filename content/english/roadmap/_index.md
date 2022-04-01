@@ -28,8 +28,8 @@ roadmap:
     transformBottom: "4"
     growValue: "3"
     modalID: "1"
-  - name: Milestone#2
-    item_enable: true
+  - name: 2. Community Development
+    item_enable: false
     date: Date
     feature: feature description
     progress: XX%
