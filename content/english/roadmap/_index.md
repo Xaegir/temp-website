@@ -2,8 +2,8 @@
 title: Roadmap
 watermark: Roadmap
 page_header_image: images/background/roadmap.jpg
-description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-  idest laborum sed ut perspiciatis.
+description: Here you can find out exactly what we're working on, what's next and
+  what we have planned for the future.
 layout: roadmap
 roadmap:
   enable: true
@@ -11,7 +11,6 @@ roadmap:
   subtitle: subtitle
   description: description
   roadmap_item:
-  # first item
   - name: Milestone#1
     item_enable: true
     date: Date
@@ -28,8 +27,7 @@ roadmap:
     transformRight: "4"
     transformBottom: "4"
     growValue: "3"
-    modalID: 1
-  # second item
+    modalID: "1"
   - name: Milestone#2
     item_enable: true
     date: Date
@@ -46,8 +44,7 @@ roadmap:
     transformRight: "24"
     transformBottom: "14"
     growValue: "3"
-    modalID: 2
-  # third item
+    modalID: "2"
   - name: Milestone#3
     item_enable: true
     date: Date
@@ -64,8 +61,7 @@ roadmap:
     transformRight: "4"
     transformBottom: "0"
     growValue: "2"
-    modalID: 3
-    # fourth item
+    modalID: "3"
   - name: Milestone#4
     item_enable: true
     date: Date
@@ -82,8 +78,7 @@ roadmap:
     transformRight: "2"
     transformBottom: "16"
     growValue: "1"
-    modalID: 4
-    # fifth item
+    modalID: "4"
   - name: Milestone#5
     item_enable: true
     date: Date
@@ -100,8 +95,7 @@ roadmap:
     transformRight: "24"
     transformBottom: "24"
     growValue: "1"
-    modalID: 5
-    # sixth item
+    modalID: "5"
   - name: Milestone#6
     item_enable: true
     date: Date
@@ -118,8 +112,7 @@ roadmap:
     transformRight: "6"
     transformBottom: "6"
     growValue: "3"
-    modalID: 6
-    # seventh item
+    modalID: "6"
   - name: Milestone#7
     item_enable: true
     date: Date
@@ -136,7 +129,7 @@ roadmap:
     transformRight: "10"
     transformBottom: "4"
     growValue: "1"
-    modalID: 7
+    modalID: "7"
 video:
   enable: true
   video_bg_image: images/video/roadmap-1.jpg
