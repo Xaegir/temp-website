@@ -50,7 +50,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_3.jpg
+    roadmap_bg_image: ''
     width: 460px
     height: 160px
     zindex: "3"
@@ -67,7 +67,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_4.jpg
+    roadmap_bg_image: ''
     width: 256px
     height: 460px
     zindex: "4"
