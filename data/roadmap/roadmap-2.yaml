@@ -1,4 +1,5 @@
-modalID: 2
+---
+modalID: "2"
 title: title
 category: category
 date: 2014-07-05
@@ -11,25 +12,35 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  description: NFT Project - This is where the fun begins. Our flagship product, Aevatar
+    consists of highly customizable and composable avatars that grant owners the ability
+    to modify, upgrade, swap and evolve over time. Aevatar will have both deflationary
+    and inflationary properties with natural burn methodology that can be used interoperability
+    within the Metaverse
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
 - name: initiative#4
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
