@@ -27,7 +27,7 @@ name = "Insights"
 weight = 4
 [[main]]
 URL = "contact"
-name = "Contact"
+name = "Connect"
 weight = 5
 [[main]]
 URL = "career"
