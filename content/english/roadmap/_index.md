@@ -1,9 +1,9 @@
 ---
-title: Roadmap
-watermark: Roadmap
+title: The Journey
+watermark: The Journey
 page_header_image: images/background/roadmap.jpg
-description: Here you can find out exactly what we're working on, what's next and
-  what we have planned for the future.
+description: Here you can find our Roadmap and a detailed look into exactly what we're
+  working on, what's next and what we have planned for the future.
 layout: roadmap
 roadmap:
   enable: true
