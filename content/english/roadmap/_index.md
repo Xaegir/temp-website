@@ -46,7 +46,7 @@ roadmap:
     growValue: "3"
     modalID: "2"
   - name: 3. NFT Marketplace
-    item_enable: false
+    item_enable: true
     date: Date
     feature: feature description
     progress: XX%
