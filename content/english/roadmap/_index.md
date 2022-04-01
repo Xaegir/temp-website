@@ -62,7 +62,7 @@ roadmap:
     transformBottom: "0"
     growValue: "2"
     modalID: "3"
-  - name: Milestone#4
+  - name: 4. Outreach & Expansion
     item_enable: true
     date: Date
     feature: feature description
