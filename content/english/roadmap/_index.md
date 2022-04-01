@@ -79,7 +79,7 @@ roadmap:
     transformBottom: "16"
     growValue: "1"
     modalID: "4"
-  - name: Milestone#5
+  - name: 5. Aevatar
     item_enable: true
     date: Date
     feature: feature description
