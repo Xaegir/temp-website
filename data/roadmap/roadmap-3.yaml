@@ -32,9 +32,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Community Spaces - Here at XAEGIR, we have a place for everyone. From
+    casual hangouts to developers' meetings - our goal is to grow the roots of our
+    company as deep as they can go to ensure a solid foundation to build our future.
+    Forums and Q&A’s are hosted on all of our platforms
 - name: initiative#4
   enable: true
   initiative: Web
