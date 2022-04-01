@@ -36,7 +36,7 @@ feature:
 about:
   enable: true
   about_item:
-  - image: images/about/about-1.png
+  - image: images/about-1.png
     subtitle: Roadmap
     title: We Are Currently Working On Several Projects
     content: We have plans to work on an extensive range of products and services,
