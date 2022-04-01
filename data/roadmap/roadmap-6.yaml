@@ -32,9 +32,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Investment -  True innovation takes capital and while we strive to
+    maintain a financially sustainable business model - we’d like to fast-track growth.
+    We are sending out a message to all investors and companies looking to partner
+    with a transparent, determined and innovative founder team.
 - name: initiative#4
   enable: true
   initiative: Web
