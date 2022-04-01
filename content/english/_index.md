@@ -46,7 +46,7 @@ about:
       enable: true
       label: Roadmap
       link: about
-  - image: images/about/about-2.png
+  - image: images/about-2.png
     subtitle: Insights
     title: Keep Up With The Latest Web 3.0 Developments
     content: There is a lot of uncertainty and scepticism associated with Web3 at
