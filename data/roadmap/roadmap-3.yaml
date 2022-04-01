@@ -12,10 +12,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: 'Moderation - We want our community to be a safe and comfortable space
-    where our users can exchange ideas and interact freely. Our mods take daily calls,
-    work set hours and ensure that every voice is heard. We believe professional and
-    friendly moderation ensures a happy community. '
+  description: Artist Curation - While we do have an extremely talented and all-star
+    creative team, we are looking for the very best of the rest to populate our marketplace.
+    We have our sights set on becoming one of the largest NFT Marketplaces on the
+    planet and rely on quality creators and an active user base to make that happen.
 - name: initiative#2
   enable: true
   initiative: Web
