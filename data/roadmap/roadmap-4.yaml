@@ -12,10 +12,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Artist Curation - While we do have an extremely talented and all-star
-    creative team, we are looking for the very best of the rest to populate our marketplace.
-    We have our sights set on becoming one of the largest NFT Marketplaces on the
-    planet and rely on quality creators and an active user base to make that happen.
+  description: Recruitment - Many hands make light work and good minds make great
+    time. XAEGIR is constantly on the lookout for talented individuals in the industry
+    who are looking to join a supportive enthusiastic team and ready to change the
+    world.
 - name: initiative#2
   enable: true
   initiative: Web
