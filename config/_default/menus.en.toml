@@ -2,11 +2,11 @@
 URL = "about"
 name = "The Journey"
 [[footer]]
-URL = "insights"
-name = "Insights"
-[[footer]]
 URL = "service"
 name = "Aevatar"
+[[footer]]
+URL = "insights"
+name = "Insights"
 [[footer]]
 URL = "contact"
 name = "Connect"
