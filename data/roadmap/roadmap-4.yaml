@@ -22,11 +22,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Validation & Quality assurance - It's no secret that Web3 is crawling
-    with copycats and serial scammers and we aim to combat this with a community validation
-    program. Members of our user base will be incentivized to vet new listings and
-    artists who mint on our platform while we reinforce policies to minimize negative
-    experiences. We do our best to ensure a stress-free environment.
+  description: Collaboration - Web3 is brimming with startups, enthusiasts and icons
+    that are changing the game and the ways we think of the space. We aim to partner
+    with these entities and expand our network throughout the industry through genuine
+    connections and shared experiences.
 - name: initiative#3
   enable: true
   initiative: Web
