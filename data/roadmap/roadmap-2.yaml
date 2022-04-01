@@ -12,11 +12,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: NFT Project - This is where the fun begins. Our flagship product, Aevatar
-    consists of highly customizable and composable avatars that grant owners the ability
-    to modify, upgrade, swap and evolve over time. Aevatar will have both deflationary
-    and inflationary properties with natural burn methodology that can be used interoperability
-    within the Metaverse
+  description: 'Moderation - We want our community to be a safe and comfortable space
+    where our users can exchange ideas and interact freely. Our mods take daily calls,
+    work set hours and ensure that every voice is heard. We believe professional and
+    friendly moderation ensures a happy community. '
 - name: initiative#2
   enable: true
   initiative: Web
