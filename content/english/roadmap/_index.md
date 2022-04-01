@@ -11,11 +11,11 @@ roadmap:
   subtitle: subtitle
   description: description
   roadmap_item:
-  - name: Milestone#1
-    item_enable: true
+  - name: 1. Our Vision
+    item_enable: false
     date: Date
     feature: feature description
-    progress: XX%
+    progress: ''
     roadmap_bg_image: images/roadmap/roadmap_item_1.jpg
     width: 556px
     height: 160px
