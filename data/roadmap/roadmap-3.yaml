@@ -1,4 +1,5 @@
-modalID: 3
+---
+modalID: "3"
 title: title
 category: category
 date: 2014-07-05
@@ -11,25 +12,34 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  description: 'Moderation - We want our community to be a safe and comfortable space
+    where our users can exchange ideas and interact freely. Our mods take daily calls,
+    work set hours and ensure that every voice is heard. We believe professional and
+    friendly moderation ensures a happy community. '
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
 - name: initiative#4
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
