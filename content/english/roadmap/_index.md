@@ -29,7 +29,7 @@ roadmap:
     growValue: "3"
     modalID: "1"
   - name: 2. Community Development
-    item_enable: false
+    item_enable: true
     date: Date
     feature: feature description
     progress: XX%
