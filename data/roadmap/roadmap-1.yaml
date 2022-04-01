@@ -1,7 +1,8 @@
-modalID: 1
+---
+modalID: "1"
 title: title
 category: category
-date: 2014-07-05
+date: 2014-07-04T21:00:00+00:00
 img: roadmap_item_1.jpg
 description: description
 initiatives:
@@ -10,26 +11,36 @@ initiatives:
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  status: Complete
+  description: We are the nomads of the internet - Our team comes from all walks of
+    life and believes that diversity is the cornerstone of growth. We exist to bring
+    dreamers, creators, and gamers together to unlock the potential of a 9-world,
+    interconnected digital biosphere connected to the metaverse. We’re here to revolutionize
+    the Web3 space with innovative groundbreaking projects.
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
 - name: initiative#4
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
