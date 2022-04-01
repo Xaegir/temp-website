@@ -118,7 +118,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_7.jpg
+    roadmap_bg_image: ''
     width: 573px
     height: 236px
     zindex: "7"
