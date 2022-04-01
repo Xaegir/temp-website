@@ -22,9 +22,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Growth - Our Social & Community Management teams are constantly looking
+    for effective ways to develop our content and optimize our reach. We want the
+    word XAEGIR to reach every corner of Web3 and we won’t stop until we’ve reached
+    this goal.
 - name: initiative#3
   enable: true
   initiative: Web
