@@ -1,18 +1,18 @@
 [[footer]]
-URL = "about"
-name = "The Journey"
-[[footer]]
-URL = "service"
-name = "Aevatar"
-[[footer]]
-URL = "insights"
-name = "Insights"
+URL = "career"
+name = "Careers"
 [[footer]]
 URL = "contact"
 name = "Connect"
 [[footer]]
-URL = "career"
-name = "Careers"
+URL = "insights"
+name = "Insights"
+[[footer]]
+URL = "service"
+name = "Aevatar"
+[[footer]]
+URL = "about"
+name = "The Journey"
 [[main]]
 URL = "aevetar"
 name = "Aevetar"
