@@ -45,8 +45,8 @@ roadmap:
     transformBottom: "14"
     growValue: "3"
     modalID: "2"
-  - name: Milestone#3
-    item_enable: true
+  - name: 3. NFT Marketplace
+    item_enable: false
     date: Date
     feature: feature description
     progress: XX%
