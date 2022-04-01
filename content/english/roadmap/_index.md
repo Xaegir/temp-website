@@ -113,7 +113,7 @@ roadmap:
     transformBottom: "6"
     growValue: "3"
     modalID: "6"
-  - name: Milestone#7
+  - name: 7. Token
     item_enable: true
     date: Date
     feature: feature description
