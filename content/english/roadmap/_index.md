@@ -96,7 +96,7 @@ roadmap:
     transformBottom: "24"
     growValue: "1"
     modalID: "5"
-  - name: Milestone#6
+  - name: 6. Realms
     item_enable: true
     date: Date
     feature: feature description
