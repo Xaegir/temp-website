@@ -33,17 +33,7 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Community Spaces - Here at XAEGIR, we have a place for everyone. From
-    casual hangouts to developers' meetings - our goal is to grow the roots of our
-    company as deep as they can go to ensure a solid foundation to build our future.
-    Forums and Q&A’s are hosted on all of our platforms
-- name: initiative#4
-  enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  description: Connect - The XAEGIR website, Discord server and social platforms are
-    all different ways for the user to get involved in the exciting things we are
-    doing here. Stay up to date with our latest developments and activities through
-    flawless user experience and ease of access.
+  description: User Experience - The user is our priority and what kind of philosophy
+    would that be if we didn’t care about your experience with our platforms. XAEGIR
+    has spent vast amounts of resources, time and energy to ensure the very best designers,
+    developers and programmers deliver a seamless and innovative user experience.
