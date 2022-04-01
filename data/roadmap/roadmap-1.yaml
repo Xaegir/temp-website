@@ -38,12 +38,13 @@ initiatives:
     easy to get lost in the ocean of hype surrounding the space. We’re here to make
     sure that everything we do is cutting edge, maintains long term value and pushes
     the limits on what it means to be a Web3 company. '
-- enable: ''
+- enable: true
   initiative: ''
   initiativeLink: ''
-  subtitle: ''
+  subtitle: subtitle
   status: Complete
   description: Enjoy the journey - We are involved in every aspect of Web3 and as
     a product of this, we are extremely busy. While it's great to know where we’re
     headed, it’s important that we take a moment to enjoy the process. Great things
     don’t happen overnight.
+  name: I
