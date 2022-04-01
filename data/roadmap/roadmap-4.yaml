@@ -33,15 +33,7 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
-- name: initiative#4
-  enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: User Experience - The user is our priority and what kind of philosophy
+    would that be if we didn’t care about your experience with our platforms. XAEGIR
+    has spent vast amounts of resources, time and energy to ensure the very best designers,
+    developers and programmers deliver a seamless and innovative user experience.
