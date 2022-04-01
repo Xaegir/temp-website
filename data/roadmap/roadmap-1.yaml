@@ -33,16 +33,8 @@ initiatives:
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
-- name: initiative#4
-  enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  status: Complete
+  description: 'Innovation only - It’s hard not to follow the trends in Web3 and it’s
+    easy to get lost in the ocean of hype surrounding the space. We’re here to make
+    sure that everything we do is cutting edge, maintains long term value and pushes
+    the limits on what it means to be a Web3 company. '
