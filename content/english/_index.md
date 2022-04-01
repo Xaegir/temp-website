@@ -25,7 +25,7 @@ feature:
   title: Current Projects
   feature_item:
   - name: Free Trial
-    image: images/feature/feature-1.png
+    image: images/feature-1.png
     content: Community Development
   - name: No Setup
     image: images/feature/feature-2.png
