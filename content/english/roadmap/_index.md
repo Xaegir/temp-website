@@ -12,7 +12,7 @@ roadmap:
   description: description
   roadmap_item:
   - name: 1. Our Vision
-    item_enable: false
+    item_enable: true
     date: Date
     feature: feature description
     progress: ''
