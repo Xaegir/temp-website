@@ -22,10 +22,11 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Growth - Our Social & Community Management teams are constantly looking
-    for effective ways to develop our content and optimize our reach. We want the
-    word XAEGIR to reach every corner of Web3 and we won’t stop until we’ve reached
-    this goal.
+  description: Validation & Quality assurance - It's no secret that Web3 is crawling
+    with copycats and serial scammers and we aim to combat this with a community validation
+    program. Members of our user base will be incentivized to vet new listings and
+    artists who mint on our platform while we reinforce policies to minimize negative
+    experiences. We do our best to ensure a stress-free environment.
 - name: initiative#3
   enable: true
   initiative: Web
