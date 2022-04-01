@@ -23,9 +23,10 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Xero - This consists of aesthetic and gaming item components for your
+    Aevetar. This includes further customization, weaponry, vanity items and much
+    more. We can’t wait to find out what other features our amazing community will
+    inpsire.
 - name: initiative#3
   enable: true
   initiative: Web
