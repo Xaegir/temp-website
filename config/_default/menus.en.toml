@@ -6,7 +6,7 @@ URL = "insights"
 name = "Insights"
 [[footer]]
 URL = "service"
-name = "Services"
+name = "Aevatar"
 [[footer]]
 URL = "contact"
 name = "Connect"
