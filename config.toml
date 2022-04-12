@@ -30,7 +30,7 @@ link = "plugins/aos/aos.js"
 [params.variables]
 bg_gradient_primary = "linear-gradient(134deg, #00a4db 0%, #00269e 100%)"
 bg_gradient_secondary = "linear-gradient( 80deg, rgb(0,48,204) 0%, rgb(0,164,219) 100%)"
-bg_secondary = "#15192b"
+bg_secondary = "#000000"
 black = "#000"
 border_color = "#2d3041"
 btn_gradient_primary = "linear-gradient(45deg, rgb(0, 168, 244) 0%, rgb(2, 209, 161) 100%)"
