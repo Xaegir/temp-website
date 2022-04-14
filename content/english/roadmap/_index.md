@@ -67,7 +67,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/outreach.png
     width: 256px
     height: 460px
     zindex: "4"
