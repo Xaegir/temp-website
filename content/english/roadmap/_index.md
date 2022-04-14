@@ -115,9 +115,9 @@ roadmap:
     modalID: "6"
   - name: 7. Token
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
+    date: ''
+    feature: ''
+    progress: ''
     roadmap_bg_image: images/token.png
     width: 573px
     height: 236px
