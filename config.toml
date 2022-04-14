@@ -29,7 +29,7 @@ link = "plugins/search/search.js"
 link = "plugins/aos/aos.js"
 [params.variables]
 bg_gradient_primary = "linear-gradient(134deg,#000000 80%,#ffffff 20%)"
-bg_gradient_secondary = "linear-gradient( 80deg,#000000 30%,#ffffff  70%)"
+bg_gradient_secondary = "linear-gradient( 80deg,#000000 90%,#ffffff 10%)"
 bg_secondary = "#000000"
 black = "#000"
 border_color = "#000000"
