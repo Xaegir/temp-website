@@ -35,17 +35,17 @@ title = "Exclusives"
 [[feature.feature_item]]
 content = "Unlock exclusive channels on our Discord server"
 icon = "fas fa-desktop"
-icon_color = "primary"
+icon_color = "#40e0d0"
 title = "Membership"
 [[feature.feature_item]]
 content = "Gain access to our Metaverse and integrate your Aevetar"
 icon = "fas fa-cogs"
-icon_color = "primary"
+icon_color = "#292929"
 title = "XAEGIR Realms"
 [[feature.feature_item]]
 content = "Earn discounts, giveaways and other exclusive features "
 icon = "fas fa-shield-alt"
-icon_color = "primary"
+icon_color = "#40e0d0"
 title = "Offerings"
 
 +++
