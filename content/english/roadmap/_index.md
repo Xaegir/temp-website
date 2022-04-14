@@ -13,10 +13,10 @@ roadmap:
   roadmap_item:
   - name: 1. Our Vision
     item_enable: true
-    date: Date
-    feature: feature description
+    date: ''
+    feature: ''
     progress: ''
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/vision.png
     width: 556px
     height: 160px
     zindex: "1"
@@ -30,10 +30,10 @@ roadmap:
     modalID: "1"
   - name: 2. Community Development
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
-    roadmap_bg_image: ''
+    date: ''
+    feature: ''
+    progress: ''
+    roadmap_bg_image: images/community.png
     width: 556px
     height: 360px
     zindex: "2"
@@ -47,10 +47,10 @@ roadmap:
     modalID: "2"
   - name: 3. NFT Marketplace
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
-    roadmap_bg_image: ''
+    date: ''
+    feature: ''
+    progress: ''
+    roadmap_bg_image: images/market.png
     width: 460px
     height: 160px
     zindex: "3"
@@ -64,10 +64,10 @@ roadmap:
     modalID: "3"
   - name: 4. Outreach & Expansion
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
-    roadmap_bg_image: ''
+    date: ''
+    feature: ''
+    progress: ''
+    roadmap_bg_image: images/outreach.png
     width: 256px
     height: 460px
     zindex: "4"
@@ -81,10 +81,10 @@ roadmap:
     modalID: "4"
   - name: 5. Aevatar
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
-    roadmap_bg_image: ''
+    date: ''
+    feature: ''
+    progress: ''
+    roadmap_bg_image: images/aevatar.png
     width: 284px
     height: 836px
     zindex: "5"
@@ -98,10 +98,10 @@ roadmap:
     modalID: "5"
   - name: 6. Realms
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
-    roadmap_bg_image: ''
+    date: ''
+    feature: ''
+    progress: ''
+    roadmap_bg_image: images/realms.png
     width: 284px
     height: 260px
     zindex: "6"
@@ -115,10 +115,10 @@ roadmap:
     modalID: "6"
   - name: 7. Token
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
-    roadmap_bg_image: ''
+    date: ''
+    feature: ''
+    progress: ''
+    roadmap_bg_image: images/token.png
     width: 573px
     height: 236px
     zindex: "7"

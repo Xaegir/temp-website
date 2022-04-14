@@ -45,7 +45,7 @@ about:
     button:
       enable: true
       label: Roadmap
-      link: about
+      link: roadmap
   - image: images/about-2.png
     subtitle: Insights
     title: Keep Up With The Latest Web 3.0 Developments
@@ -56,7 +56,7 @@ about:
     button:
       enable: true
       label: Insights
-      link: about
+      link: insights
 promo_video:
   enable: true
   video_thumbnail: images/check-video.png
