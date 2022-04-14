@@ -31,7 +31,7 @@ roadmap:
   - name: 2. Community Development
     item_enable: true
     date: ''
-    feature: feature description
+    feature: ''
     progress: ''
     roadmap_bg_image: images/community.png
     width: 556px
