@@ -82,7 +82,7 @@ roadmap:
   - name: 5. Aevetar
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/aevetar.png
     width: 350px
@@ -99,7 +99,7 @@ roadmap:
   - name: 6. Realms
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/realms.png
     width: 284px
