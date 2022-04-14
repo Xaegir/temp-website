@@ -31,7 +31,7 @@ roadmap:
   - name: 2. Community Development
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/community.png
     width: 556px
@@ -48,7 +48,7 @@ roadmap:
   - name: 3. NFT Marketplace
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/market.png
     width: 460px
@@ -65,7 +65,7 @@ roadmap:
   - name: 4. Outreach & Expansion
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/outreach.png
     width: 256px
