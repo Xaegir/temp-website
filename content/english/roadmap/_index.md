@@ -98,9 +98,9 @@ roadmap:
     modalID: "5"
   - name: 6. Realms
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
+    date: ''
+    feature: ''
+    progress: ''
     roadmap_bg_image: images/realms.png
     width: 284px
     height: 260px
