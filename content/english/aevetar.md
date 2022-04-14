@@ -11,22 +11,22 @@ title = "Features"
 [[aevetar.aevetar_item]]
 content = "Upgrade, modify, and swap components of your Aevetar to your personal preference"
 icon = "far fa-object-ungroup"
-icon_color = "primary"
+icon_color = "#40e0d0"
 title = "Customizability"
 [[aevetar.aevetar_item]]
 content = "Have a say in what new Aevetar features or attributes will be released in the future "
 icon = "fas fa-users"
-icon_color = "yellow"
+icon_color = "turquoise"
 title = "Partnership"
 [[aevetar.aevetar_item]]
 content = "View your Aevetar in our online public gallery and make use of our 3D view options"
 icon = "fas fa-desktop"
-icon_color = "purple"
+icon_color = "cyan"
 title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
 content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
 icon = "fas fa-cloud"
-icon_color = "cyan"
+icon_color = "turquoise"
 title = "Interoperability"
 [feature]
 enable = true
