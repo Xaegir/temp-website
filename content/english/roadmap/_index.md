@@ -6,7 +6,7 @@ description: Here you can find our Roadmap and a detailed look into exactly what
   working on, what's next and what we have planned for the future.
 layout: roadmap
 roadmap:
-  enable: true
+  enable: false
   title: title
   subtitle: subtitle
   description: description
