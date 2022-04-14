@@ -24,7 +24,7 @@ icon = "fas fa-desktop"
 icon_color = "cyan"
 title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
-content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
+content = "Utilize Aevetars on other platforms through partnerships in virtual land and gaming."
 icon = "fas fa-cloud"
 icon_color = "turquoise"
 title = "Interoperability"
