@@ -81,9 +81,9 @@ roadmap:
     modalID: "4"
   - name: 5. Aevatar
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
+    date: ''
+    feature: ''
+    progress: ''
     roadmap_bg_image: images/aevatar.png
     width: 284px
     height: 836px
