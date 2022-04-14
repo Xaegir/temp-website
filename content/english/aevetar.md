@@ -21,7 +21,7 @@ title = "Partnership"
 [[aevetar.aevetar_item]]
 content = "View your Aevetar in our online public gallery and make use of our 3D view options"
 icon = "fas fa-desktop"
-icon_color = "purple"
+icon_color = "turquoise"
 title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
 content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
