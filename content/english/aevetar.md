@@ -11,7 +11,7 @@ title = "Features"
 [[aevetar.aevetar_item]]
 content = "Upgrade, modify, and swap components of your Aevetar to your personal preference"
 icon = "far fa-object-ungroup"
-icon_color = "primary"
+icon_color = "#40e0d0"
 title = "Customizability"
 [[aevetar.aevetar_item]]
 content = "Have a say in what new Aevetar features or attributes will be released in the future "
