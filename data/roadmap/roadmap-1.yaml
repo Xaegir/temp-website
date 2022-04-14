@@ -1,8 +1,8 @@
 ---
 modalID: "1"
-title: title
+title: Our Vision
 category: category
-date: 2014-07-04T21:00:00+00:00
+date: 2014-07-04T21:00:00.000+00:00
 img: vision.png
 description: description
 initiatives:
