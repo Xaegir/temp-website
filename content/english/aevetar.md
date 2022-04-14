@@ -1,7 +1,7 @@
 +++
 description = "This is the next phase of our NFT project. We are giving the user the ability to customize their NFTs and use them in the metaverse as interoperable and personalised avatars."
 layout = "aevetar"
-page_header_image = "images/aevetar.png"
+page_header_image = "images/aevetar-1.png"
 title = "Aevetar"
 watermark = "Aevetar"
 [aevetar]
