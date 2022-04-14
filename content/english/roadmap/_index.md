@@ -13,7 +13,7 @@ roadmap:
   roadmap_item:
   - name: 1. Our Vision
     item_enable: true
-    date: Date
+    date: ''
     feature: feature description
     progress: ''
     roadmap_bg_image: images/vision.png
