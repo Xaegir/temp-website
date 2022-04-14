@@ -47,9 +47,9 @@ roadmap:
     modalID: "2"
   - name: 3. NFT Marketplace
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
+    date: ''
+    feature: ''
+    progress: ''
     roadmap_bg_image: images/market.png
     width: 460px
     height: 160px
