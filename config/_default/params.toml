@@ -17,7 +17,7 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 enable = true
 expire_days = 2
 [gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
