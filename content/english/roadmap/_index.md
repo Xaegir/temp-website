@@ -131,7 +131,7 @@ roadmap:
     growValue: "1"
     modalID: "7"
 video:
-  enable: true
+  enable: false
   video_bg_image: images/video/roadmap-1.jpg
   video_thumbnail: images/video/roadmap-2.jpg
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
