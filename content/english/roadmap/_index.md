@@ -50,7 +50,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/market.png
     width: 460px
     height: 160px
     zindex: "3"
