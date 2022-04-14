@@ -40,7 +40,7 @@ title = "Membership"
 [[feature.feature_item]]
 content = "Gain access to our Metaverse and integrate your Aevetar"
 icon = "fas fa-cogs"
-icon_color = "#292929"
+icon_color = "cyan"
 title = "XAEGIR Realms"
 [[feature.feature_item]]
 content = "Earn discounts, giveaways and other exclusive features "
