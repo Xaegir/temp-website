@@ -4,7 +4,8 @@ title: Token
 category: category
 date: 2014-07-05
 img: token.png
-description: description
+description: A fungible token created to disperse equity and governance throughout
+  our ecosystem
 initiatives:
 - name: initiative#1
   enable: true
