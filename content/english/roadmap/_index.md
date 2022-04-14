@@ -1,7 +1,7 @@
 ---
 title: The Journey
 watermark: The Journey
-page_header_image: images/background/roadmap.jpg
+page_header_image: images/journey.png
 description: Here you can find our Roadmap and a detailed look into exactly what we're
   working on, what's next and what we have planned for the future.
 layout: roadmap
