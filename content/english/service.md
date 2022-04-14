@@ -59,7 +59,7 @@ feature:
       labore dolore magna.
   - title: Extreme Security
     icon: fas fa-shield-alt
-    icon_color: primary
+    icon_color: cyan
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
 
