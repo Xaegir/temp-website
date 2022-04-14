@@ -64,9 +64,9 @@ roadmap:
     modalID: "3"
   - name: 4. Outreach & Expansion
     item_enable: true
-    date: Date
-    feature: feature description
-    progress: XX%
+    date: ''
+    feature: ''
+    progress: ''
     roadmap_bg_image: images/outreach.png
     width: 256px
     height: 460px
