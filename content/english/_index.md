@@ -56,7 +56,7 @@ about:
     button:
       enable: true
       label: Insights
-      link: about
+      link: insights
 promo_video:
   enable: true
   video_thumbnail: images/check-video.png
