@@ -11,7 +11,7 @@ name = "Insights"
 URL = "aevatar"
 name = "Aevatar"
 [[footer]]
-URL = "about"
+URL = "roadmap"
 name = "The Journey"
 [[main]]
 URL = "aevetar"
