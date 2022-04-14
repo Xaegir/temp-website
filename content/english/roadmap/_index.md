@@ -118,7 +118,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/token.png
     width: 573px
     height: 236px
     zindex: "7"
