@@ -26,7 +26,7 @@ title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
 content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
 icon = "fas fa-cloud"
-icon_color = "cyan"
+icon_color = "turquoise"
 title = "Interoperability"
 [feature]
 enable = true
