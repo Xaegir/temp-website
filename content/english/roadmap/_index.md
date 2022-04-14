@@ -84,7 +84,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/aevatar.png
     width: 284px
     height: 836px
     zindex: "5"
