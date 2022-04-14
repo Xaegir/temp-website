@@ -16,7 +16,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: ''
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/vision.png
     width: 556px
     height: 160px
     zindex: "1"
