@@ -12,7 +12,7 @@ service:
   service_item:
   - title: Networking
     icon: far fa-object-ungroup
-    icon_color: primary
+    icon_color: cyan
     content: Lorem ipsum dolor sit amet consectetur elit sed do
   - title: Social Activity
     icon: fas fa-users
