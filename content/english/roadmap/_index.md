@@ -116,7 +116,7 @@ roadmap:
   - name: 7. Token
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/token.png
     width: 573px
