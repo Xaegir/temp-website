@@ -16,7 +16,7 @@ title = "Customizability"
 [[aevetar.aevetar_item]]
 content = "Have a say in what new Aevetar features or attributes will be released in the future "
 icon = "fas fa-users"
-icon_color = "yellow"
+icon_color = "turquoise"
 title = "Partnership"
 [[aevetar.aevetar_item]]
 content = "View your Aevetar in our online public gallery and make use of our 3D view options"
