@@ -11,7 +11,8 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
+                <img src="images/{{ .img }}" class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-104 right-0 bottom-4" alt="">
+                <div class="col-lg-9">
                     <div class="modal-body">
                         {{ with .title }}
                             <h2>{{ . }}</h2>
@@ -27,23 +28,28 @@
                         {{ if or .initiative .status .description }}
                         <ul class="list-inline item-details">
                             {{ if .initiative }}
-                                <li>{{ with $.Site.Params.roadmap.modal.initiative }}{{.}}: {{ end }}
-                                    <strong><a href="{{ with .initiativeLink }}{{ . }}{{ else }}#{{ end }}">{{ .initiative }}</a></strong>
-                                </li>
+                                <li>
+                                    <!-- {{ with $.Site.Params.roadmap.modal.initiative }}{{.}}: {{ end }} -->
+                                    <!-- <a href="{{ with .initiativeLink }}{{ . }}{{ else }}#{{ end }}">{{ .initiative }}</a></strong> -->
+                                    <strong>{{ .initiative }}</strong>
                             {{ end }}
                             {{ if .status }}
-                                <li>{{ with $.Site.Params.roadmap.modal.status }}{{.}}: {{ end }}
-                                    <strong><a href="#">{{ .status }}</a></strong>
-                                </li>
+                                -
+                                <!-- {{ with $.Site.Params.roadmap.modal.status }}{{.}}: {{ end }} -->
+                                    <strong>{{ .status }}</strong>
+                                
                             {{ end }}
+                                </li>
                             {{ if .subtitle }}
-                                <li>{{ with $.Site.Params.roadmap.modal.subtitle }}{{.}}: {{ end }}
-                                    <strong><a href="#">{{ .subtitle }}</a></strong>
+                                <li>
+                                    <!-- {{ with $.Site.Params.roadmap.modal.subtitle }}{{.}}: {{ end }} -->
+                                    <strong>{{ .subtitle }}</strong>
                                 </li>
                             {{ end }}
                             {{ if .description }}
-                                <li>{{ with $.Site.Params.roadmap.modal.description }}{{.}}: {{ end }}
-                                    <strong><a href="#">{{ .description }}</a></strong>
+                                <li>
+                                    <!-- {{ with $.Site.Params.roadmap.modal.description }}{{.}}: {{ end }} -->
+                                    <strong>{{ .description }}</strong>
                                 </li>
                             {{ end }}
                         </ul>
@@ -74,9 +80,9 @@
                         {{ end }}  */}}
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <img src="images/roadmap/{{ .img }}" class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-104 right-4 bottom-4" alt="">
-                </div>
+                <!-- <div class="col-lg-2 col-lg-offset-2">
+                    
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-lg-3">

@@ -79,12 +79,12 @@ roadmap:
     transformBottom: "16"
     growValue: "1"
     modalID: "4"
-  - name: 5. Aevatar
+  - name: 5. Aevetar
     item_enable: true
     date: ''
     feature: ''
     progress: ''
-    roadmap_bg_image: images/aevatar.png
+    roadmap_bg_image: images/aevetar.png
     width: 284px
     height: 836px
     zindex: "5"

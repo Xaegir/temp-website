@@ -3,7 +3,7 @@ modalID: "1"
 title: title
 category: category
 date: 2014-07-04T21:00:00+00:00
-img: roadmap_item_1.jpg
+img: vision.png
 description: description
 initiatives:
 - name: initiative#1
