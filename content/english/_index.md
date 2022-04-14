@@ -29,7 +29,7 @@ feature:
     content: Community Development
   - name: No Setup
     image: images/feature/feature-2.png
-    content: Aevatar NFT Collection
+    content: Aevetar NFTs
   - name: Optimized Data
     image: images/feature/feature-3.png
     content: XAEGIR Realms

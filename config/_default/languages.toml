@@ -1,6 +1,6 @@
 [en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By [XAEGIR](https://xaegir.io)"
 footer_content = "XAEGIR is an open-ended platform that prioritizes the user, with innovation as our central focus. XAEGIR consists of multiple products and services that bring real solutions to the table."
 home = "Home"
 languageCode = "en-us"
@@ -8,7 +8,7 @@ languageName = "En"
 weight = 1
 [fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = ""
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
 home = "Accueil"
 languageCode = "fr-fr"
