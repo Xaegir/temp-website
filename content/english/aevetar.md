@@ -35,7 +35,7 @@ title = "Exclusives"
 [[feature.feature_item]]
 content = "Unlock exclusive channels on our Discord server"
 icon = "fas fa-desktop"
-icon_color = "primary"
+icon_color = "#40e0d0"
 title = "Membership"
 [[feature.feature_item]]
 content = "Gain access to our Metaverse and integrate your Aevetar"
