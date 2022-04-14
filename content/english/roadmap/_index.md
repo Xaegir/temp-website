@@ -6,10 +6,10 @@ description: Here you can find our Roadmap and a detailed look into exactly what
   working on, what's next and what we have planned for the future.
 layout: roadmap
 roadmap:
-  enable: false
-  title: title
-  subtitle: subtitle
-  description: description
+  enable: true
+  title: ''
+  subtitle: ''
+  description: ''
   roadmap_item:
   - name: 1. Our Vision
     item_enable: true
