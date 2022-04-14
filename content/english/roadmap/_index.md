@@ -85,7 +85,7 @@ roadmap:
     feature: ''
     progress: ''
     roadmap_bg_image: images/aevetar.png
-    width: 284px
+    width: 350px
     height: 836px
     zindex: "5"
     transformX: 6px
