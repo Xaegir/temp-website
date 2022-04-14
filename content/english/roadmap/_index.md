@@ -1,9 +1,9 @@
 ---
-title: Roadmap
-watermark: Roadmap
+title: The Journey
+watermark: The Journey
 page_header_image: images/background/roadmap.jpg
-description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-  idest laborum sed ut perspiciatis.
+description: Here you can find our Roadmap and a detailed look into exactly what we're
+  working on, what's next and what we have planned for the future.
 layout: roadmap
 roadmap:
   enable: true
@@ -11,13 +11,12 @@ roadmap:
   subtitle: subtitle
   description: description
   roadmap_item:
-  # first item
-  - name: Milestone#1
+  - name: 1. Our Vision
     item_enable: true
     date: Date
     feature: feature description
-    progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_1.jpg
+    progress: ''
+    roadmap_bg_image: ''
     width: 556px
     height: 160px
     zindex: "1"
@@ -28,14 +27,13 @@ roadmap:
     transformRight: "4"
     transformBottom: "4"
     growValue: "3"
-    modalID: 1
-  # second item
-  - name: Milestone#2
+    modalID: "1"
+  - name: 2. Community Development
     item_enable: true
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_2.jpg
+    roadmap_bg_image: ''
     width: 556px
     height: 360px
     zindex: "2"
@@ -46,14 +44,13 @@ roadmap:
     transformRight: "24"
     transformBottom: "14"
     growValue: "3"
-    modalID: 2
-  # third item
-  - name: Milestone#3
+    modalID: "2"
+  - name: 3. NFT Marketplace
     item_enable: true
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_3.jpg
+    roadmap_bg_image: ''
     width: 460px
     height: 160px
     zindex: "3"
@@ -64,14 +61,13 @@ roadmap:
     transformRight: "4"
     transformBottom: "0"
     growValue: "2"
-    modalID: 3
-    # fourth item
-  - name: Milestone#4
+    modalID: "3"
+  - name: 4. Outreach & Expansion
     item_enable: true
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_4.jpg
+    roadmap_bg_image: ''
     width: 256px
     height: 460px
     zindex: "4"
@@ -82,14 +78,13 @@ roadmap:
     transformRight: "2"
     transformBottom: "16"
     growValue: "1"
-    modalID: 4
-    # fifth item
-  - name: Milestone#5
+    modalID: "4"
+  - name: 5. Aevatar
     item_enable: true
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_5.jpg
+    roadmap_bg_image: ''
     width: 284px
     height: 836px
     zindex: "5"
@@ -100,14 +95,13 @@ roadmap:
     transformRight: "24"
     transformBottom: "24"
     growValue: "1"
-    modalID: 5
-    # sixth item
-  - name: Milestone#6
+    modalID: "5"
+  - name: 6. Realms
     item_enable: true
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_6.jpg
+    roadmap_bg_image: ''
     width: 284px
     height: 260px
     zindex: "6"
@@ -118,14 +112,13 @@ roadmap:
     transformRight: "6"
     transformBottom: "6"
     growValue: "3"
-    modalID: 6
-    # seventh item
-  - name: Milestone#7
+    modalID: "6"
+  - name: 7. Token
     item_enable: true
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: images/roadmap/roadmap_item_7.jpg
+    roadmap_bg_image: ''
     width: 573px
     height: 236px
     zindex: "7"
@@ -136,7 +129,7 @@ roadmap:
     transformRight: "10"
     transformBottom: "4"
     growValue: "1"
-    modalID: 7
+    modalID: "7"
 video:
   enable: true
   video_bg_image: images/video/roadmap-1.jpg

@@ -9,6 +9,11 @@ sections:
 - type: document
   path: xaegir/i18n/en.yaml
   label: i18n
+- type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -21,11 +26,14 @@ sections:
   label: Insights
   create: all
   match: "*"
+- type: document
+  path: content/english/roadmap/**/*
+  label: Roadmap
 - type: directory
   path: content/english
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: document

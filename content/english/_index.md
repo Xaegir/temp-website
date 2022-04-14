@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  bg_image: images/background/banner.png
+  bg_image: images/banner1-1.png
   title: A Platform For Innovation
   watermark: XAEGIR
   content: The virtual space where artists, developers and enthusiasts come together
     and create.
-  image: images/bannerimage.png
+  image: images/banner-1.png
   button:
     enable: true
     label: Join Us
@@ -25,18 +25,18 @@ feature:
   title: Current Projects
   feature_item:
   - name: Free Trial
-    image: images/feature/feature-1.png
+    image: images/feature-1.png
     content: Community Development
   - name: No Setup
-    image: images/feature/feature-2.png
+    image: images/feature-2.png
     content: Aevetar NFTs
   - name: Optimized Data
-    image: images/feature/feature-3.png
+    image: images/feature-3.png
     content: XAEGIR Realms
 about:
   enable: true
   about_item:
-  - image: images/about/about-1.png
+  - image: images/about-1.png
     subtitle: Roadmap
     title: We Are Currently Working On Several Projects
     content: We have plans to work on an extensive range of products and services,
@@ -46,7 +46,7 @@ about:
       enable: true
       label: Roadmap
       link: about
-  - image: images/about/about-2.png
+  - image: images/about-2.png
     subtitle: Insights
     title: Keep Up With The Latest Web 3.0 Developments
     content: There is a lot of uncertainty and scepticism associated with Web3 at

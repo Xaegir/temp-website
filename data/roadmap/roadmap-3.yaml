@@ -1,8 +1,9 @@
-modalID: 3
+---
+modalID: "3"
 title: title
 category: category
 date: 2014-07-05
-img: roadmap_item_3.jpg
+img: ''
 description: description
 initiatives:
 - name: initiative#1
@@ -11,25 +12,28 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  description: Artist Curation - While we do have an extremely talented and all-star
+    creative team, we are looking for the very best of the rest to populate our marketplace.
+    We have our sights set on becoming one of the largest NFT Marketplaces on the
+    planet and rely on quality creators and an active user base to make that happen.
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Validation & Quality assurance - It's no secret that Web3 is crawling
+    with copycats and serial scammers and we aim to combat this with a community validation
+    program. Members of our user base will be incentivized to vet new listings and
+    artists who mint on our platform while we reinforce policies to minimize negative
+    experiences. We do our best to ensure a stress-free environment.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
-- name: initiative#4
-  enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: User Experience - The user is our priority and what kind of philosophy
+    would that be if we didn’t care about your experience with our platforms. XAEGIR
+    has spent vast amounts of resources, time and energy to ensure the very best designers,
+    developers and programmers deliver a seamless and innovative user experience.

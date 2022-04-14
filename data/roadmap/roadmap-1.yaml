@@ -1,7 +1,8 @@
-modalID: 1
+---
+modalID: "1"
 title: title
 category: category
-date: 2014-07-05
+date: 2014-07-04T21:00:00+00:00
 img: roadmap_item_1.jpg
 description: description
 initiatives:
@@ -10,26 +11,40 @@ initiatives:
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  status: Complete
+  description: We are the nomads of the internet - Our team comes from all walks of
+    life and believes that diversity is the cornerstone of growth. We exist to bring
+    dreamers, creators, and gamers together to unlock the potential of a 9-world,
+    interconnected digital biosphere connected to the metaverse. We’re here to revolutionize
+    the Web3 space with innovative groundbreaking projects.
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  status: Complete
+  description: Community first - Be believe in the value of listening to our users
+    and rely on their feedback and suggestions to ensure we’re on the right path.
+    The day that we stop listening to our community is the day we stop being XAEGIR.
+    We’ll never let that happen because we will always have our community’s best interest
+    at heart.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
-- name: initiative#4
-  enable: true
+  status: Complete
+  description: 'Innovation only - It’s hard not to follow the trends in Web3 and it’s
+    easy to get lost in the ocean of hype surrounding the space. We’re here to make
+    sure that everything we do is cutting edge, maintains long term value and pushes
+    the limits on what it means to be a Web3 company. '
+- enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  status: Complete
+  description: Enjoy the journey - We are involved in every aspect of Web3 and as
+    a product of this, we are extremely busy. While it's great to know where we’re
+    headed, it’s important that we take a moment to enjoy the process. Great things
+    don’t happen overnight.
+  name: initiative#4

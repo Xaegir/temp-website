@@ -1,4 +1,5 @@
-modalID: 2
+---
+modalID: "2"
 title: title
 category: category
 date: 2014-07-05
@@ -11,25 +12,37 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  description: 'Moderation - We want our community to be a safe and comfortable space
+    where our users can exchange ideas and interact freely. Our mods take daily calls,
+    work set hours and ensure that every voice is heard. We believe professional and
+    friendly moderation ensures a happy community. '
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Growth - Our Social & Community Management teams are constantly looking
+    for effective ways to develop our content and optimize our reach. We want the
+    word XAEGIR to reach every corner of Web3 and we won’t stop until we’ve reached
+    this goal.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Community Spaces - Here at XAEGIR, we have a place for everyone. From
+    casual hangouts to developers' meetings - our goal is to grow the roots of our
+    company as deep as they can go to ensure a solid foundation to build our future.
+    Forums and Q&A’s are hosted on all of our platforms
 - name: initiative#4
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Connect - The XAEGIR website, Discord server and social platforms are
+    all different ways for the user to get involved in the exciting things we are
+    doing here. Stay up to date with our latest developments and activities through
+    flawless user experience and ease of access.

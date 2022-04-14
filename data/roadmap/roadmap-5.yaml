@@ -1,4 +1,5 @@
-modalID: 5
+---
+modalID: "5"
 title: title
 category: category
 date: 2014-07-05
@@ -11,25 +12,29 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  description: NFT Project - This is where the fun begins. Our flagship product, Aevatar
+    consists of highly customizable and composable avatars that grant owners the ability
+    to modify, upgrade, swap and evolve over time. Aevatar will have both deflationary
+    and inflationary properties with natural burn methodology that can be used interoperability
+    within the Metaverse
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Xero - This consists of aesthetic and gaming item components for your
+    Aevetar. This includes further customization, weaponry, vanity items and much
+    more. We can’t wait to find out what other features our amazing community will
+    inpsire.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
-- name: initiative#4
-  enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Mezzanine - What kind of avatar would be worth its salt without the
+    ability to walk around, interact and engage in activities with its peers and environment.
+    Project Mezzanine is the space in which our users can perform customizations,
+    play games, test features, interact with each other and learn about the worlds
+    that are yet to come.

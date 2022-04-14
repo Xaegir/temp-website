@@ -1,4 +1,5 @@
-modalID: 6
+---
+modalID: "6"
 title: title
 category: category
 date: 2014-07-05
@@ -11,25 +12,36 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  description: Recruitment - Many hands make light work and good minds make great
+    time. XAEGIR is constantly on the lookout for talented individuals in the industry
+    who are looking to join a supportive enthusiastic team and ready to change the
+    world.
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Collaboration - Web3 is brimming with startups, enthusiasts and icons
+    that are changing the game and the ways we think of the space. We aim to partner
+    with these entities and expand our network throughout the industry through genuine
+    connections and shared experiences.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Investment -  True innovation takes capital and while we strive to
+    maintain a financially sustainable business model - we’d like to fast-track growth.
+    We are sending out a message to all investors and companies looking to partner
+    with a transparent, determined and innovative founder team.
 - name: initiative#4
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
+    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
+    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.

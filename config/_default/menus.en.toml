@@ -1,25 +1,25 @@
 [[footer]]
-URL = "about"
-name = "About"
+URL = "career"
+name = "Careers"
+[[footer]]
+URL = "contact"
+name = "Contact Us"
 [[footer]]
 URL = "insights"
 name = "Insights"
 [[footer]]
 URL = "service"
-name = "Services"
+name = "Aevatar"
 [[footer]]
-URL = "contact"
-name = "Contact us"
-[[footer]]
-URL = "career"
-name = "Careers"
+URL = "about"
+name = "The Journey"
 [[main]]
 URL = "aevetar"
 name = "Aevetar"
 weight = "3"
 [[main]]
 URL = "roadmap"
-name = "Roadmap"
+name = "The Journey"
 weight = 2
 [[main]]
 URL = "insights"
@@ -27,7 +27,7 @@ name = "Insights"
 weight = 4
 [[main]]
 URL = "contact"
-name = "Contact"
+name = "Contact Us"
 weight = 5
 [[main]]
 URL = "career"
