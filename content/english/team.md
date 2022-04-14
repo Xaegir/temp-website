@@ -1,7 +1,7 @@
 ---
 title: Careers
 watermark: Careers
-page_header_image: images/background/about.jpg
+page_header_image: images/careers.png
 description: Looking for work in the Web3 space? Submit an application with us and
   we'd be happy to sit down over a coffee and discuss what we could accomplish together.
 layout: team
