@@ -49,7 +49,7 @@ feature:
   feature_item:
   - title: Exclusive Design
     icon: fas fa-desktop
-    icon_color: primary
+    icon_color: cyan
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
   - title: Easy Customize
