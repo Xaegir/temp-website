@@ -27,7 +27,7 @@ map_zoom = 17
 [navigation_button]
 enable = true
 label = "Discord"
-link = "https://discord.gg/BFTmyUuC8u"
+link = "https://discord.gg/EhmxUVtncr"
 [preloader]
 enable = true
 preloader = "images/preloader.gif"
