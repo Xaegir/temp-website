@@ -42,7 +42,7 @@ roadmap:
     transformZ: 0px
     transformW: "104"
     transformRight: "24"
-    transformBottom: "14"
+    transformBottom: "16"
     growValue: "3"
     modalID: "2"
   - name: 3. NFT Marketplace
@@ -110,7 +110,7 @@ roadmap:
     transformZ: 0px
     transformW: "112"
     transformRight: "6"
-    transformBottom: "6"
+    transformBottom: "16"
     growValue: "3"
     modalID: "6"
   - name: 7. Token
