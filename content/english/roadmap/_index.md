@@ -30,9 +30,9 @@ roadmap:
     modalID: "1"
   - name: 2. Community Development
     item_enable: true
-    date: Date
+    date: ''
     feature: feature description
-    progress: XX%
+    progress: ''
     roadmap_bg_image: images/community.png
     width: 556px
     height: 360px
