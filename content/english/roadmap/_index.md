@@ -101,7 +101,7 @@ roadmap:
     date: Date
     feature: feature description
     progress: XX%
-    roadmap_bg_image: ''
+    roadmap_bg_image: images/realms.png
     width: 284px
     height: 260px
     zindex: "6"
