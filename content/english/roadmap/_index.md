@@ -143,7 +143,7 @@ video:
     label: Contact Us
     link: contact
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: Downloads per day
     count: "8000"
@@ -154,7 +154,7 @@ funfacts:
   - name: People behind this app
     count: "80"
 service:
-  enable: true
+  enable: false
   section: service
 
 ---
