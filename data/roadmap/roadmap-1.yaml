@@ -8,10 +8,10 @@ description: We have a firm set of beliefs that keep us grounded.
 initiatives:
 - name: initiative#1
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: ''
-  status: Complete
+  initiative: ''
+  initiativeLink: web
+  subtitle: COMPLETE
+  status: ''
   focus: We are the nomads of the internet -
   description: Our team comes from all walks of life and believes that diversity is
     the cornerstone of growth. We exist to bring dreamers, creators, and gamers together
