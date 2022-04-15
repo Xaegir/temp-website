@@ -127,7 +127,7 @@ roadmap:
     transformZ: 0px
     transformW: "64"
     transformRight: "10"
-    transformBottom: "16"
+    transformBottom: "8"
     growValue: "1"
     modalID: "7"
 video:
