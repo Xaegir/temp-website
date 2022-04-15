@@ -9,7 +9,7 @@ initiatives:
 - name: initiative#1
   enable: true
   initiative: ''
-  initiativeLink: Web
+  initiativeLink: web
   subtitle: COMPLETE
   status: ''
   focus: We are the nomads of the internet -
