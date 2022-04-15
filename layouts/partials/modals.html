@@ -11,8 +11,8 @@
         </div>
         <div class="container">
             <div class="row">
-                <img src="images/{{ .img }}" class="absolute opacity-50 group-hover:opacity-100 duration-300 transform w-104 right-0 bottom-4" alt="">
-                <div class="col-lg-9">
+                <img src="images/{{ .img }}" class="absolute opacity-10 group-hover:opacity-100 duration-300" alt="">
+                <div class="col-lg-10">
                     <div class="modal-body">
                         {{ with .title }}
                             <h2>{{ . }}</h2>
@@ -20,9 +20,13 @@
                         {{ if and .title .description }}
                             <hr class="star-primary">
                         {{ end }}
+                        <!-- {{ with site.Params.variables }} -->
+           
+                        <!-- {{ end }} -->
                         {{ with .description }}
-                            <p>{{ . | markdownify }}</p>
+                        <p>{{ . | markdownify }}</p>
                         {{ end }}
+                        
                         {{ range .initiatives }}
                         {{ if .enable }}
                         {{ if or .initiative .status .description }}
@@ -46,8 +50,11 @@
                                     <strong>{{ .subtitle }}</strong>
                                 </li>
                             {{ end }}
+                            <li>
+                            {{ if .focus }}
+                                <span class="focus-text">{{ .focus | markdownify }} </span>
+                            {{ end }}
                             {{ if .description }}
-                                <li>
                                     <!-- {{ with $.Site.Params.roadmap.modal.description }}{{.}}: {{ end }} -->
                                     <strong>{{ .description }}</strong>
                                 </li>
