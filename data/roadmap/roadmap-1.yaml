@@ -9,9 +9,9 @@ initiatives:
 - name: initiative#1
   enable: true
   initiative: ''
-  initiativeLink: ''
+  initiativeLink: Web
   subtitle: COMPLETE
-  status: Complete
+  status: ''
   focus: We are the nomads of the internet -
   description: Our team comes from all walks of life and believes that diversity is
     the cornerstone of growth. We exist to bring dreamers, creators, and gamers together
