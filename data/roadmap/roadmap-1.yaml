@@ -10,14 +10,14 @@ initiatives:
   enable: true
   initiative: Web
   initiativeLink: Web
-  subtitle: subtitle
+  subtitle: ''
   status: Complete
   focus: We are the nomads of the internet -
-  description:  Our team comes from all walks of
-    life and believes that diversity is the cornerstone of growth. We exist to bring
-    dreamers, creators, and gamers together to unlock the potential of a 9-world,
-    interconnected digital biosphere connected to the metaverse. We’re here to revolutionize
-    the Web3 space with innovative groundbreaking projects.
+  description: Our team comes from all walks of life and believes that diversity is
+    the cornerstone of growth. We exist to bring dreamers, creators, and gamers together
+    to unlock the potential of a 9-world, interconnected digital biosphere connected
+    to the metaverse. We’re here to revolutionize the Web3 space with innovative groundbreaking
+    projects.
 - name: initiative#2
   enable: true
   initiative: Web
@@ -25,29 +25,28 @@ initiatives:
   subtitle: subtitle
   status: Complete
   focus: Community first -
-  description: We believe in the value of listening to our users and rely on their feedback and suggestions to ensure we’re on the right path.
-    The day that we stop listening to our community is the day we stop being XAEGIR.
-    We’ll never let that happen because we will always have our community’s best interest
-    at heart.
+  description: We believe in the value of listening to our users and rely on their
+    feedback and suggestions to ensure we’re on the right path. The day that we stop
+    listening to our community is the day we stop being XAEGIR. We’ll never let that
+    happen because we will always have our community’s best interest at heart.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: Complete
-  focus: \'Innovation only\' -
-  description: It’s hard not to follow the trends in Web3 and it’s
-    easy to get lost in the ocean of hype surrounding the space. We’re here to make
-    sure that everything we do is cutting edge, maintains long term value and pushes
-    the limits on what it means to be a Web3 company. '
+  focus: "\\'Innovation only\\' -"
+  description: It’s hard not to follow the trends in Web3 and it’s easy to get lost
+    in the ocean of hype surrounding the space. We’re here to make sure that everything
+    we do is cutting edge, maintains long term value and pushes the limits on what
+    it means to be a Web3 company. '
 - enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: Complete
-  focus: Enjoy the journey - 
-  description: We are involved in every aspect of Web3 and as
-    a product of this, we are extremely busy. While it's great to know where we’re
-    headed, it’s important that we take a moment to enjoy the process. Great things
-    don’t happen overnight.
+  focus: Enjoy the journey -
+  description: We are involved in every aspect of Web3 and as a product of this, we
+    are extremely busy. While it's great to know where we’re headed, it’s important
+    that we take a moment to enjoy the process. Great things don’t happen overnight.
   name: initiative#4
