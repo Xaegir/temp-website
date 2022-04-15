@@ -8,8 +8,8 @@ description: We have a firm set of beliefs that keep us grounded.
 initiatives:
 - name: initiative#1
   enable: true
-  initiative: Web
-  initiativeLink: Web
+  initiative: ''
+  initiativeLink: ''
   subtitle: COMPLETE
   status: Complete
   focus: We are the nomads of the internet -
