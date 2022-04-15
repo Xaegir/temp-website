@@ -68,7 +68,7 @@ We’re excited to hear from you.
 
 Please start your application by telling us which newsletter you read / artists you like / twitter accounts you follow etc., to demonstrate your interest in NFTs. In addition to this, please describe your experiences interfacing with a community and list your achievements in relation to that following skillset.
 
-**To Apply**: send an email to [admin@xaegir.com](mailto:admin@xaegir.com) with the subject of the email being “App - Crypto Advisor”.
+**To Apply**: send an email to [careers@xaegir.io](mailto:careers@xaegir.io) with the subject of the email being “App - Crypto Advisor”.
 
 If possible, please provide a portfolio of your previous work, github profile, stackoverflow, and other resources you think will appeal for consideration.
 

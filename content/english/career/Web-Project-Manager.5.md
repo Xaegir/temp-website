@@ -77,7 +77,7 @@ We’re excited to hear from you.
 
 Please start your application by telling us which newsletter you read / artists you like / Twitter accounts you follow etc., to demonstrate your interest in NFTs. In addition to this, please describe your experiences interfacing with a community and list your achievements in relation to the following skillset.
 
-**To Apply**: send an email to [admin@xaegir.com](mailto:admin@xaegir.com) with the subject of the email being “App - Vue.js/Web3.js Frontend Dev”.
+**To Apply**: send an email to [careers@xaegir.io](mailto:careers@xaegir.io) with the subject of the email being “App - Vue.js/Web3.js Frontend Dev”.
 
 If possible, please provide a portfolio of your previous work, GitHub profile, StackOverflow, and other resources you think will appeal for consideration.
 

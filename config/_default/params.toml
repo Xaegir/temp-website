@@ -1,9 +1,9 @@
 address = "Dubai, UAE"
 author = ""
-contact_form_action = "#"
+contact_form_action = "https://getform.io/f/1acca456-6550-4f61-883a-008eacd510c9"
 custom_script = ""
 description = "This is meta description"
-email = "admin@xaegir.com"
+email = "hello@xaegir.io"
 favicon = "images/metaseed-white.png"
 google_analitycs_id = "Your ID"
 image = "images/logo-2.png"
@@ -13,7 +13,7 @@ mobile = ""
 search = false
 [cookies]
 button = "I Accept"
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
+content = "This site uses cookies. By viewing this website, you agree to XAEGIR's use of cookies."
 enable = true
 expire_days = 2
 [gmap]

@@ -43,10 +43,12 @@
               style="cursor: pointer">
               <div class="button-container flex group h-full flex-col justify-end p-6"
                 style="will-change: opacity, transform; opacity: 1">
+                {{ if and .progress .date }}
                 <p class="uppercase opacity-40 font-sans text-6xl -ml-1 font-700 pb-1 pr-10">
                   {{ .progress }} - {{ .date }}
                 </p>
-                <p class="uppercase opacity-40 font-sans text-6xl -ml-1 font-700 pb-1 pr-10">
+                {{ end }}
+                <p class="uppercase opacity-100 font-sans text-6xl -ml-1 font-700 pb-1 pr-10">
                   {{ .name }} 
                 </p>
                 
@@ -237,7 +239,7 @@
     </div>
 </div>
 </section>
-<section class="section">
+<!-- <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-md-6 pr-lg-4 mb-4 mb-md-0">
@@ -273,7 +275,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 {{ end }}
 {{ end }}
 {{"<!-- roadmap xaegir -->" | safeHTML }}

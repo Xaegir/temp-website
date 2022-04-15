@@ -47,4 +47,6 @@ text_color = "#8b8e93"
 text_color_light = "#959595"
 text_dark = "#242f3e"
 text_light = "#d4dae3"
+text_accent = "#40e0d0"
 white = "#fff"
+

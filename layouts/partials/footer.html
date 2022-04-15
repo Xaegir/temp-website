@@ -12,7 +12,7 @@
             {{ end }}
           </ul>
         </div>
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-2 col-sm-6">
           <h4 class="text-white mb-4">{{ i18n "quick_links" }}</h4>
           <ul class="list-styled list-hover-underline">
             {{ range .Site.Menus.footer }}
@@ -20,7 +20,7 @@
             {{ end }}
           </ul>
         </div>
-        <div class="col-lg-3 col-md-4 col-sm-6">
+        <div class="col-lg-2 col-md-4 col-sm-6">
           <h4 class="text-white mb-4">{{ i18n "contact_info"}}</h4>
           <ul class="list-unstyled">
             <li class="mb-3 text-light">{{.Site.Params.address | safeHTML }}</li>
@@ -28,6 +28,13 @@
             <li class="mb-3 text-light">{{.Site.Params.email | safeHTML }}</li>
           </ul>
         </div>
+         <div class="col-lg-2 col-md-4 col-sm-6">
+          <div class="row justify-content-end input-group">
+            <script async src="https://eomail1.com/form/508051db-5a76-11ec-96e5-06b4694bee2a.js"
+            data-form="508051db-5a76-11ec-96e5-06b4694bee2a"></script>
+          </div>
+        </div>
+        
       </div>
     </div>
   </section>

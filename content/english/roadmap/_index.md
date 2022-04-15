@@ -23,7 +23,7 @@ roadmap:
     transformX: 6px
     transformY: 6px
     transformZ: 0px
-    transformW: "72"
+    transformW: "104"
     transformRight: "4"
     transformBottom: "4"
     growValue: "3"
@@ -127,7 +127,7 @@ roadmap:
     transformZ: 0px
     transformW: "64"
     transformRight: "10"
-    transformBottom: "4"
+    transformBottom: "16"
     growValue: "1"
     modalID: "7"
 video:
@@ -143,7 +143,7 @@ video:
     label: Contact Us
     link: contact
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: Downloads per day
     count: "8000"
