@@ -1,20 +1,20 @@
 ---
-title: The Journey
-watermark: The Journey
-page_header_image: images/journey.png
+title: Roadmap
+watermark: Roadmap
+page_header_image: images/roadmap.png
 description: Here you can find our Roadmap and a detailed look into exactly what we're
   working on, what's next and what we have planned for the future.
 layout: roadmap
 roadmap:
   enable: true
-  title: title
-  subtitle: subtitle
-  description: description
+  title: ''
+  subtitle: ''
+  description: ''
   roadmap_item:
   - name: 1. Our Vision
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/vision.png
     width: 556px
@@ -31,7 +31,7 @@ roadmap:
   - name: 2. Community Development
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/community.png
     width: 556px
@@ -48,7 +48,7 @@ roadmap:
   - name: 3. NFT Marketplace
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/market.png
     width: 460px
@@ -65,7 +65,7 @@ roadmap:
   - name: 4. Outreach & Expansion
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/outreach.png
     width: 256px
@@ -82,10 +82,10 @@ roadmap:
   - name: 5. Aevetar
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/aevetar.png
-    width: 284px
+    width: 350px
     height: 836px
     zindex: "5"
     transformX: 6px
@@ -99,7 +99,7 @@ roadmap:
   - name: 6. Realms
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/realms.png
     width: 284px
@@ -116,7 +116,7 @@ roadmap:
   - name: 7. Token
     item_enable: true
     date: ''
-    feature: ''
+    feature: View
     progress: ''
     roadmap_bg_image: images/token.png
     width: 573px
@@ -131,7 +131,7 @@ roadmap:
     growValue: "1"
     modalID: "7"
 video:
-  enable: true
+  enable: false
   video_bg_image: images/video/roadmap-1.jpg
   video_thumbnail: images/video/roadmap-2.jpg
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
@@ -154,7 +154,7 @@ funfacts:
   - name: People behind this app
     count: "80"
 service:
-  enable: true
+  enable: false
   section: service
 
 ---

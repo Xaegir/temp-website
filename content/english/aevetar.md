@@ -11,7 +11,7 @@ title = "Features"
 [[aevetar.aevetar_item]]
 content = "Upgrade, modify, and swap components of your Aevetar to your personal preference"
 icon = "far fa-object-ungroup"
-icon_color = "#40e0d0"
+icon_color = "cyan"
 title = "Customizability"
 [[aevetar.aevetar_item]]
 content = "Have a say in what new Aevetar features or attributes will be released in the future "
@@ -24,7 +24,7 @@ icon = "fas fa-desktop"
 icon_color = "cyan"
 title = "XAEGIR Gallery"
 [[aevetar.aevetar_item]]
-content = "Utilize Aevetars on other platforms though partnerships in virtual land and gaming."
+content = "Utilize Aevetars on other platforms through partnerships in virtual land and gaming."
 icon = "fas fa-cloud"
 icon_color = "turquoise"
 title = "Interoperability"
@@ -40,7 +40,7 @@ title = "Membership"
 [[feature.feature_item]]
 content = "Gain access to our Metaverse and integrate your Aevetar"
 icon = "fas fa-cogs"
-icon_color = "#292929"
+icon_color = "cyan"
 title = "XAEGIR Realms"
 [[feature.feature_item]]
 content = "Earn discounts, giveaways and other exclusive features "

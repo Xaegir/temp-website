@@ -12,7 +12,7 @@ service:
   service_item:
   - title: Networking
     icon: far fa-object-ungroup
-    icon_color: primary
+    icon_color: cyan
     content: Lorem ipsum dolor sit amet consectetur elit sed do
   - title: Social Activity
     icon: fas fa-users
@@ -49,7 +49,7 @@ feature:
   feature_item:
   - title: Exclusive Design
     icon: fas fa-desktop
-    icon_color: primary
+    icon_color: cyan
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
   - title: Easy Customize
@@ -59,7 +59,7 @@ feature:
       labore dolore magna.
   - title: Extreme Security
     icon: fas fa-shield-alt
-    icon_color: primary
+    icon_color: cyan
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
 

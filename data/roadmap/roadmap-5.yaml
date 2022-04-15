@@ -1,10 +1,10 @@
 ---
 modalID: "5"
-title: title
+title: Aevetar
 category: category
 date: 2014-07-05
 img: aevetar.png
-description: description
+description: Customizable and interoperable NFT avatars.
 initiatives:
 - name: initiative#1
   enable: true

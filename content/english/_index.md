@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: Join Us
-    link: https://discord.gg/BFTmyUuC8u
+    link: https://discord.gg/EhmxUVtncr
 partner:
   enable: false
   partner_logo:
@@ -126,7 +126,7 @@ download:
   discord:
     enable: true
     label: Discord
-    link: https://discord.gg/BFTmyUuC8u
+    link: https://discord.gg/EhmxUVtncr
   playstore:
     enable: false
     label: app store

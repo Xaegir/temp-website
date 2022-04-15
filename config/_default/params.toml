@@ -1,4 +1,4 @@
-address = "Dubai, UAE"
+address = "Global"
 author = ""
 contact_form_action = "https://getform.io/f/1acca456-6550-4f61-883a-008eacd510c9"
 custom_script = ""
@@ -27,7 +27,7 @@ map_zoom = 17
 [navigation_button]
 enable = true
 label = "Discord"
-link = "https://discord.gg/BFTmyUuC8u"
+link = "https://discord.gg/EhmxUVtncr"
 [preloader]
 enable = true
 preloader = "images/preloader.gif"
@@ -45,7 +45,7 @@ link = "https://www.instagram.com/xaegir_"
 title = "instagram"
 [[social]]
 icon = "fab fa-discord"
-link = "https://discord.gg/BFTmyUuC8u"
+link = "https://discord.gg/EhmxUVtncr"
 title = ""
 [[social]]
 icon = "fab fa-twitter"

@@ -1,10 +1,10 @@
 ---
 modalID: "3"
-title: title
+title: Marketplace
 category: category
 date: 2014-07-05
 img: market.png
-description: description
+description: A soft-curated NFT marketplace for the buying/selling of digital assets.
 initiatives:
 - name: initiative#1
   enable: true

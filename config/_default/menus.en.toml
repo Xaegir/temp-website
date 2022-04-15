@@ -8,18 +8,18 @@ name = "Contact Us"
 URL = "insights"
 name = "Insights"
 [[footer]]
-URL = "aevatar"
+URL = "aevetar"
 name = "Aevatar"
 [[footer]]
-URL = "about"
-name = "The Journey"
+URL = "roadmap"
+name = "Roadmap"
 [[main]]
 URL = "aevetar"
 name = "Aevetar"
 weight = "3"
 [[main]]
 URL = "roadmap"
-name = "The Journey"
+name = "Roadmap"
 weight = 2
 [[main]]
 URL = "insights"

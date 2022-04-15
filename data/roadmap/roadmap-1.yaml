@@ -1,10 +1,10 @@
 ---
 modalID: "1"
-title: title
+title: Our Vision
 category: category
-date: 2014-07-04T21:00:00+00:00
+date: 2014-07-04T21:00:00.000+00:00
 img: vision.png
-description: description
+description: We have a firm set of beliefs that keep us grounded.
 initiatives:
 - name: initiative#1
   enable: true
@@ -25,8 +25,7 @@ initiatives:
   subtitle: subtitle
   status: Complete
   focus: Community first -
-  description:  We believe in the value of listening to our users
-    and rely on their feedback and suggestions to ensure we’re on the right path.
+  description: We believe in the value of listening to our users and rely on their feedback and suggestions to ensure we’re on the right path.
     The day that we stop listening to our community is the day we stop being XAEGIR.
     We’ll never let that happen because we will always have our community’s best interest
     at heart.

@@ -1,10 +1,10 @@
 ---
 modalID: "6"
-title: title
+title: Realms
 category: category
 date: 2014-07-05
-img: realms.png
-description: description
+img: roadmap_item_6.jpg
+description: 9 themed worlds that exist in the Metaverse
 initiatives:
 - name: initiative#1
   enable: true
@@ -36,12 +36,3 @@ initiatives:
     maintain a financially sustainable business model - we’d like to fast-track growth.
     We are sending out a message to all investors and companies looking to partner
     with a transparent, determined and innovative founder team.
-- name: initiative#4
-  enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
