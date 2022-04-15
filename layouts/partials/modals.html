@@ -35,28 +35,28 @@
                                 <li>
                                     <!-- {{ with $.Site.Params.roadmap.modal.initiative }}{{.}}: {{ end }} -->
                                     <!-- <a href="{{ with .initiativeLink }}{{ . }}{{ else }}#{{ end }}">{{ .initiative }}</a></strong> -->
-                                    <strong>{{ .initiative }}</strong>
+                                    <h3>{{ .initiative }}
                             {{ end }}
                             {{ if .status }}
                                 -
                                 <!-- {{ with $.Site.Params.roadmap.modal.status }}{{.}}: {{ end }} -->
-                                    <strong>{{ .status }}</strong>
+                                    {{ .status }}</h3>
                                 
                             {{ end }}
                                 </li>
                             {{ if .subtitle }}
                                 <li>
                                     <!-- {{ with $.Site.Params.roadmap.modal.subtitle }}{{.}}: {{ end }} -->
-                                    <strong>{{ .subtitle }}</strong>
+                                    <strong class="focus-text">{{ .subtitle }}</strong>
                                 </li>
                             {{ end }}
                             <li>
                             {{ if .focus }}
-                                <span class="focus-text">{{ .focus | markdownify }} </span>
+                            <strong>{{ .focus | markdownify }}</strong>
                             {{ end }}
                             {{ if .description }}
                                     <!-- {{ with $.Site.Params.roadmap.modal.description }}{{.}}: {{ end }} -->
-                                    <strong>{{ .description }}</strong>
+                                   {{ .description }}
                                 </li>
                             {{ end }}
                         </ul>

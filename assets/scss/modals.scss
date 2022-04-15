@@ -5,18 +5,34 @@
 .modal-open .modal {
   overflow: hidden;
 }
+// .modal-close .modal {
+  // &::before {
+  //   /*
+  //     The shadow/backdrop which also is clickable to close the modal.
+  //   */
+  //   content: "";
+  //   display: block;
+  //   background-color: rgba(0,0,0,0.4);
+  //   position: absolute;
+  //   top: 0;
+  //   bottom: 0;
+  //   left: 0;
+  //   right: 0;
+  //   min-height: 200px;
+  //   z-index: 99;
+  //   opacity: 1;
+  //   pointer-events: all;
+  // }
+// }
 .roadmap-modal {
   min-height: 614px;
-  height: 75%;
+  // height: 75%;
   width: 70%;
-  margin:0 auto;
-  margin-top: 200px;
-  // position: relative;
-  // overflow:hidden;
+  border-radius: 10px;
+  position: relative;
   position: absolute;
-  left: 0;
-  right:0;
-  top: 50%; 
+  left: 15%;
+  top: 80%; 
   -webkit-transform:translateY(-50%);
   -moz-transform:translateY(-50%);
   -ms-transform:translateY(-50%);
@@ -38,6 +54,10 @@
     h2 {
       margin: 0;
       font-size: 2.5em;
+    }
+    h3 {
+      margin: 0;
+      font-size: 1.2em;
     }
     img {
       // margin-bottom: 30px;
@@ -97,6 +117,6 @@
 }
 
 .roadmap-modal .modal-backdrop {
-  display: none;
+  // display: none;
   opacity: 0;
 }
