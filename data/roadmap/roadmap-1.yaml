@@ -20,10 +20,10 @@ initiatives:
     projects.
 - name: initiative#2
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: Complete
+  initiative: ''
+  initiativeLink: ''
+  subtitle: COMPLETE
+  status: ''
   focus: Community first -
   description: We believe in the value of listening to our users and rely on their
     feedback and suggestions to ensure we’re on the right path. The day that we stop
