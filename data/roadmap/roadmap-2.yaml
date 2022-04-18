@@ -31,10 +31,10 @@ initiatives:
     goal.
 - name: initiative#3
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: IN PROGRESS
+  status: ''
   focus: Community Spaces -
   description: Here at XAEGIR, we have a place for everyone. From casual hangouts
     to developers' meetings - our goal is to grow the roots of our company as deep
