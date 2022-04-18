@@ -19,10 +19,10 @@ initiatives:
     rely on quality creators and an active user base to make that happen.
 - name: initiative#2
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: DEVELOPMENT
+  status: ''
   focus: Validation & Quality Assurance -
   description: It's no secret that Web3 is crawling with copycats and serial scammers
     and we aim to combat this with a community validation program. Members of our
