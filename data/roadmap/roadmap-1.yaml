@@ -31,10 +31,10 @@ initiatives:
     happen because we will always have our community’s best interest at heart.
 - name: initiative#3
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: Complete
+  initiative: ''
+  initiativeLink: ''
+  subtitle: COMPLETE
+  status: ''
   focus: "\\'Innovation only\\' -"
   description: It’s hard not to follow the trends in Web3 and it’s easy to get lost
     in the ocean of hype surrounding the space. We’re here to make sure that everything
