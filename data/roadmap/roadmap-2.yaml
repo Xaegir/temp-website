@@ -42,10 +42,10 @@ initiatives:
     are hosted on all of our platforms
 - name: initiative#4
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: IN PROGRESS
+  status: ''
   focus: Connect -
   description: The XAEGIR website, Discord server and social platforms are all different
     ways for the user to get involved in the exciting things we are doing here. Stay
