@@ -30,9 +30,9 @@ initiatives:
     can’t wait to find out what other features our amazing community will inpsire.
 - name: initiative#3
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
   status: "#status"
   focus: Mezzanine -
   description: What kind of avatar would be worth its salt without the ability to
