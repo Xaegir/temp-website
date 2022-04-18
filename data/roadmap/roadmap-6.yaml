@@ -8,34 +8,33 @@ description: 9 themed worlds that exist in the Metaverse
 initiatives:
 - name: initiative#1
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  focus: Recruitment - 
-  description: Many hands make light work and good minds make great
-    time. XAEGIR is constantly on the lookout for talented individuals in the industry
-    who are looking to join a supportive enthusiastic team and ready to change the
-    world.
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
+  status: ''
+  focus: Recruitment -
+  description: Many hands make light work and good minds make great time. XAEGIR is
+    constantly on the lookout for talented individuals in the industry who are looking
+    to join a supportive enthusiastic team and ready to change the world.
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus: Collaboration - 
-  description: Web3 is brimming with startups, enthusiasts and icons
-    that are changing the game and the ways we think of the space. We aim to partner
-    with these entities and expand our network throughout the industry through genuine
-    connections and shared experiences.
+  focus: Collaboration -
+  description: Web3 is brimming with startups, enthusiasts and icons that are changing
+    the game and the ways we think of the space. We aim to partner with these entities
+    and expand our network throughout the industry through genuine connections and
+    shared experiences.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus: Investment -  
-  description: True innovation takes capital and while we strive to
-    maintain a financially sustainable business model - we’d like to fast-track growth.
-    We are sending out a message to all investors and companies looking to partner
-    with a transparent, determined and innovative founder team.
+  focus: Investment -
+  description: True innovation takes capital and while we strive to maintain a financially
+    sustainable business model - we’d like to fast-track growth. We are sending out
+    a message to all investors and companies looking to partner with a transparent,
+    determined and innovative founder team.
