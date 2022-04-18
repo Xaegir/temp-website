@@ -31,9 +31,9 @@ initiatives:
     best to ensure a stress-free environment.
 - name: initiative#3
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
   status: "#status"
   focus: User Experience -
   description: The user is our priority and what kind of philosophy would that be
