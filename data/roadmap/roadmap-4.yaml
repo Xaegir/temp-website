@@ -18,10 +18,10 @@ initiatives:
     to join a supportive enthusiastic team and ready to change the world.
 - name: initiative#2
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
+  status: ''
   focus: Collaboration -
   description: Web3 is brimming with startups, enthusiasts and icons that are changing
     the game and the ways we think of the space. We aim to partner with these entities
