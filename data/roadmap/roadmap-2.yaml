@@ -20,10 +20,10 @@ initiatives:
     moderation ensures a happy community.
 - name: initiative#2
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: IN PROGRESS
+  status: ''
   focus: Growth -
   description: Our Social & Community Management teams are constantly looking for
     effective ways to develop our content and optimize our reach. We want the word
