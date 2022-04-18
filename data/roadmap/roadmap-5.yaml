@@ -20,10 +20,10 @@ initiatives:
     within the Metaverse
 - name: initiative#2
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: DEVELOPMENT
+  status: ''
   focus: Xero -
   description: This consists of aesthetic and gaming item components for your Aevetar.
     This includes further customization, weaponry, vanity items and much more. We
