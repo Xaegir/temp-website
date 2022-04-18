@@ -29,10 +29,10 @@ initiatives:
     shared experiences.
 - name: initiative#3
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
+  status: ''
   focus: Investment -
   description: True innovation takes capital and while we strive to maintain a financially
     sustainable business model - we’d like to fast-track growth. We are sending out
