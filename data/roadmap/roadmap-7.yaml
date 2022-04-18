@@ -9,21 +9,19 @@ description: A fungible token created to disperse equity and governance througho
 initiatives:
 - name: initiative#1
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  focus:  Lorem ipsum dolor sit amet
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in  repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
+  status: ''
+  focus: Initiative 1
+  description: TBD
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus:  Lorem ipsum dolor sit amet
+  focus: Lorem ipsum dolor sit amet
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
     aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
     sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
@@ -33,7 +31,7 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus:  Lorem ipsum dolor sit amet
+  focus: Lorem ipsum dolor sit amet
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
     aliquid dicta ullam in epellendus amet perspiciatis adipisci architecto obcaecati
     sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
@@ -43,7 +41,7 @@ initiatives:
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus:  Lorem ipsum dolor sit amet
-  description: consectetur adipisicing elit. Vel enim
-    aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati
-    sit voluptas ipsam, deleniti neque placeattenetur cum tempore velit.
+  focus: Lorem ipsum dolor sit amet
+  description: consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus
+    amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque
+    placeattenetur cum tempore velit.
