@@ -8,35 +8,35 @@ description: A soft-curated NFT marketplace for the buying/selling of digital as
 initiatives:
 - name: initiative#1
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  focus: Artist Curation - 
-  description: While we do have an extremely talented and all-star
-    creative team, we are looking for the very best of the rest to populate our marketplace.
-    We have our sights set on becoming one of the largest NFT Marketplaces on the
-    planet and rely on quality creators and an active user base to make that happen.
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
+  status: ''
+  focus: Artist Curation -
+  description: While we do have an extremely talented and all-star creative team,
+    we are looking for the very best of the rest to populate our marketplace. We have
+    our sights set on becoming one of the largest NFT Marketplaces on the planet and
+    rely on quality creators and an active user base to make that happen.
 - name: initiative#2
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus: Validation & Quality Assurance - 
-  description: It's no secret that Web3 is crawling
-    with copycats and serial scammers and we aim to combat this with a community validation
-    program. Members of our user base will be incentivized to vet new listings and
-    artists who mint on our platform while we reinforce policies to minimize negative
-    experiences. We do our best to ensure a stress-free environment.
+  focus: Validation & Quality Assurance -
+  description: It's no secret that Web3 is crawling with copycats and serial scammers
+    and we aim to combat this with a community validation program. Members of our
+    user base will be incentivized to vet new listings and artists who mint on our
+    platform while we reinforce policies to minimize negative experiences. We do our
+    best to ensure a stress-free environment.
 - name: initiative#3
   enable: true
   initiative: Web
   initiativeLink: Web
   subtitle: subtitle
   status: "#status"
-  focus: User Experience - 
-  description: The user is our priority and what kind of philosophy
-    would that be if we didn’t care about your experience with our platforms. XAEGIR
-    has spent vast amounts of resources, time and energy to ensure the very best designers,
-    developers and programmers deliver a seamless and innovative user experience.
+  focus: User Experience -
+  description: The user is our priority and what kind of philosophy would that be
+    if we didn’t care about your experience with our platforms. XAEGIR has spent vast
+    amounts of resources, time and energy to ensure the very best designers, developers
+    and programmers deliver a seamless and innovative user experience.
