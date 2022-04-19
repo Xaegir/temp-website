@@ -2,11 +2,11 @@
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
 description = "XAEGIR is looking for a Business Development Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/career/logo-5.png"
+image = "images/flower.png"
 job_category = "Management"
 job_type = "Full time"
 location = "Remote"
-page_header_image = "images/background/about.jpg"
+page_header_image = "images/flower.png"
 title = "Business Development Manager"
 watermark = "Business Development Manager"
 
