@@ -1,11 +1,10 @@
 ---
-title: Crypto Advisor
-date: 2022-03-15T03:51:57+00:00
-watermark: Crypto Advisor
+title: Tokenomics Lead
+date: 2022-03-15T03:51:57.000+00:00
+watermark: Tokenomics Lead
 page_header_image: images/background/about.jpg
-description: XAEGIR is looking for an advisor or mentor that has an expansive knowledge
-  of the crypto environment, a deep technical understanding of dApps, industry standards,
-  protocols, TCRs and so on.
+description: XAEGIR is looking for a Tokenomics Lead to join the team. This is a full-time
+  position that is 100% remote with no geographical restrictions.
 image: images/career/logo-2.png
 location: Remote
 job_type: Full time
@@ -13,70 +12,147 @@ job_category: Business Operations Specialist
 apply_link: "#"
 
 ---
-![blog-image](https://xaegir.com/images/eth-crypto-cryptocurrency-cryptocurrencies-cash-money-bank-payment_95753.png)
+Tokenomics Lead at XAEGIR
 
-## About XAEGIR
+**$10k – $13k • 0.2% – 1.9%**.
 
-XAEGIR aims to be the first and largest marketplace for non-fungible tokens or NFTs in the Middle East. NFTs can be used in gaming, events, digital art, and an endless number of other use-cases. These items are supported by an immutable ledger, which makes them quite unique, mathematically scarce, liquid, and highly extensible for many different real-world applications. At XAEGIR, we’re excited about building a brand new economy from the ground up based on true digital ownership.
+### Why XAEGIR is Your Web3 Vessel in the Storm
 
-We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Our team is from all walks of life and we celebrate differences .
+* Extremely supportive team environment - even cross-functional support is available.
+* Character above talent - we foster an environment where learning is encouraged, and bad attitudes are not.
+* In the spirit of transparency, organization and foundational knowledge are established almost daily, which means you’ll be onboarded with full support and have access to information.
+* XAEGIR prioritizes health over work - so you never have to worry about taking time off for yourself. There’s no point in pride in creating a stressful work environment (That’s so last decade.)
+* Limited blockers - your suggestions, feedback, and work-related needs are taken seriously. We want you to be successful.
+* XAEGIR is in it for the long-term, which means growth opportunities, long-term business goals, and plenty of work. We’re not here to cut-and-run, but rather build innovations that the world will love and appreciate.
+* You’ll be able to upskill into the Web3 ecosystem and develop a new range of professional utility, learn about new technologies, understand current trends, and be part of a shifting landscape in the idea of a free and open web.
+* If you’re looking for a place where you can headline your talents, expand your portfolio, and push new personal and professional boundaries, then XAEGIR might be the theoretical ship waiting for you to board.
+* We blaze trails at the frontlines of the future.
 
-## About the job
+### What is XAEGIR?
 
-XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an **all-remote** company, but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
+XAEGIR is the premier Web3 on-ramp and gateway to the metaverse.
 
-For the role of crypto advisor, XAEGIR is looking for an individual with expansive knowledge in the crypto industry that can mentor, advise, guide, and draft business requirements into working plans for future XAEGIR products and services. This person will have prior rich, practical experience using decentralized technologies, such as Web3.js, Solana, Ethereum, BSC, Solidity, and more, along with a expert knowledge of token design, tokenomics, game theory, governance, DAOs, DeFi, toolings, blockchains, and much more. An advisor acts as an evangelist for the company, guiding and directing it in all aspects — marketing, technology, legal, economic and public relations.
+Our flagship product, Aevetar, features highly customizable and modular avatars with randomly generated traits. An Aevetar is a person’s identity in the metaverse; extensible for platform and purpose. It will be the foundation for continuously generated value and experiences - customers will realize new ways to use their Aevetar for social, gaming, and other metaverse experiences.
 
-As this is an advisory role, compensation will be based on equity and additional benefits. There is some flexibility in this, so feel free to propose ideas. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
+At XAEGIR, we’re excited about building a brand new economy from the ground up based on true digital ownership. We're leading the way with innovative, disruptive products and services for the metaverse.
 
-#### Responsibilities
+We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Our team is from all walks of life and we celebrate differences.
 
-* Define technical designs, advise and share your expertise with technicians.
-* Research and create strategic management, operational, and financial plans
-* Coordinate technical, legal, marketing, operational, and financial activities
-* Write / contribute to the whitepaper
-* Review smart contract codes
-* Deliberate on token structing
-* Guide and build the roadmap for marketing
-* PR and branding
-* Ensure legal and regulatory compliance
-* Provide strategies on engaging with investor community
-* Utilize professional network to provide great benefit to the company
-* Contribute to our brand, content, and community strategies with ideas and efforts.
+XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an all-remote company but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
 
-#### Requirements
+**On Culture**
 
-* Rich experience with blockchain, smart contract, and programming in general.
-* Excellent understanding of blockchain concepts and smart contracts
-* Strong writing and communication skills
-* A commitment to clear and concise documentation
-* Professional network resources in legal, marketing, investor, and financial spheres
-* Stellar governance knowledge - both technical and regulatory
-* Strong documentation skills
-* Assist in pre-sales, sales, closure, and delivery of partnership solutions
-* A positive and solution-oriented mindset
-* Ability to drive pursuits and engage in complex deals, matching outcomes to expectations
-* Ability to work easily with diverse and dynamic teams
+The XAEGIR team you will be working with identifies with the following traits:  
+Expressive  
+Patient  
+Helpful and supportive  
+Adventurous  
+Courageous
 
-#### Benefits
+**On leadership**
 
-Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry.
+_Some quotes from the XAEGIR team on the subject of leadership:_
 
-We’re excited to hear from you.
+\[Leadership demonstrates\] clear objectives, freedom to challenge decisions, effective delegation, open support, solid feedback, allows for own initiative, open-minded, expressive about problems, and demonstrates an encouraging mindset. Leadership is also transparent and instils confidence.
 
-#### Applying
+**On employees**
 
-Please start your application by telling us which newsletter you read / artists you like / twitter accounts you follow etc., to demonstrate your interest in NFTs. In addition to this, please describe your experiences interfacing with a community and list your achievements in relation to that following skillset.
+Our team is made up of a diverse group of passionate people who have carved out a personal path forward in the world of Web3. We’re thinkers, doers, and strongly motivated to innovate new products and services for the metaverse. We support each other during our daily Scrum meetings, toss ideas back and forth throughout the day, and enjoy sharing clever memes. Fun for us is having a sense of ownership in the job we love and being able to drive change and influence direction both internally and externally.
 
-**To Apply**: send an email to [careers@xaegir.io](mailto:careers@xaegir.io) with the subject of the email being “App - Crypto Advisor”.
+**On benefits**
 
-If possible, please provide a portfolio of your previous work, github profile, stackoverflow, and other resources you think will appeal for consideration.
+Candidates will enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry.
 
-Additionally, answer the following questions:
+### About the Quest
 
-* How many hours are you available per week?
-* What was the most satisfying project you’ve worked on? Why?
-* What’s your greatest passion in crypto?
-* Have you spent time in any metaverse?
-* What do you hope to achieve in joining XAEGIR?
-* List your professional networking resources and what you can bring to the table.
+**A day in the life**
+
+_General activities include:_
+
+* Have fun and be creative
+* Create new technologies and processes for a Web3 company
+* Communicate ideas and brainstorm
+* Help teammates company-wide
+* Document your processes, activities, and tasks
+
+_Role-specific activities include:_
+
+* Conduct deep structured research on protocol mechanisms to understand their fundamental drivers of valuation
+* Research and develop protocol-specific analytics that accurately depicts the state of the protocol, including TVL, revenue, fees, usage, etc
+* Play a pivotal role in advising the engineering and data science teams on what metrics are needed to correctly evaluate the overall health of a protocol
+
+**Must-have skills**
+
+_General skills include:_
+
+* Possess curiosity, resourcefulness, and open-mindedness to learn.
+* Have the ability to prioritize effectively on long-term projects with short term requirements.
+* Have patience in helping those who are new or unfamiliar!
+* Have a strong work ethic and hustle. Both are important, as are communication skills, writing ability, and a business development mindset.
+* Demonstrate knowledge of and interest in improving employee experiences.
+* Communicate when guidance is needed, or when it is not.
+* Flexibility and a desire to learn new workflows
+* Create pathways towards good communication, being reliable, and conscientious of others around you
+* Enjoy the journey and not get frustrated easily - reach out and we’ll help you succeed.
+
+_Role-specific skills include:_
+
+* Ability to understand Solidity smart contracts
+* Experience in designing economic incentives for a multi-sided platform
+* Experience with crypto or traditional market analysis
+* Experience drafting token white-paper and presenting complex concepts in simple terms to a non-technical audience
+* Solid understanding of the current state of Web3 crypto-economics, and blockchain technologies generally, with a focus on NFT projects
+* Experience with performing various simulations (agent-based, monte carlo, etc.) and extracting insights from data
+* Knowledge of DAO governance protocols and best practices for incorporating community into ongoing maintenance and evolution of the economy
+* Experience with financial modelling, discounted cash flow & ROI analysis, and valuation
+
+**Nice-to-have skills**
+
+* Experience with byzantine fault tolerant state machine replication or similar technologies is desired
+* A strong statistical background and an understanding of Web3 business models
+* Exceptional research and analytical skills and advanced proficiency in Excel, Python, Tableau, or other data visualization tools.
+* Experience with querying languages like SQL, GraphQL, Python, R
+* Previous role experience
+
+**Responsibilities**
+
+_General responsibilities include:_
+
+* In a ever-evolving environment, keep internal and external information resources up to date.
+* Contribute to internal documentation using Confluence on a consistent daily basis.
+* Utilize Agile methodology and communicate and coordinate tasks with teams
+* Utilize team self-management tools to provide transparency on department direction, projects, and plans
+
+_Role-specific responsibilities include:_
+
+* Draft white-paper and champion the multi-faceted system design for novel crypto-economics platform
+* Carry token designs from initial conception to community presentation and feedback requests to implementation
+* Work with on-chain data to analyze and maintain the ecosystem
+* Design novel economic and crypto-economic frameworks for a multi-sided platform and turn ideas, theories, and research into implementations of a platform token
+* Collaborate with Executive Leadership, Product, and Engineering to draft and champion token white-paper
+* Map well-explored economic mechanisms and models to blockchain use cases
+* Design and run simulations for stress testing and backtesting of platform token's risk parameters
+* Analyze on-chain and market data through various analytics and data science tools to draw conclusions on the market
+* Develop and maintain regular KPI reporting for senior leadership
+* Build and expand the research team to cover the different analytic verticals outside of DeFi (e.g. Web3, Layer 1s, Gaming, NFTs, etc.)
+
+**What separates the best from the rest**
+
+_General traits include:_
+
+* Experience with greenfield projects - building a line-of-business from the ground up
+* Obtained recognitions for acts of excellence
+* Agile, able to upskill, and reskill as needed
+* Demonstrates leadership and ownership
+* XAEGIR culture-fit
+* Communicative
+* Self-motivated (although we do our share of shared-motivation)
+* Teamwork that makes sense
+* Highly aware of industry-specific toolings, applications, and resources
+
+_Role-specific traits include:_
+
+* At least one successful token launch
+* Solid understanding of current state of Web3 crypto-economics, and blockchain technologies generally, with a focus on NFT projects
+* Experience with performing various simulations (agent-based, monte carlo, etc.) and extracting insights from data
+* Masters and/or PhD in Statistics, Economics, or Econometrics
