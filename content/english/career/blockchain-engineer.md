@@ -1,20 +1,21 @@
 +++
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a People Ops & Experience Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for a Blockchain Engineer to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/career/logo-4.png"
-job_category = "Management"
+job_category = "Specialist"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/background/about.jpg"
 title = "Blockchain Engineer"
-watermark = "People Ops & Experience Manager"
+watermark = "Blockchain Engineer"
 
 +++
-People Ops & Experience Manager at XAEGIR
+Blockchain Engineer at XAEGIR
 
-**$10k – $13k • 0.1% – 0.94%**
+**$10k – $13k • 0.3% – 1.5%**
+
+[**Edit**](https://angel.co/recruit/jobs/2113391/edit?slug=xaegir)Share job
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -75,8 +76,12 @@ _General activities include:_
 * Help teammates company-wide
 * Document your processes, activities, and tasks
 
-_Role-specific activities include:_  
-As a people ops and experience manager, you will work with the founders to help drive the organization foward. You'll lead the people strategy with your expertise, attracting the best talent and defining the type of organization that maximizes retention; focusing on people's well-being, experience, and enhancing their productivity using holistic methods.
+_Role-specific activities include:_
+
+* Engage in Layer 1 development; define core protocols of a blockchain ecosystem and develop clients.
+* Experiment with consensus mechanisms, proof-of-X, sharding, networking, etc
+* Engage in Layer 2 development; create dApps, UX, infrastructure, or layer 2 scaling - including state channels, side chains, etc
+* Ensure transactions, nodes, and databases are in sync or running optimally
 
 **Must-have skills**
 
@@ -91,23 +96,26 @@ _General skills include:_
 * Flexibility and a desire to learn new workflows
 * Create pathways towards good communication, being reliable, and conscientious of others around you
 * Enjoy the journey and not get frustrated easily - reach out and we’ll help you succeed.
+* Excellent written and verbal communication skills in English
+* Self-starting with the ability to effectively work autonomously with little oversight
 
 _Role-specific skills include:_
 
-* Optimistic, creative, diligent, and systematic
-* Inspiring, confident, charming, and wields a strong sense of humor
-* Direct and confident communication style
-* Has the ability to adopt a culture framework and be its number one advocate
-* An avid listener, learner, and doer with the ability to self-educate on new topics beyond your area of expertise
-* Pragmatism, ownership, and leadership with an entreprenurial mindset - you're not afraid to lead the way and take risks
-* A high emotional intelligence and keenly aware of authenticity in others - you can empathize, offer practical support, and sniff out complexities before they arise
+* Significant experience developing Solidity contracts and decentralized applications on the Ethereum blockchain or L2 networks
+* Understanding Blockchain Cryptography, Ethereum Virtual Machine (EVM) and Ethereum Tokens
+* An understanding of how to implement Game Theory, Tokenomics, and Mechanism Design requirements
+* Experience developing and delivering technical presentations
+* Ability to explain complex technical concepts to a novice; strong empathy for learners
+* Knowledge and hands-on experience with rollups
+* Experience in implementing real distributed systems
+* Proficiency in Golang, Kubernetes, Docker, and Terraform
+* Proficient in DevOps
+* Understand blockchain architectures (consortium, private, public, and hybrid); well-versed in concepts such as cryptography, consensus, has functions, distributed ledgers, and any other concepts integral to inner workings of a blockchain
+* Understanding of data structures such as graphs, heaps, hash trees, Patricia trees and Merkle trees
 
 **Nice-to-have skills**
 
-* Practical knowledge of talent acquisition, culture building, organizational architecture, and people operations.
-* Ability to execute remote experiences to maintain moral for a fun and pleasurable work environment
-* Experience partnering with engineering, finance, and legal teams
-* Have experimented with new models and technologies
+* Have created a blockchain
 
 **Responsibilities**
 
@@ -120,16 +128,13 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Partner with the leadership team (founders, product, research, finance, and legal) to shape the current and future organizational architecture and processes for a project that strives for a fully decentralized structure
-* Be an active community member and contributor in the web3 space, especially in relation to DAO ops and decentralized governance
-* Coordinate communications within the people and talent teams and act as a spokesperson to the broader organization
-* We’re planning to scale the team and hire unconventional profiles. You’ll help define the hiring strategy, roadmap & tactics whilst supporting the recruitment team to overcome bottlenecks, facilitating flow of communication from across the organization
-* Lead and support process automation, engagement, performance management, and L&D projects
-* Partner with, support and coordinate people partners and team leads in their hiring, onboarding, engagement, training, and retention needs
-* Create and run a robust recruiting program and make recommendations to increase the number of high-quality applicants
-* Be the point of contact for all candidates from sourcing, screening, scheduling, interviewing, and offer stage
-* Proactively reach out to potential candidates in the blockchain space and manage inbound candidates in a timely and efficient manner
-* Partner with external recruitment agencies and manage them to increases the number of high quality inbound candidates
+* Designing, hacking, testing, and deploying Solidity Contracts
+* Work with DeFi
+* Contribute to Architecture, Design, and Implementation of a Blockchain environment; including, but not limited to, the consensus layer, distributed ledger, and smart contracts layer
+* Build rapid prototypes
+* Take existing prototypes to production quality code to create new products and offerings
+* Plan security and compliance across the entire blockchain network and apply cryptographic mechanisms such as hash functions and digital signatures
+* Develop, test, monitor and maintain a blockchain network, with a focus on performance, distributed computing, consensus protocols, cryptography and other security measures
 
 **What separates the best from the rest**
 
@@ -147,6 +152,5 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* You share the philosophy behind Web3
-* Strategic leadership and ability to interface directly with founders or board at a tech, Web3, or crypto company
-* Blockchain / crypto culture knowledge
+* Have context and insight into the NFT space
+* Proven track record of greenfield development and blockchain and/or token launches
