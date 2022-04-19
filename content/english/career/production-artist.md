@@ -1,20 +1,17 @@
 +++
 apply_link = "https://docs.google.com/forms/d/e/1FAIpQLSdYsi2G_WUK0uHfxStJOGQ9NjwUJURPld_VwhX-SWEwgrBcMQ/viewform?usp=sf_link"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for General Counsel to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for Production Artist to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/vision.png"
 job_category = "Advisement"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/vision.png"
 title = "Production Artist"
-watermark = "General Counsel "
+watermark = "General Counsel Production Artist"
 
 +++
-# General Counsel at XAEGIR
-
-**$10k – $13k • 0.2% – 1.5%**
+# Production Artist at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -94,17 +91,24 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Strong knowledge of regulatory and legal regimes relevant to Web3 and crypto ecosystems, including financial market regulations, securities laws, US and global AML / CFT rulings
-* String knowledge of IP and open-source development law
-* Experience with company operations and organizational processes
-* A JD and active membership in at least one state bar
+* Experiences with digital content, such as social media, online advertising, and email campaigns
+* Expert in realistic characters with a solid understanding of character form.
+* Adobe Creative Suite (Photoshop, After Effects, Illustrator)
+* Experience handling several projects
+* Good project and time management skills
+* Experience taking a character to completion from either a detailed or simple concept image
 
 **Nice-to-have skills**
 
-* Experience with Cayman Island law
-* Experience with Bahrain law
-* Experience with UAE law
-* Experience with regulation and licensing with the Central Bank of Bahrain
+* Experience mentoring and growing other artists
+* Portfolio of highly detailed art with a focus on realistic characters
+* Experience in effectively collaborating with game designers and programmers
+* Understanding of asset optimization challenges/techniques in a shipped product
+* Effective problem-solving and prototyping experience
+* Hands-on experience with game engines such as Unreal, Unity, or equivalent experience
+* Experience in game development as a character artist using Maya (or 3DSMax), Photoshop, ZBrush, Unreal, V-Ray, Blender, or Unity Editor
+* Have shipped out an NFT collection
+* A strong understanding of design for social media platforms
 
 **Responsibilities**
 
@@ -113,26 +117,21 @@ _General responsibilities include:_
 * In a ever-evolving environment, keep internal and external information resources up to date.
 * Contribute to internal documentation using Confluence on a consistent daily basis.
 * Utilize Agile methodology and communicate and coordinate tasks with teams
-* Utilize team self-management tools to provide transparency on department direction, projects, and plans
+* Utilize Trello to provide transparency on department direction, projects, and plans
 
 _Role-specific responsibilities include:_
 
-* Serve as a key legal advisor in all areas of product development and projects
-* Help XAEGIR keep product and project objectives legally and ethically compliant
-* Support teams on legal matters, including strategy, general advice, contract review, commercial terms, corporate matters, internal policies, IP, negotiations and more
-* Proactively identify legal problems, solutions, and potential support needed to the team
-* Draft and review contracts and agreements, and provide holistic risk assessment and suggestions to enhance business value while mitigating downside risk
-* Manage relationships with lawyers and other external third-parties
-* Anticipate and maintain up-to-date knowledge of current laws relevant to web3 to provide strategic advice and foster compliance
-* Manage company operations, lead development of organizational processes
-* Providing business-oriented legal advice to stakeholders across the organization on a variety of business, regulatory and operational matters
-* Identifying inefficiencies in XAEGIR’s legal operations and providing recommendations for process improvements
-* Cover all jurisdictions where XAEGIR is currently active (MENA region)
-* Ensure XAEGIR remains in regulatory compliance under each license authority
-* Manage corporate structuring across multiple entities and jurisdictions
-* Support fundraising, transactions, equity investments in third-party companies, and M&A activity
-* Work with compliance team to protect the company against compliance risks
-* Draft and negotiate commercial agreements in relation agreements between entities
+* Effective communication skills with the experience to give and receive feedback well
+* Understand how to work with asset limitations, project milestones, and risks
+* Mentor and motivate other character artists
+* Develop new character ideas that fit within conceptual designs, technical parameters, and production goals, for a modular NFT that will be used for gaming.
+* Help define and maintain art production pipelines, tools, and systems
+* Assisting the design team in graphic production, which could include collateral, packaging, display and advertising projects
+* Quality control of final files
+* Review final copy, layouts, and content ensuring brand standards and putting the final touches on creative projects when necessary
+* Ensure all creatives have a strong relationship with the brand
+* Contribute to conceptual thinking, designing layouts
+* Share workflows, asset databases, and processes with team members
 
 **What separates the best from the rest**
 
@@ -150,9 +149,7 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Experience with DAO legal matters
-* Monitoring emerging DAO and cryptocurrency legislation and regulation, and advising XAEGIR of regulatory developments and any potential associated risks
-* Manage external counsel as required (e.g. employment law, jurisdictions)
-* Assist with legal spend and review legal bills
-* Like meritocracy and being ready to be judged by what you deliver
-* Have an entrepreneurial mindset vs 9-to-5 mentality; prepared to work non-standard working hours as required
+* Motion graphic design; modeling/animating/rendering in 3D and 2D environments
+* Develop and update brand identity for properties as needed, including style guides and templates for use across multiple mediums
+* You should think user-first, have a bold design perspective, and always look for the best approach to tell a story
+* Identifies as a storyteller or a creative weaver.
