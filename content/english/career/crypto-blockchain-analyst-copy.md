@@ -2,14 +2,13 @@
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
 description = "XAEGIR is looking for General Counsel to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
 image = "images/career/logo-5.png"
 job_category = "Advisement"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/background/about.jpg"
-title = "General Counsel at XAEGIR"
-watermark = "General Counsel at XAEGIR"
+title = "General Counsel "
+watermark = "General Counsel "
 
 +++
 # General Counsel at XAEGIR
