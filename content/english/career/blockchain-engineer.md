@@ -15,8 +15,6 @@ Blockchain Engineer at XAEGIR
 
 **$10k – $13k • 0.3% – 1.5%**
 
-[**Edit**](https://angel.co/recruit/jobs/2113391/edit?slug=xaegir)Share job
-
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
 * Extremely supportive team environment - even cross-functional support is available.
