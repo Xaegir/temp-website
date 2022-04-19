@@ -1,16 +1,15 @@
-+++
-apply_link = "https://docs.google.com/forms/d/e/1FAIpQLSdYsi2G_WUK0uHfxStJOGQ9NjwUJURPld_VwhX-SWEwgrBcMQ/viewform?usp=sf_link"
-date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for Production Artist to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/vision.png"
-job_category = "Creative"
-job_type = "Full time"
-location = "Remote"
-page_header_image = "images/vision.png"
-title = "Production Artist"
-watermark = "General Counsel Production Artist"
-
-+++
+---
+title: "Production Artist"
+date: 2022-03-15T03:51:57Z
+watermark: "General Counsel Production Artist"
+page_header_image: "images/vision.png"
+description: "XAEGIR is looking for Production Artist to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/vision.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Creative"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSfKcc5tCMfFo33ouExdpRpZCVr4FQ4t-Djpp5EUWyfA9sOFag/viewform?usp=sf_link"
+---
 # Production Artist at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm

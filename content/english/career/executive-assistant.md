@@ -1,16 +1,15 @@
-+++
-apply_link = "https://docs.google.com/forms/d/e/1FAIpQLScgrG7M2k7n8MjHwnE_Y-jVkOmOzNr-0mUWxA4FGS9knIr48Q/viewform?usp=sf_link"
-date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Executive Assistant to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/community.png"
-job_category = "Administration"
-job_type = "Full time"
-location = "Remote"
-page_header_image = "images/community.png"
-title = "Executive Assistant"
-watermark = "Executive Assistant"
-
-+++
+---
+title: "Executive Assistant"
+date: 2022-03-15T03:51:57Z
+watermark: "Executive Assistant"
+page_header_image: "images/community.png"
+description: "XAEGIR is looking for a Executive Assistant to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/community.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Administration"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSda8-vd8xzITiOSN3WpehO6E-7qA9gowvR_Y4RnM-yitx9Y5A/viewform?usp=sf_link"
+---
 # Executive Assistant at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
