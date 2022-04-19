@@ -1,20 +1,20 @@
 +++
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Crypto & Blockchain Analyst to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+description = "XAEGIR is looking for General Counsel to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 draft = true
 image = "images/career/logo-5.png"
-job_category = "Analysis"
+job_category = "Advisement"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/background/about.jpg"
-title = "Crypto & Blockchain Analyst-(copy)"
-watermark = "Crypto & Blockchain Analyst"
+title = "General Counsel at XAEGIR"
+watermark = "General Counsel at XAEGIR"
 
 +++
-Crypto & Blockchain Analyst at XAEGIR
+# General Counsel at XAEGIR
 
-**$10k – $13k • 0.2% – 1.45%**
+**$10k – $13k • 0.2% – 1.5%**
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -67,10 +67,6 @@ Candidates will enjoy working remotely with a diverse team in a challenging and 
 
 **A day in the life**
 
-Your quest will be to help us find and evaluate new investments and support the team across all portfolio companies, projects, and transactions, with a particular focus on the intersection of blockchain technology and interactive media, and gaming.
-
-The right candidate must be confident with working autonomously, and have high self-accountability, strong communication skills, and great passion for both the gaming and crypto industries, startups, and venture capital.
-
 _General activities include:_
 
 * Have fun and be creative
@@ -79,11 +75,8 @@ _General activities include:_
 * Help teammates company-wide
 * Document your processes, activities, and tasks
 
-_Role-specific activities include:_
-
-* Perform research on cryptoassets
-* Help manage deal flow pipelines and portfolio initiatives
-* Provide support on crypto product development initiatives
+_Role-specific activities include:_  
+As general counsel, you will commit your legal expertise to navigating a complex regulatory landscape, support product development, and provide legal guidance for the greater success of XAEGIR
 
 **Must-have skills**
 
@@ -101,16 +94,17 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Ambition and grit
-* Hands-on experience with DAOs, NFTs, and DeFi
-* Ability to work with crypto data providers such as Nansen, Nonfungibles, DappRadar, and more. Ability to execute data queries to build dashboards via platforms like Dune Analytics.
-* Keen quantitative and analytical thinking - great attention to detail, fact-driven, and pragmatic
-* Ability to work autonomously, operationally, hands-on with platform developments, or shift to synthesizing and presenting complex data
+* Strong knowledge of regulatory and legal regimes relevant to Web3 and crypto ecosystems, including financial market regulations, securities laws, US and global AML / CFT rulings
+* String knowledge of IP and open-source development law
+* Experience with company operations and organizational processes
+* A JD and active membership in at least one state bar
 
 **Nice-to-have skills**
 
-* Consistent ability in uncovering new opportunities that deliver outsized returns
-* Strong financial modeling skills
+* Experience with Cayman Island law
+* Experience with Bahrain law
+* Experience with UAE law
+* Experience with regulation and licensing with the Central Bank of Bahrain
 
 **Responsibilities**
 
@@ -123,16 +117,22 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Provide research reports on cryptoassets and protocols in a structured format
-* Work with team members to peer review and provide feedback on reports
-* Provide actionable intelligence in various relevant aspects of the crypto industry; technology, legal, regulatory, economic, and protocol background details
-* Identify new crypto infrastructure partnerships
-* Analyze new investment opportunities by thoroughly assessing founder teams, market potential, competitive dynamics, tokenomics, product KPIs, customer metrics and other available data.
-* Help manage XAEGIR's deal flow pipelines.
-* Manage portfolio initiatives (e.g. KPI and business plan tracking, fundraising support, strategic support, etc) to identify key areas where XAEGIR can both accelerate individual portfolio companies and promote cross-portfolio synergies.
-* Independently build expertise around industry trends to uncover proprietary information, differentiated opinions, and innovative investment opportunities
-* Engage with digital currency wallets, exchanges, fintechs, and banks
-* Identify investment and M&A opportunities
+* Serve as a key legal advisor in all areas of product development and projects
+* Help XAEGIR keep product and project objectives legally and ethically compliant
+* Support teams on legal matters, including strategy, general advice, contract review, commercial terms, corporate matters, internal policies, IP, negotiations and more
+* Proactively identify legal problems, solutions, and potential support needed to the team
+* Draft and review contracts and agreements, and provide holistic risk assessment and suggestions to enhance business value while mitigating downside risk
+* Manage relationships with lawyers and other external third-parties
+* Anticipate and maintain up-to-date knowledge of current laws relevant to web3 to provide strategic advice and foster compliance
+* Manage company operations, lead development of organizational processes
+* Providing business-oriented legal advice to stakeholders across the organization on a variety of business, regulatory and operational matters
+* Identifying inefficiencies in XAEGIR’s legal operations and providing recommendations for process improvements
+* Cover all jurisdictions where XAEGIR is currently active (MENA region)
+* Ensure XAEGIR remains in regulatory compliance under each license authority
+* Manage corporate structuring across multiple entities and jurisdictions
+* Support fundraising, transactions, equity investments in third-party companies, and M&A activity
+* Work with compliance team to protect the company against compliance risks
+* Draft and negotiate commercial agreements in relation agreements between entities
 
 **What separates the best from the rest**
 
@@ -150,7 +150,9 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Proven track record of strong portfolio management and crypto partnerships
-* Scaled emerging crypto product lines from initial proof of concept through go-to-market execution, spanning pricing, strategy, deal structuring, and client support
-
-Candidates will be asked to submit a 4-6 page thesis on an investment opportunity of their choice, which may be a private or public deal
+* Experience with DAO legal matters
+* Monitoring emerging DAO and cryptocurrency legislation and regulation, and advising XAEGIR of regulatory developments and any potential associated risks
+* Manage external counsel as required (e.g. employment law, jurisdictions)
+* Assist with legal spend and review legal bills
+* Like meritocracy and being ready to be judged by what you deliver
+* Have an entrepreneurial mindset vs 9-to-5 mentality; prepared to work non-standard working hours as required
