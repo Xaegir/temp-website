@@ -2,7 +2,7 @@
 title: Crypto & Blockchain Analyst
 date: 2022-03-15T03:51:57.000+00:00
 watermark: Crypto & Blockchain Analyst
-page_header_image: images/background/about.jpg
+page_header_image: images/market.png
 description: XAEGIR is looking for a Crypto & Blockchain Analyst to join the team.
   This is a full-time position that is 100% remote with no geographical restrictions.
 image: images/career/logo-5.png
