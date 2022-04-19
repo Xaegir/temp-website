@@ -37,7 +37,7 @@ Games (especially play-to-earn ones) are another use case that has taken off whi
 
 DAOs stand for **decentralized autonomous organizations** and are a way people can co-ordinate around a shared mission or vision. DAOs allow for on-chain governance and decentralized decision-making and ownership. In a web3 world, DAOs are likely to be meaningful if not _the primary_ way that groups of people coordinate to achieve desired outcomes.
 
-* **Assets under Management**: The total **assets under management** of DAOs **is up to \~$14B in 2021**. 1.3M members belong to DAOs, per DeepDao.
+* **Assets Under Management**: The total **assets under management** of DAOs **is up to \~$14B in 2021**. 1.3M members belong to DAOs, per DeepDao.
 * **Use Cases**: DAOs are popping up across a **myriad of use cases**, beyond just protocol and investing. Some of the other use cases include Social DAOs, Charity DAOs, Service DAOs (akin to guilds) as below.
 * **Infrastructure**: The infrastructure to support DAOs continues to improve with more and more things popping up to make it easier to handle Formation (DAOHaus), Governance (Snapshot), Treasury Management (Parcel) and Communication (Discourse, Discord) and Coordination (Coordinape).
 
