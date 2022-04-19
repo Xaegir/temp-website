@@ -1,15 +1,14 @@
 +++
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Blockchain Product Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for a Community Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/outreach.png"
 job_category = "Management"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/outreach.png"
 title = "Community Manager"
-watermark = "Blockchain Product Manager"
+watermark = "Community Manager"
 
 +++
 # Blockchain Product Manager at XAEGIR
@@ -77,9 +76,11 @@ _General activities include:_
 
 _Role-specific activities include:_
 
-* Champion of XAEGIR product development; marketplace for NFTs, Aevetars, Realms, dApps, Token ecosystem, and more.
-* Work with senior management team to align business priorities with technology
-* Work with full stack engineers
+* Develop, plan and implement communication campaigns and strategies.
+* Direct new users to XAEGIR communities and integrate new methods of engagement
+* Organize and manage community events to boost brand awareness
+* Manage communication with users on Discord, Twitter, Instagram, Telegram, and other social mediums.
+* Provide customer support
 
 **Must-have skills**
 
@@ -97,28 +98,34 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Understand the blockchain and NFT landscape and design a product roadmap accordingly
-* Be responsible for the development of Fenrir, the XAEGIR marketplace for Non-Fungible tokens
-* Propose new solutions for how to potentially integrate a XAEGIR token across the blockchain ecosystem and within XAEGIR Smart Products
+* Provide support for questions received outside of U.S. (Europe, Africa, and Asia).
+* Demonstrate experience or passion in leading a community.
 
 **Nice-to-have skills**
 
-* Knowledge of fungible token economics and DeFi
-* Experience working with Agile teams
-* In-depth knowledge of best practices in blockchain management and data protection
+* Previous marketing experience is a plus.
+* Hospitality skills
+* Familiarity with internet culture
+* Knowledge and understanding of human behaviour
+* Poly-linguistic
 
 **Responsibilities**
 
 _General responsibilities include:_
 
-* In a ever-evolving environment, keep internal and external information resources up to date.
+* In an ever-evolving environment, keep internal and external information resources up to date.
 * Contribute to internal documentation using Confluence on a consistent daily basis.
 * Utilize Agile methodology and communicate and coordinate tasks with teams
-* Utilize team self-management tools to provide transparency on department direction, projects, and plans
+* Utilize Trello to provide transparency on department direction, projects, and plans
+* Communicating with other members regarding projects, updates and announcements
 
 _Role-specific responsibilities include:_
 
-* Define and iterate on the product strategy and roadmap by leading protocol team
+* Use Zendesk, Tweetdeck, SalesIQ, Facebook, Discord, Twitter, Whatsapp and Telegram to provide customer support.
+* Keep the community’s spirit alive and well with promotions and other forms of engagement
+* Identifying candidates for UAT, product and service research / interviews
+* Gather and synthesize community insights and bring them to the attention of the engineering team.
+* Gather and synthesize community insights, ideas, complaints, issues, and other informational nuggets and bring them to the attention of relevant XAEGIR teams.
 
 **What separates the best from the rest**
 
@@ -136,4 +143,8 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Background in product management and experience leading teams *
+* Know how to communicate with audience
+* Know how to write content that drives traffic
+* Be transparent in your communications
+* Manages time well
+* Always communicating internally and externally
