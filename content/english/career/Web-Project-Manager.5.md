@@ -12,7 +12,7 @@ job_category: Analysis
 apply_link: "#"
 
 ---
-Crypto & Blockchain Analyst at XAEGIR
+# Crypto & Blockchain Analyst at XAEGIR
 
 **$10k – $13k • 0.2% – 1.45%**
 
