@@ -1,7 +1,7 @@
 +++
 description = "Here at XAEGIR, we do our own research. Below is a list of articles that we've written and published on a wide range of topics within the Web 3.0 space."
 page_header_image = "article-what-is-web3.png"
-title = "What is Web3? How It Works"
+title = "What is Web3? How It Works del"
 watermark = "Insights"
 
 +++
