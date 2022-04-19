@@ -5,7 +5,7 @@ watermark: Tokenomics Lead
 page_header_image: images/token.png
 description: XAEGIR is looking for a Tokenomics Lead to join the team. This is a full-time
   position that is 100% remote with no geographical restrictions.
-image: images/career/logo-2.png
+image: images/token.png
 location: Remote
 job_type: Full time
 job_category: Business Operations Specialist
