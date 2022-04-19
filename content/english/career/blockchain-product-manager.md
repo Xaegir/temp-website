@@ -2,7 +2,7 @@
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
 description = "XAEGIR is looking for a Blockchain Product Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/career/logo-5.png"
+image = "images/outreach.png"
 job_category = "Management"
 job_type = "Full time"
 location = "Remote"
