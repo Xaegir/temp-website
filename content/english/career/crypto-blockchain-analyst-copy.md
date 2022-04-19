@@ -6,7 +6,7 @@ image = "images/career/logo-5.png"
 job_category = "Advisement"
 job_type = "Full time"
 location = "Remote"
-page_header_image = "images/background/about.jpg"
+page_header_image = "images/vision.png"
 title = "General Counsel "
 watermark = "General Counsel "
 
