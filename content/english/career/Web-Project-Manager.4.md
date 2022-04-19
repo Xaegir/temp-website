@@ -1,98 +1,152 @@
 ---
-title: Smart Contract Developer
-date: 2022-03-15T03:51:57+00:00
-watermark: Smart Contract Developer
+title: People Ops & Experience Manager
+date: 2022-03-15T03:51:57.000+00:00
+watermark: People Ops & Experience Manager
 page_header_image: images/background/about.jpg
-description: XAEGIR is looking for a talented smart contract developer that can piece
-  together business requirements into secure, functional blockchain applications.
+description: XAEGIR is looking for a People Ops & Experience Manager to join the team.
+  This is a full-time position that is 100% remote with no geographical restrictions.
 image: images/career/logo-4.png
 location: Remote
 job_type: Full time
-job_category: Software Development
+job_category: Management
 apply_link: "#"
 
 ---
-![blog-image](https://xaegir.com/images/contract_icon-icons-com_64662.png)
+People Ops & Experience Manager at XAEGIR
 
-## About XAEGIR
+**$10k – $13k • 0.1% – 0.94%**
 
-XAEGIR aims to be the first and largest marketplace for non-fungible tokens or NFTs in the Middle East. NFTs can be used in gaming, events, digital art, and an endless number of other use-cases. These items are supported by an immutable ledger, which makes them quite unique, mathematically scarce, liquid, and highly extensible for many different real-world applications. At XAEGIR, we’re excited about building a brand new economy from the ground up based on true digital ownership.
+### Why XAEGIR is Your Web3 Vessel in the Storm
 
-We are dedicated to equal employment opportunities regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Our team is from all walks of life and we celebrate differences.
+* Extremely supportive team environment - even cross-functional support is available.
+* Character above talent - we foster an environment where learning is encouraged, and bad attitudes are not.
+* In the spirit of transparency, organization and foundational knowledge are established almost daily, which means you’ll be onboarded with full-support and have access to information.
+* XAEGIR prioritizes health over work - so you never have to worry about taking time off for yourself. There’s no point in pride in creating a stressful work environment (That’s so last decade.)
+* Limited blockers - your suggestions, feedback, and work-related needs are taken seriously. We want you to be successful.
+* XAEGIR is in it for the long-term, which means growth opportunities, long-term business goals, and plenty of work. We’re not here to cut-and-run, but rather build innovations that the world will love and appreciate.
+* You’ll be able to upskill into the Web3 ecosystem and develop a new range of professional utility, learn about new technologies, understand current trends, and be part of a shifting landscape in the idea of a free and open web.
+* If you’re looking for a place where you can headline your talents, expand your portfolio, and push new personal and professional boundaries, then XAEGIR might be the theoretical ship waiting for you to board.
+* We blaze trails at the frontlines of the future.
 
-## About the job
+### What is XAEGIR?
 
-XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an **all-remote** company but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
+XAEGIR is the premier Web3 on-ramp and gateway to the metaverse.
 
-For the role of smart contract developer, XAEGIR is looking for a talented hacker that can piece together business requirements into secure, functional blockchain applications. This person will have prior experience using decentralized technologies, such as Web3.js, Solana, Ethereum, BSC, Solidity, and more, along with a working knowledge of token design, coding methodologies, best practices, and “gotchas” in the realm of smart contracts.
+Our flagship product, Aevetar, features highly customizable and modular avatars with randomly generated traits. An Aevetar is a person’s identity in the metaverse; extensible for platform and purpose. It will be the foundation for continuously generated value and experiences - customers will realize new ways to use their Aevetar for social, gaming, and other metaverse experiences.
 
-Payments are made in USDC on the 5th working day of each month and may be sent through a chain to optimize gas fees. There is a 60-day probationary period for this position. Applications are considered in the order they were submitted, and they don’t expire. You’ll only be reached out to if selected for an interview.
+At XAEGIR, we’re excited about building a brand new economy from the ground up based on true digital ownership. We're leading the way with innovative, disruptive products and services for the metaverse.
 
-#### Responsibilities
+We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Our team is from all walks of life and we celebrate differences.
 
-* Developing the backend side of the NFT marketplace and future projects.
-* Use Zendesk, Asana, Github, and other tools for project management.
-* Create scalable contracts that can be upgraded over time.
-* Gather and synthesize community insights and bring them to the attention of the engineering team.
-* Collaborate with the designing and development teams
-* Build testable, reusable, and scalable code.
-* In a fast-changing environment, keep internal and external information resources up to date.
-* Contribute to our brand, content, and community strategies with ideas and efforts.
+XAEGIR is largely a user-driven organization, so you’ll have a seat at the table in influencing the platform, celebrating the culture, and engaging communities around the globe. We are an all-remote company, but prefer that you have availability during GMT+3 work hours to facilitate better collaboration with your core team.
 
-#### Requirements
+**On Culture**
 
-* Build L2 scaling integrations, such as support for Polygon
-* Bridging support for other network chains.
-* Deep experience with programming in general.
-* Excellent understanding of blockchain concepts and smart contracts
-* An appetite for TDD and writing unit tests
-* Build and deploy smart contracts both on-chain and off-chain.
-* Strong writing and communication skills
-* A commitment to clear and concise documentation
-* Contribute to building, frameworks, libraries and standards that enable DApps to live on the Web3
-* Working with feeds & oracles
-* Playing with Fuzzers and Vulnerability Scanners
-* Build modular contract frameworks, components and libraries
-* Test, update and optimize the application for performance and security
-* Experience with translating requirements into flexible and usable code
-* Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
-* A positive and solution-oriented mindset
-* Work on token, contract, and gamifying design
-* Implement token (ERC721) fractionalization functionality
-* Work on “DAO as a service” solutions
-* Developing new smart contracts not yet hypothesized
+The XAEGIR team you will be working with identifies with the following traits:  
+Expressive  
+Patient  
+Helpful and supportive  
+Adventurous  
+Courageous
 
-#### Ideally, You Would Have…
+**On leadership**
 
-* A genuine affection for creating solutions
-* A strong work ethic and hustle are all important, as are communication skills, writing ability, and a business development mindset.
-* Curiosity, resourcefulness, and open-mindedness to learning are all important traits to possess.
-* The ability to prioritize effectively in a rapidly changing environment.
-* Experience in communicating with users, other technical teams, and product management to understand requirements, describe software product features, and technical designs
-* Ability to derive the information from a research paper, whitepaper, technical paper, litepaper, etc.
-* Experience with agile and test-driven development
-* Experience with Full-Stack capabilities Vue.js, Web3.js, Golang.
-* Experience with industry standards (ERPs & EIPs), structuring proposals, and best practices.
-* Accomplished with TypeScript and building web JavaScript libraries for Dapps
+_Some quotes from the XAEGIR team on the subject of leadership:_
 
-#### Benefits
+\[Leadership demonstrates\] clear objectives, freedom to challenge decisions, effective delegation, open support, solid feedback, allows for own initiative, open-minded, expressive about problems, and demonstrates an encouraging mindset. Leadership is also transparent and instills confidence.
 
-Enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry.
+**On employees**
 
-We’re excited to hear from you.
+Our team is made up of a diverse group of passionate people who have carved out a personal path forward in the world of Web3. We’re thinkers, doers, and strongly motivated to innovate new products and services for the metaverse. We support each other during our daily Scrum meetings, toss ideas back and forth throughout the day, and enjoy sharing clever memes. Fun for us is having a sense of ownership in the job we love and being able to drive change and influence direction both internally and externally.
 
-#### Applying
+**On benefits**
 
-Please start your application by telling us which newsletter you read / artists you like / Twitter accounts you follow etc., to demonstrate your interest in NFTs. In addition to this, please describe your experiences interfacing with a community and list your achievements in relation to the following skillset.
+Candidates will enjoy working remotely with a diverse team in a challenging and changing market segment. Company culture promotes and encourages out-of-the-box solutions and new ideas. Get the chance to learn new Blockchain projects early in their development period before they come to market and challenge yourself to bring new products, services, and ideas to a revolutionary industry.
 
-**To Apply**: send an email to [careers@xaegir.io](mailto:careers@xaegir.io) with the subject of the email being “App - Smart Contract Dev”.
+### About the Quest
 
-If possible, please provide a portfolio of your previous work, GitHub profile, StackOverflow, and other resources you think will appeal for consideration.
+**A day in the life**
 
-Additionally, answer the following questions:
+_General activities include:_
 
-* How many hours are you available per week?
-* What was the most satisfying project you’ve worked on? Why?
-* What’s your greatest passion in development?
-* Have you spent time in any metaverse?
-* What do you hope to achieve in joining XAEGIR?
+* Have fun and be creative
+* Create new technologies and processes for a Web3 company
+* Communicate ideas and brainstorm
+* Help teammates company-wide
+* Document your processes, activities, and tasks
+
+_Role-specific activities include:_  
+As a people ops and experience manager, you will work with the founders to help drive the organization foward. You'll lead the people strategy with your expertise, attracting the best talent and defining the type of organization that maximizes retention; focusing on people's well-being, experience, and enhancing their productivity using holistic methods.
+
+**Must-have skills**
+
+_General skills include:_
+
+* Possess curiosity, resourcefulness, and open-mindedness to learning.
+* Have the ability to prioritize effectively on long-term projects with short term requirements.
+* Have patience in helping those who are new or unfamiliar
+* Have a strong work ethic and hustle. Both are important, as are communication skills, writing ability, and a business development mindset.
+* Demonstrate knowledge of and interest in improving employee experiences.
+* Communicate when guidance is needed, or when it is not.
+* Flexibility and a desire to learn new workflows
+* Create pathways towards good communication, being reliable, and conscientious of others around you
+* Enjoy the journey and not get frustrated easily - reach out and we’ll help you succeed.
+
+_Role-specific skills include:_
+
+* Optimistic, creative, diligent, and systematic
+* Inspiring, confident, charming, and wields a strong sense of humor
+* Direct and confident communication style
+* Has the ability to adopt a culture framework and be its number one advocate
+* An avid listener, learner, and doer with the ability to self-educate on new topics beyond your area of expertise
+* Pragmatism, ownership, and leadership with an entreprenurial mindset - you're not afraid to lead the way and take risks
+* A high emotional intelligence and keenly aware of authenticity in others - you can empathize, offer practical support, and sniff out complexities before they arise
+
+**Nice-to-have skills**
+
+* Practical knowledge of talent acquisition, culture building, organizational architecture, and people operations.
+* Ability to execute remote experiences to maintain moral for a fun and pleasurable work environment
+* Experience partnering with engineering, finance, and legal teams
+* Have experimented with new models and technologies
+
+**Responsibilities**
+
+_General responsibilities include:_
+
+* In a ever-evolving environment, keep internal and external information resources up to date.
+* Contribute to internal documentation using Confluence on a consistent daily basis.
+* Utilize Agile methodology and communicate and coordinate tasks with teams
+* Utilize team self-management tools to provide transparency on department direction, projects, and plans
+
+_Role-specific responsibilities include:_
+
+* Partner with the leadership team (founders, product, research, finance, and legal) to shape the current and future organizational architecture and processes for a project that strives for a fully decentralized structure
+* Be an active community member and contributor in the web3 space, especially in relation to DAO ops and decentralized governance
+* Coordinate communications within the people and talent teams and act as a spokesperson to the broader organization
+* We’re planning to scale the team and hire unconventional profiles. You’ll help define the hiring strategy, roadmap & tactics whilst supporting the recruitment team to overcome bottlenecks, facilitating flow of communication from across the organization
+* Lead and support process automation, engagement, performance management, and L&D projects
+* Partner with, support and coordinate people partners and team leads in their hiring, onboarding, engagement, training, and retention needs
+* Create and run a robust recruiting program and make recommendations to increase the number of high-quality applicants
+* Be the point of contact for all candidates from sourcing, screening, scheduling, interviewing, and offer stage
+* Proactively reach out to potential candidates in the blockchain space and manage inbound candidates in a timely and efficient manner
+* Partner with external recruitment agencies and manage them to increases the number of high quality inbound candidates
+
+**What separates the best from the rest**
+
+_General traits include:_
+
+* Experience with greenfield projects - building a line-of-business from the ground up
+* Obtained recognitions for acts of excellence
+* Agile, able to upskill, and reskill as needed
+* Demonstrates leadership and ownership
+* XAEGIR culture-fit
+* Communicative
+* Self-motivated (although we do our share of shared-motivation)
+* Teamwork that makes sense
+* Highly aware of industry-specific toolings, applications, and resources
+
+_Role-specific traits include:_
+
+* You share the philosophy behind Web3
+* Strategic leadership and ability to interface directly with founders or board at a tech, Web3, or crypto company
+* Blockchain / crypto culture knowledge
