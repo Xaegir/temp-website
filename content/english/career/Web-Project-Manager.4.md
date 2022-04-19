@@ -2,7 +2,7 @@
 title: People Ops & Experience Manager
 date: 2022-03-15T03:51:57.000+00:00
 watermark: People Ops & Experience Manager
-page_header_image: images/background/about.jpg
+page_header_image: images/community.png
 description: XAEGIR is looking for a People Ops & Experience Manager to join the team.
   This is a full-time position that is 100% remote with no geographical restrictions.
 image: images/career/logo-4.png
