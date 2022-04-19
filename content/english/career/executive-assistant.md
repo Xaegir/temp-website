@@ -1,20 +1,17 @@
 +++
 apply_link = "https://docs.google.com/forms/d/e/1FAIpQLScgrG7M2k7n8MjHwnE_Y-jVkOmOzNr-0mUWxA4FGS9knIr48Q/viewform?usp=sf_link"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a People Ops & Experience Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for a Executive Assistant to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/community.png"
 job_category = "Management"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/community.png"
 title = "Executive Assistant"
-watermark = "People Ops & Experience Manager"
+watermark = "Executive Assistant"
 
 +++
-# People Ops & Experience Manager at XAEGIR
-
-**$10k – $13k • 0.1% – 0.94%**
+# Executive Assistant at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -76,38 +73,38 @@ _General activities include:_
 * Document your processes, activities, and tasks
 
 _Role-specific activities include:_  
-As a people ops and experience manager, you will work with the founders to help drive the organization foward. You'll lead the people strategy with your expertise, attracting the best talent and defining the type of organization that maximizes retention; focusing on people's well-being, experience, and enhancing their productivity using holistic methods.
+As an executive assistant, you will be providing full-administrative support for the CEO. You will draft correspondences, create template documents and other paperwork, manage asset databases, take notes and meeting minutes, as well as other supportive activities.
 
 **Must-have skills**
 
 _General skills include:_
 
-* Possess curiosity, resourcefulness, and open-mindedness to learning.
-* Have the ability to prioritize effectively on long-term projects with short term requirements.
-* Have patience in helping those who are new or unfamiliar
-* Have a strong work ethic and hustle. Both are important, as are communication skills, writing ability, and a business development mindset.
-* Demonstrate knowledge of and interest in improving employee experiences.
-* Communicate when guidance is needed, or when it is not.
-* Flexibility and a desire to learn new workflows
+* Possess curiosity, resourcefulness, and open-mindedness to learning
+* Have the ability to prioritize effectively on long-term projects with short term requirements
+* Have a strong work ethic and hustle. Both are important, as are communication skills, writing ability, and a business development mindset
+* Demonstrate knowledge of and interest in organizational efficiency
+* Communicate when guidance is needed, or when it is not
+* Flexibility and a desire to learn new workflows necessary
 * Create pathways towards good communication, being reliable, and conscientious of others around you
-* Enjoy the journey and not get frustrated easily - reach out and we’ll help you succeed.
+* Enjoy the journey and not get frustrated easily - reach out and we’ll help you succeed
+* Ability to comprehend, analyze, and interpret documents
+* Requires knowledge of financial terms and principles
+* Must have a strong command of the English language and excel in the areas of spelling, grammar and punctuation
 
 _Role-specific skills include:_
 
-* Optimistic, creative, diligent, and systematic
-* Inspiring, confident, charming, and wields a strong sense of humor
-* Direct and confident communication style
-* Has the ability to adopt a culture framework and be its number one advocate
-* An avid listener, learner, and doer with the ability to self-educate on new topics beyond your area of expertise
-* Pragmatism, ownership, and leadership with an entreprenurial mindset - you're not afraid to lead the way and take risks
-* A high emotional intelligence and keenly aware of authenticity in others - you can empathize, offer practical support, and sniff out complexities before they arise
+* Technical savvy for use of technology solutions organization-wide, including Microsoft Suite, Google Drive, and Zoom, Atlassian Products, etc.
+* Project management capabilities to navigate multiple projects, full cycle, simultaneously
+* Excellent organizational skills and ability to manage multiple detailed assignments independently
 
 **Nice-to-have skills**
 
-* Practical knowledge of talent acquisition, culture building, organizational architecture, and people operations.
-* Ability to execute remote experiences to maintain moral for a fun and pleasurable work environment
-* Experience partnering with engineering, finance, and legal teams
-* Have experimented with new models and technologies
+* Poly-linguistic
+* Fluent in Arabic
+* Diplomacy, Ability to manage/ handle clients.
+* Proven knowledge of expense reporting
+* Lead-generation experience
+* Partnership management experience
 
 **Responsibilities**
 
@@ -116,20 +113,22 @@ _General responsibilities include:_
 * In a ever-evolving environment, keep internal and external information resources up to date.
 * Contribute to internal documentation using Confluence on a consistent daily basis.
 * Utilize Agile methodology and communicate and coordinate tasks with teams
-* Utilize team self-management tools to provide transparency on department direction, projects, and plans
+* Utilize Trello to provide transparency on department direction, projects, and plans
 
 _Role-specific responsibilities include:_
 
-* Partner with the leadership team (founders, product, research, finance, and legal) to shape the current and future organizational architecture and processes for a project that strives for a fully decentralized structure
-* Be an active community member and contributor in the web3 space, especially in relation to DAO ops and decentralized governance
-* Coordinate communications within the people and talent teams and act as a spokesperson to the broader organization
-* We’re planning to scale the team and hire unconventional profiles. You’ll help define the hiring strategy, roadmap & tactics whilst supporting the recruitment team to overcome bottlenecks, facilitating flow of communication from across the organization
-* Lead and support process automation, engagement, performance management, and L&D projects
-* Partner with, support and coordinate people partners and team leads in their hiring, onboarding, engagement, training, and retention needs
-* Create and run a robust recruiting program and make recommendations to increase the number of high-quality applicants
-* Be the point of contact for all candidates from sourcing, screening, scheduling, interviewing, and offer stage
-* Proactively reach out to potential candidates in the blockchain space and manage inbound candidates in a timely and efficient manner
-* Partner with external recruitment agencies and manage them to increases the number of high quality inbound candidates
+* Perform secretarial, administrative, organizing and research tasks requiring a sound understanding of organization policy and structure
+* Proactively identify administrative requirements, work out the most appropriate plan and agree timeframes for completion of tasks
+* Maintain standards for all correspondence and materials for both internal and external communications. Produce reports, minutes of meetings, presentations etc as required by the Executive Team.
+* Maintains confidential records and filing of reports, correspondence and related material for ease of retrieval. Ensures compliance with the provisions of Non-Disclosure Agreements and Confidentiality Agreements in terms of secure storage of information and any segregation of duties.
+* Setting up presentations
+* Function as an official signatory for the company
+* Planning and organizing
+* Organize travel and meeting arrangements
+* Be the ‘front-lines’ of communication
+* Creates, maintains, and/or updates various databases
+* Leads and monitors issues for appropriate follow up
+* Arranges domestic and international travel
 
 **What separates the best from the rest**
 
@@ -147,6 +146,6 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* You share the philosophy behind Web3
-* Strategic leadership and ability to interface directly with founders or board at a tech, Web3, or crypto company
-* Blockchain / crypto culture knowledge
+* Personal integrity and ethics when dealing with highly confidential and sensitive information
+* The actions taken when a mistake happens
+* Resourcefulness, attention to detail, and ability to anticipate problems or needs
