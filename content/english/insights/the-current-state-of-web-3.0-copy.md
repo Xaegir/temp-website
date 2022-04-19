@@ -1,5 +1,5 @@
 +++
-author = "Stephen van der Berg"
+author = "Stephen M. van der Berg"
 categories = ["Investment Planning"]
 date = 2022-04-18T22:00:00Z
 description = "Web3 is in its infancy and as such it's difficult to find a clear cut definition and breakdown of what Web3 is. Most information online is either overwhelming technical or overly opinionated. Below is an article that explains the space in an easily digestible manner."
