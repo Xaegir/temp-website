@@ -11,7 +11,7 @@ title = "Blockchain Product Manager"
 watermark = "Blockchain Product Manager"
 
 +++
-Blockchain Product Manager at XAEGIR
+# Blockchain Product Manager at XAEGIR
 
 **$10k – $13k • 0.15% – 1.2%**
 
