@@ -12,7 +12,7 @@ job_category: Specialist
 apply_link: "#"
 
 ---
-Tokenomics Lead at XAEGIR
+# Tokenomics Lead at XAEGIR
 
 **$10k – $13k • 0.2% – 1.9%**.
 
