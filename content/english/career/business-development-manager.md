@@ -1,16 +1,16 @@
-+++
-apply_link = "#"
-date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Business Development Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/flower.png"
-job_category = "Management"
-job_type = "Full time"
-location = "Remote"
-page_header_image = "images/flower.png"
-title = "Business Development Manager"
-watermark = "Business Development Manager"
+---
+title: "Business Development Manager"
+date: 2022-03-15T03:51:57Z
+watermark: "Business Development Manager"
+page_header_image: "images/flower.png"
+description: "XAEGIR is looking for a Business Development Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/flower.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Management"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSmgD_tuN0P5qmwU7xp8mD9ARzzQHjVEkhX6YGG3d2JRuCA/viewform?usp=sf_link"
 
-+++
+---
 # Business Development Manager at XAEGIR
 
 **$10k – $13k • 0.2% – 1.3%**

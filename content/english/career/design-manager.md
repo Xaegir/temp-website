@@ -1,20 +1,20 @@
 ---
-title: Crypto & Blockchain Analyst
-date: 2022-03-15T03:51:57.000+00:00
-watermark: Crypto & Blockchain Analyst
-page_header_image: images/market.png
-description: XAEGIR is looking for a Crypto & Blockchain Analyst to join the team.
-  This is a full-time position that is 100% remote with no geographical restrictions.
-image: images/market.png
+title: Design Manager
+date: 2019-04-10T09:51:57.000+06:00
+watermark: Design Manager
+page_header_image: images/aevetar.png
+description: XAEGIR is looking for a Design Manager to join the team. This is a full-time
+  position that is 100% remote with no geographical restrictions.
+image: images/aevetar.png
 location: Remote
 job_type: Full time
-job_category: Analysis
-apply_link: "#"
+job_category: Management
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSfztoHh9k-6NvxUML0VQSitBnAJ-3N_IaBkC0jqRguV9tCh7g/viewform?usp=sf_link"
 
 ---
-# Crypto & Blockchain Analyst at XAEGIR
+# Design Manager at XAEGIR
 
-**$10k – $13k • 0.2% – 1.45%**
+**$10k – $13k • 0.2% – 1.3%**
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -67,10 +67,6 @@ Candidates will enjoy working remotely with a diverse team in a challenging and 
 
 **A day in the life**
 
-Your quest will be to help us find and evaluate new investments and support the team across all portfolio companies, projects, and transactions, with a particular focus on the intersection of blockchain technology and interactive media, and gaming.
-
-The right candidate must be confident with working autonomously, and have high self-accountability, strong communication skills, and great passion for both the gaming and crypto industries, startups, and venture capital.
-
 _General activities include:_
 
 * Have fun and be creative
@@ -79,11 +75,8 @@ _General activities include:_
 * Help teammates company-wide
 * Document your processes, activities, and tasks
 
-_Role-specific activities include:_
-
-* Perform research on cryptoassets
-* Help manage deal flow pipelines and portfolio initiatives
-* Provide support on crypto product development initiatives
+_Role-specific activities include:_  
+As a Design Manager, you will be leading efforts across UI/UX design, graphic design, 3D design, branding, motion design, etc. This will entail working on these categories yourself, as well as building out the team that will support you.
 
 **Must-have skills**
 
@@ -101,16 +94,18 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Ambition and grit
-* Hands-on experience with DAOs, NFTs, and DeFi
-* Ability to work with crypto data providers such as Nansen, Nonfungibles, DappRadar, and more. Ability to execute data queries to build dashboards via platforms like Dune Analytics.
-* Keen quantitative and analytical thinking - great attention to detail, fact-driven, and pragmatic
-* Ability to work autonomously, operationally, hands-on with platform developments, or shift to synthesizing and presenting complex data
+* Native to social environments and an excellent networker; outgoing and uninhibited
+* Expertise in UI/UX design, graphic design, 3D design, product design, brand design, motion design
+* Operate as a backup production artist
+* Product-focused design
+* Ability to design A/B tests
+* Work with contractors to create brand assets
 
 **Nice-to-have skills**
 
-* Consistent ability in uncovering new opportunities that deliver outsized returns
-* Strong financial modeling skills
+* Ability to build a brand and a marketing experience
+* Ability to analyze competitive designs
+* Proven ability to lead teams to achieve results, exercise independent judgment and handle unique situations to accomplish goals in tight time frames
 
 **Responsibilities**
 
@@ -123,16 +118,27 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Provide research reports on cryptoassets and protocols in a structured format
-* Work with team members to peer review and provide feedback on reports
-* Provide actionable intelligence in various relevant aspects of the crypto industry; technology, legal, regulatory, economic, and protocol background details
-* Identify new crypto infrastructure partnerships
-* Analyze new investment opportunities by thoroughly assessing founder teams, market potential, competitive dynamics, tokenomics, product KPIs, customer metrics and other available data.
-* Help manage XAEGIR's deal flow pipelines.
-* Manage portfolio initiatives (e.g. KPI and business plan tracking, fundraising support, strategic support, etc) to identify key areas where XAEGIR can both accelerate individual portfolio companies and promote cross-portfolio synergies.
-* Independently build expertise around industry trends to uncover proprietary information, differentiated opinions, and innovative investment opportunities
-* Engage with digital currency wallets, exchanges, fintechs, and banks
-* Identify investment and M&A opportunities
+* Trend identification within markets and industries
+* Work with cross functional teams (product, engineering, marketing, data science) to design, launch and optimize XAEGIR programs, projects, and visual content
+* Design XAEGIR products, webapps, landing pages, and other visual content
+* Push the UX standards of the industry forward
+* Collaborate with key product stakeholders regularly to define requirements and prioritize key product features.
+* Collaborate with developers, PMs, and marketing to define and design the best possible experience for the user
+* Communicate design ideas to stakeholders, developers, and PMs through task flow diagrams, user journeys/scenarios, as well as low and high-fidelity wireframes and mockups on figma
+* Present and defend designs and key milestone deliverables to appropriate teams
+* Conduct user research and evaluate feedback
+* Determine user needs by conducting user interviews with real users
+* Create and run ideation workshops in support of new product explorations
+* Create rapid and iterative wireframes for prototyping for various ideas and concepts
+* Facilitate usability testing and evaluate user feedback to improve the concept or existing products further
+* Evaluate the user experience design of existing design concepts and on-device prototypes, and communicate design enhancements
+* Research interaction design trends
+* Create personas and customer journeys
+* Create clear graphics to accompany complex technical documentation
+* Evolve the visual identity at XAEGIR with a strong focus on illustration and motion
+* Develop documentation for XAEGIR’s brand guidelines
+* Create design assets for marketing, communications, and product to build a cohesive experience that brings our brand to life
+* Translate marketing initiatives into creative social media campaigns that drive engagement and growth
 
 **What separates the best from the rest**
 
@@ -150,7 +156,11 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Proven track record of strong portfolio management and crypto partnerships
-* Scaled emerging crypto product lines from initial proof of concept through go-to-market execution, spanning pricing, strategy, deal structuring, and client support
-
-Candidates will be asked to submit a 4-6 page thesis on an investment opportunity of their choice, which may be a private or public deal
+* A robust portfolio demonstrating your talents - huge bonuses towards demonstrated range in designs / artwork
+* Team spirit; strong communication skills to collaborate with various stakeholders and continuous learning
+* High to expert knowledge of design, toolings, Web3, and NFT industries
+* Understands growth concepts such as virality, optimization, A/B test and conversion funnels
+* An entrepreneurial spirit with a record of sourcing, inventing, developing, and maintaining trending visual content
+* Minted an NFT collection previously
+* In-depth experience operating within and leading cross-functional teams (product management, customer success, development, marketing, etc.) on design-related tasks
+* History of working professionally with engineers to design UI/UX systems

@@ -9,7 +9,7 @@ image: images/token.png
 location: Remote
 job_type: Full time
 job_category: Specialist
-apply_link: "#"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSfvIUz5jM-BWdFK4HVWXjflB0u6hWCRRrRnaN004NRtOjOj5w/viewform?usp=sf_link"
 
 ---
 # Tokenomics Lead at XAEGIR

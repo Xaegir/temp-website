@@ -1,20 +1,19 @@
 ---
-title: Design Manager
-date: 2019-04-10T09:51:57.000+06:00
-watermark: Design Manager
-page_header_image: images/aevetar.png
-description: XAEGIR is looking for a Design Manager to join the team. This is a full-time
-  position that is 100% remote with no geographical restrictions.
-image: images/aevetar.png
-location: Remote
-job_type: Full time
-job_category: Management
-apply_link: "#"
+title: "General Counsel "
+date: 2022-03-15T03:51:57Z
+watermark: "General Counsel "
+page_header_image: "images/vision.png"
+description: "XAEGIR is looking for General Counsel to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/vision.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Advisement"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSdYsi2G_WUK0uHfxStJOGQ9NjwUJURPld_VwhX-SWEwgrBcMQ/viewform?usp=sf_link"
 
 ---
-# Design Manager at XAEGIR
+# General Counsel at XAEGIR
 
-**$10k – $13k • 0.2% – 1.3%**
+**$10k – $13k • 0.2% – 1.5%**
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -76,7 +75,7 @@ _General activities include:_
 * Document your processes, activities, and tasks
 
 _Role-specific activities include:_  
-As a Design Manager, you will be leading efforts across UI/UX design, graphic design, 3D design, branding, motion design, etc. This will entail working on these categories yourself, as well as building out the team that will support you.
+As general counsel, you will commit your legal expertise to navigating a complex regulatory landscape, support product development, and provide legal guidance for the greater success of XAEGIR
 
 **Must-have skills**
 
@@ -94,18 +93,17 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Native to social environments and an excellent networker; outgoing and uninhibited
-* Expertise in UI/UX design, graphic design, 3D design, product design, brand design, motion design
-* Operate as a backup production artist
-* Product-focused design
-* Ability to design A/B tests
-* Work with contractors to create brand assets
+* Strong knowledge of regulatory and legal regimes relevant to Web3 and crypto ecosystems, including financial market regulations, securities laws, US and global AML / CFT rulings
+* String knowledge of IP and open-source development law
+* Experience with company operations and organizational processes
+* A JD and active membership in at least one state bar
 
 **Nice-to-have skills**
 
-* Ability to build a brand and a marketing experience
-* Ability to analyze competitive designs
-* Proven ability to lead teams to achieve results, exercise independent judgment and handle unique situations to accomplish goals in tight time frames
+* Experience with Cayman Island law
+* Experience with Bahrain law
+* Experience with UAE law
+* Experience with regulation and licensing with the Central Bank of Bahrain
 
 **Responsibilities**
 
@@ -118,27 +116,22 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Trend identification within markets and industries
-* Work with cross functional teams (product, engineering, marketing, data science) to design, launch and optimize XAEGIR programs, projects, and visual content
-* Design XAEGIR products, webapps, landing pages, and other visual content
-* Push the UX standards of the industry forward
-* Collaborate with key product stakeholders regularly to define requirements and prioritize key product features.
-* Collaborate with developers, PMs, and marketing to define and design the best possible experience for the user
-* Communicate design ideas to stakeholders, developers, and PMs through task flow diagrams, user journeys/scenarios, as well as low and high-fidelity wireframes and mockups on figma
-* Present and defend designs and key milestone deliverables to appropriate teams
-* Conduct user research and evaluate feedback
-* Determine user needs by conducting user interviews with real users
-* Create and run ideation workshops in support of new product explorations
-* Create rapid and iterative wireframes for prototyping for various ideas and concepts
-* Facilitate usability testing and evaluate user feedback to improve the concept or existing products further
-* Evaluate the user experience design of existing design concepts and on-device prototypes, and communicate design enhancements
-* Research interaction design trends
-* Create personas and customer journeys
-* Create clear graphics to accompany complex technical documentation
-* Evolve the visual identity at XAEGIR with a strong focus on illustration and motion
-* Develop documentation for XAEGIR’s brand guidelines
-* Create design assets for marketing, communications, and product to build a cohesive experience that brings our brand to life
-* Translate marketing initiatives into creative social media campaigns that drive engagement and growth
+* Serve as a key legal advisor in all areas of product development and projects
+* Help XAEGIR keep product and project objectives legally and ethically compliant
+* Support teams on legal matters, including strategy, general advice, contract review, commercial terms, corporate matters, internal policies, IP, negotiations and more
+* Proactively identify legal problems, solutions, and potential support needed to the team
+* Draft and review contracts and agreements, and provide holistic risk assessment and suggestions to enhance business value while mitigating downside risk
+* Manage relationships with lawyers and other external third-parties
+* Anticipate and maintain up-to-date knowledge of current laws relevant to web3 to provide strategic advice and foster compliance
+* Manage company operations, lead development of organizational processes
+* Providing business-oriented legal advice to stakeholders across the organization on a variety of business, regulatory and operational matters
+* Identifying inefficiencies in XAEGIR’s legal operations and providing recommendations for process improvements
+* Cover all jurisdictions where XAEGIR is currently active (MENA region)
+* Ensure XAEGIR remains in regulatory compliance under each license authority
+* Manage corporate structuring across multiple entities and jurisdictions
+* Support fundraising, transactions, equity investments in third-party companies, and M&A activity
+* Work with compliance team to protect the company against compliance risks
+* Draft and negotiate commercial agreements in relation agreements between entities
 
 **What separates the best from the rest**
 
@@ -156,11 +149,9 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* A robust portfolio demonstrating your talents - huge bonuses towards demonstrated range in designs / artwork
-* Team spirit; strong communication skills to collaborate with various stakeholders and continuous learning
-* High to expert knowledge of design, toolings, Web3, and NFT industries
-* Understands growth concepts such as virality, optimization, A/B test and conversion funnels
-* An entrepreneurial spirit with a record of sourcing, inventing, developing, and maintaining trending visual content
-* Minted an NFT collection previously
-* In-depth experience operating within and leading cross-functional teams (product management, customer success, development, marketing, etc.) on design-related tasks
-* History of working professionally with engineers to design UI/UX systems
+* Experience with DAO legal matters
+* Monitoring emerging DAO and cryptocurrency legislation and regulation, and advising XAEGIR of regulatory developments and any potential associated risks
+* Manage external counsel as required (e.g. employment law, jurisdictions)
+* Assist with legal spend and review legal bills
+* Like meritocracy and being ready to be judged by what you deliver
+* Have an entrepreneurial mindset vs 9-to-5 mentality; prepared to work non-standard working hours as required

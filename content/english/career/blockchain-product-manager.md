@@ -1,16 +1,16 @@
-+++
-apply_link = "#"
-date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Blockchain Product Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/outreach.png"
-job_category = "Management"
-job_type = "Full time"
-location = "Remote"
-page_header_image = "images/outreach.png"
-title = "Blockchain Product Manager"
-watermark = "Blockchain Product Manager"
+---
+date: 2022-03-15T03:51:57Z
+title: "Blockchain Product Manager"
+watermark: "Blockchain Product Manager"
+page_header_image: "images/outreach.png"
+description: "XAEGIR is looking for a Blockchain Product Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/outreach.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Management"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSeurK0nkppOEGe3W7_bh7RZSJzP7PZUZf_4upNAmof4WXSOhg/viewform?usp=sf_link"
 
-+++
+---
 # Blockchain Product Manager at XAEGIR
 
 **$10k – $13k • 0.15% – 1.2%**

@@ -1,18 +1,18 @@
 ---
-title: Operations Manager
-date: 2019-04-10T09:51:57.000+06:00
-watermark: Operations Manager
-page_header_image: images/symbol.png
-description: XAEGIR is looking for an Operations Manager to join the team. This is
-  a full-time position that is 100% remote with no geographical restrictions.
-image: images/symbol.png
+title: Crypto & Blockchain Analyst
+date: 2022-03-15T03:51:57.000+00:00
+watermark: Crypto & Blockchain Analyst
+page_header_image: images/market.png
+description: XAEGIR is looking for a Crypto & Blockchain Analyst to join the team.
+  This is a full-time position that is 100% remote with no geographical restrictions.
+image: images/market.png
 location: Remote
 job_type: Full time
-job_category: Management
-apply_link: "#"
+job_category: Analysis
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLScsWPuujsYPAlkRVCV0pCVB--Kh88NW-KON58rELs7ypePGlw/viewform?usp=sf_link"
 
 ---
-# Operations Manager at XAEGIR
+# Crypto & Blockchain Analyst at XAEGIR
 
 **$10k – $13k • 0.2% – 1.45%**
 
@@ -67,6 +67,10 @@ Candidates will enjoy working remotely with a diverse team in a challenging and 
 
 **A day in the life**
 
+Your quest will be to help us find and evaluate new investments and support the team across all portfolio companies, projects, and transactions, with a particular focus on the intersection of blockchain technology and interactive media, and gaming.
+
+The right candidate must be confident with working autonomously, and have high self-accountability, strong communication skills, and great passion for both the gaming and crypto industries, startups, and venture capital.
+
 _General activities include:_
 
 * Have fun and be creative
@@ -77,10 +81,9 @@ _General activities include:_
 
 _Role-specific activities include:_
 
-* Supporting key business processes and delivering on strategy and OKRs
-* Fine-tune processes for onboarding new creators and partners
-* Supporting marketing campaigns and product launches
-* Lead operational excellence
+* Perform research on cryptoassets
+* Help manage deal flow pipelines and portfolio initiatives
+* Provide support on crypto product development initiatives
 
 **Must-have skills**
 
@@ -98,16 +101,16 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Proven strategic planning and budgeting experience
-* Experience with building and scaling teams
-* Knowledge of doctrines, procedures, and best practices within the industry
-* Strong research and problem-solving skills
+* Ambition and grit
+* Hands-on experience with DAOs, NFTs, and DeFi
+* Ability to work with crypto data providers such as Nansen, Nonfungibles, DappRadar, and more. Ability to execute data queries to build dashboards via platforms like Dune Analytics.
+* Keen quantitative and analytical thinking - great attention to detail, fact-driven, and pragmatic
+* Ability to work autonomously, operationally, hands-on with platform developments, or shift to synthesizing and presenting complex data
 
 **Nice-to-have skills**
 
-* Identifying and training on development needs
-* Experience scaling a startup for continued growth
-* Knowledge of tech stacks and the ability to integrate them into a cohesive unit
+* Consistent ability in uncovering new opportunities that deliver outsized returns
+* Strong financial modeling skills
 
 **Responsibilities**
 
@@ -120,18 +123,16 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Develop KPIs that track project quality, delivery, financial status and risks
-* Develop project solutions across multiple disciplines and complex scenarios that consider process, technology, operational capabilities required to accomplish effectively
-* Promote change management strategies to inform and guide programs for implementation
-* Establish, implement, and communicate the strategic direction of the organization’s operations division
-* Collaborate with executives to develop and meet company goals while supplying expertise and guidance on operations projects and systems
-* Identify, recommend, and implement new processes, technologies, and systems to improve and streamline organizational processes and the use of resources and materials
-* Ensure that departmental resolutions and project plans such as those for staffing, development, organization, material efficiency, hardware acquisitions, and facilities are in line with the organization’s business plan and vision
-* Review and approve cost-control reports, cost estimates, and staffing requirements for projects
-* Present periodic performance reports and metrics to the Founders and other Leadership Team members
-* Monitoring the competitive landscape and attending industry events to stay abreast of new initiatives and ways to stay ahead
-* Tackling unforeseen issues and troubleshooting
-* Maintains knowledge of emerging technologies and trends in operations
+* Provide research reports on cryptoassets and protocols in a structured format
+* Work with team members to peer review and provide feedback on reports
+* Provide actionable intelligence in various relevant aspects of the crypto industry; technology, legal, regulatory, economic, and protocol background details
+* Identify new crypto infrastructure partnerships
+* Analyze new investment opportunities by thoroughly assessing founder teams, market potential, competitive dynamics, tokenomics, product KPIs, customer metrics and other available data.
+* Help manage XAEGIR's deal flow pipelines.
+* Manage portfolio initiatives (e.g. KPI and business plan tracking, fundraising support, strategic support, etc) to identify key areas where XAEGIR can both accelerate individual portfolio companies and promote cross-portfolio synergies.
+* Independently build expertise around industry trends to uncover proprietary information, differentiated opinions, and innovative investment opportunities
+* Engage with digital currency wallets, exchanges, fintechs, and banks
+* Identify investment and M&A opportunities
 
 **What separates the best from the rest**
 
@@ -149,4 +150,7 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Passionate about entertainment, tech, Web3, NFT’s and/or Game industries
+* Proven track record of strong portfolio management and crypto partnerships
+* Scaled emerging crypto product lines from initial proof of concept through go-to-market execution, spanning pricing, strategy, deal structuring, and client support
+
+Candidates will be asked to submit a 4-6 page thesis on an investment opportunity of their choice, which may be a private or public deal

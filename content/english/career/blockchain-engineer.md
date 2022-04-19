@@ -1,16 +1,16 @@
-+++
-apply_link = "#"
-date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Blockchain Engineer to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/realms.png"
-job_category = "Specialist"
-job_type = "Full time"
-location = "Remote"
-page_header_image = "images/realms.png"
-title = "Blockchain Engineer"
-watermark = "Blockchain Engineer"
+---
+title: "Blockchain Engineer"
+date: 2022-03-15T03:51:57Z
+watermark: "Blockchain Engineer"
+page_header_image: "images/realms.png"
+description: "XAEGIR is looking for a Blockchain Engineer to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/realms.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Specialist"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSc_bIg4yolYxgNQfCQHQsdq96u-kYoirmC4Ia44fmMM0Oc9TA/viewform?usp=sf_link"
+---
 
-+++
 # Blockchain Engineer at XAEGIR
 
 **$10k – $13k • 0.3% – 1.5%**
