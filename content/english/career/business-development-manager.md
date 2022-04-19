@@ -1,20 +1,19 @@
 +++
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Crypto & Blockchain Analyst to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for a Business Development Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/career/logo-5.png"
-job_category = "Analysis"
+job_category = "Management"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/background/about.jpg"
 title = "Business Development Manager"
-watermark = "Crypto & Blockchain Analyst"
+watermark = "Business Development Manager"
 
 +++
-Crypto & Blockchain Analyst at XAEGIR
+# Business Development Manager at XAEGIR
 
-**$10k – $13k • 0.2% – 1.45%**
+**$10k – $13k • 0.2% – 1.3%**
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -67,10 +66,6 @@ Candidates will enjoy working remotely with a diverse team in a challenging and 
 
 **A day in the life**
 
-Your quest will be to help us find and evaluate new investments and support the team across all portfolio companies, projects, and transactions, with a particular focus on the intersection of blockchain technology and interactive media, and gaming.
-
-The right candidate must be confident with working autonomously, and have high self-accountability, strong communication skills, and great passion for both the gaming and crypto industries, startups, and venture capital.
-
 _General activities include:_
 
 * Have fun and be creative
@@ -79,11 +74,8 @@ _General activities include:_
 * Help teammates company-wide
 * Document your processes, activities, and tasks
 
-_Role-specific activities include:_
-
-* Perform research on cryptoassets
-* Help manage deal flow pipelines and portfolio initiatives
-* Provide support on crypto product development initiatives
+_Role-specific activities include:_  
+As Business Development Manager, your job will be multifaceted. You will handle qualification of inbound leads, and conduct discovery meetings with potential clients. You will also be expected to generate new business opportunities via your professional network and other outbound initiatives.
 
 **Must-have skills**
 
@@ -101,16 +93,24 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Ambition and grit
-* Hands-on experience with DAOs, NFTs, and DeFi
-* Ability to work with crypto data providers such as Nansen, Nonfungibles, DappRadar, and more. Ability to execute data queries to build dashboards via platforms like Dune Analytics.
-* Keen quantitative and analytical thinking - great attention to detail, fact-driven, and pragmatic
-* Ability to work autonomously, operationally, hands-on with platform developments, or shift to synthesizing and presenting complex data
+* Project management, analysis, communication, scheduling, controlling and presentation
+* An highly-attuned observer that pays close attention to pain points and goals of potential clients
+* Strong negotiation ability
+* Ability to understand technical knowledge and familiarity with industry trends
+* Native to social environments and an excellent networker; outgoing and uninhibited
+* Management of people and business relationships, knowledge in organizational design and planning, problem-solving, managing individual and team productivity and dynamics
+* Ability to manage numerous partners, including negotiations and optimization
+* Demonstrated ability to provide thought leadership and drive change across functions; highly developed program management and change management
+* Digital marketing or sales experience
+* Proficiency in Google Analytics
+* Strong financial and data analysis skills, for forecasting, full funnel analysis and executive reporting
 
 **Nice-to-have skills**
 
-* Consistent ability in uncovering new opportunities that deliver outsized returns
-* Strong financial modeling skills
+* Ability to build a brand
+* Ability to analyze competitive environment
+* Negotiation and persuasion expert
+* Proven ability to lead teams to achieve results, exercise independent judgment and handle unique situations to accomplish goals in tight time frames
 
 **Responsibilities**
 
@@ -123,16 +123,18 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Provide research reports on cryptoassets and protocols in a structured format
-* Work with team members to peer review and provide feedback on reports
-* Provide actionable intelligence in various relevant aspects of the crypto industry; technology, legal, regulatory, economic, and protocol background details
-* Identify new crypto infrastructure partnerships
-* Analyze new investment opportunities by thoroughly assessing founder teams, market potential, competitive dynamics, tokenomics, product KPIs, customer metrics and other available data.
-* Help manage XAEGIR's deal flow pipelines.
-* Manage portfolio initiatives (e.g. KPI and business plan tracking, fundraising support, strategic support, etc) to identify key areas where XAEGIR can both accelerate individual portfolio companies and promote cross-portfolio synergies.
-* Independently build expertise around industry trends to uncover proprietary information, differentiated opinions, and innovative investment opportunities
-* Engage with digital currency wallets, exchanges, fintechs, and banks
-* Identify investment and M&A opportunities
+* Leverage network and conduct additional research, lead generation strategies (inbound and outbound) to increase funnels and qualify leads
+* Trend identification within markets and industries
+* Coordinate and lead various types of meetings ranging from client presentations, internal strategy discussions, negotiation calls, and project kickoffs
+* Administrate processes of signing various agreements (NDAs, MSAs, SOWs, MOUs, etc) with potential clients
+* Help build a growth program that caters to startups
+* Relentless focus when recruiting, sourcing and launching successful growth partners
+* Define partnerships strategies and execute on go-to-market and adoption plans
+* Build and analyze financial models for predicted growth and revenue
+* Work with cross functional teams (product, engineering, marketing, data science) to build, launch and optimize XAEGIR growth programs
+* Size market opportunities, partner requirements and feedback to cross-functional teams to inform product roadmap and prioritization
+* Develop mutually-beneficial and trusting relationships with partners - make XAEGIR a favored company with which to partner
+* Be metric minded – use data to articulate opportunities internally, externally , and to report on success
 
 **What separates the best from the rest**
 
@@ -150,7 +152,9 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Proven track record of strong portfolio management and crypto partnerships
-* Scaled emerging crypto product lines from initial proof of concept through go-to-market execution, spanning pricing, strategy, deal structuring, and client support
-
-Candidates will be asked to submit a 4-6 page thesis on an investment opportunity of their choice, which may be a private or public deal
+* PMP Certified
+* Speaks with authority to most layers of depth related to project management methods
+* Medium to high knowledge of IT, services, Web3, and NFT industries
+* Understands growth concepts such as virality, optimization, A/B test and conversion funnels
+* An entrepreneurial spirit with a record of sourcing, developing, and maintaining partner relationships
+* In-depth experience operating within and leading cross-functional teams (product management, customer success, legal, finance, marketing, etc.)
