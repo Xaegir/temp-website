@@ -1,20 +1,17 @@
 +++
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Tokenomics Lead to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for a Content Associate to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/token.png"
 job_category = "Specialist"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/token.png"
 title = "Content Associate"
-watermark = "Tokenomics Lead"
+watermark = "Content Associate"
 
 +++
-# Tokenomics Lead at XAEGIR
-
-**$10k – $13k • 0.2% – 1.9%**.
+# Content Associate at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -89,70 +86,77 @@ _General skills include:_
 * Have the ability to prioritize effectively on long-term projects with short term requirements.
 * Have patience in helping those who are new or unfamiliar!
 * Have a strong work ethic and hustle. Both are important, as are communication skills, writing ability, and a business development mindset.
-* Demonstrate knowledge of and interest in improving employee experiences.
+* Demonstrate knowledge of and interest in decentralized technologies.
 * Communicate when guidance is needed, or when it is not.
-* Flexibility and a desire to learn new workflows
+* Flexibility and a desire to learn new workflows necessary
 * Create pathways towards good communication, being reliable, and conscientious of others around you
 * Enjoy the journey and not get frustrated easily - reach out and we’ll help you succeed.
 
 _Role-specific skills include:_
 
-* Ability to understand Solidity smart contracts
-* Experience in designing economic incentives for a multi-sided platform
-* Experience with crypto or traditional market analysis
-* Experience drafting token white-paper and presenting complex concepts in simple terms to a non-technical audience
-* Solid understanding of the current state of Web3 crypto-economics, and blockchain technologies generally, with a focus on NFT projects
-* Experience with performing various simulations (agent-based, monte carlo, etc.) and extracting insights from data
-* Knowledge of DAO governance protocols and best practices for incorporating community into ongoing maintenance and evolution of the economy
-* Experience with financial modelling, discounted cash flow & ROI analysis, and valuation
+* Native English speaker or extremely fluent
+* Utilize tools to check for good writing style, grammar, etc. e.g. [Hemingway Editor](https://hemingwayapp.com/ "https://hemingwayapp.com/")
+* Huge appetite for reading / curating content around the NFTs industry
+* Has the ability to create original content for infographics, memes, and videos
+* Ability to work independently and in a fully remote team environment
+* Long-term work with a minimum of 5-6 articles per week assigned to write
+* Strong foundational knowledge of SEO toolings and standards; can optimize content for multiple search engines and demographics.
 
 **Nice-to-have skills**
 
-* Experience with byzantine fault tolerant state machine replication or similar technologies is desired
-* A strong statistical background and an understanding of Web3 business models
-* Exceptional research and analytical skills and advanced proficiency in Excel, Python, Tableau, or other data visualization tools.
-* Experience with querying languages like SQL, GraphQL, Python, R
-* Previous role experience
+* Very Strong interest in NFTs projects (Digital art/gaming/music/collectables) and NFT technologies
+* Knowledge of and interest in decentralized technologies.
+* A strong work ethic and hustle are all important, as are communication skills, writing ability, and a business development mindset.
+* Previous marketing experience is a plus.
+* Previous experience in operating a CMS.
+* Has a YouTube channel and provides consistent, engaging material
 
 **Responsibilities**
 
 _General responsibilities include:_
 
-* In a ever-evolving environment, keep internal and external information resources up to date.
+* In an ever-evolving environment, keep internal and external information resources up to date.
 * Contribute to internal documentation using Confluence on a consistent daily basis.
 * Utilize Agile methodology and communicate and coordinate tasks with teams
-* Utilize team self-management tools to provide transparency on department direction, projects, and plans
+* Utilize Jira and Trello to provide transparency on department direction, projects, and plans
 
 _Role-specific responsibilities include:_
 
-* Draft white-paper and champion the multi-faceted system design for novel crypto-economics platform
-* Carry token designs from initial conception to community presentation and feedback requests to implementation
-* Work with on-chain data to analyze and maintain the ecosystem
-* Design novel economic and crypto-economic frameworks for a multi-sided platform and turn ideas, theories, and research into implementations of a platform token
-* Collaborate with Executive Leadership, Product, and Engineering to draft and champion token white-paper
-* Map well-explored economic mechanisms and models to blockchain use cases
-* Design and run simulations for stress testing and backtesting of platform token's risk parameters
-* Analyze on-chain and market data through various analytics and data science tools to draw conclusions on the market
-* Develop and maintain regular KPI reporting for senior leadership
-* Build and expand the research team to cover the different analytic verticals outside of DeFi (e.g. Web3, Layer 1s, Gaming, NFTs, etc.)
+* Develop page content, documentation, technical writing, articles, social media content and other strategic communications in support of various businesses and frontend
+* Utilize writing experience, marketing talents, crypto and DeFi sector domain knowledge to develop content consistent with deliverables and objectives.
+* Write with a style that appeals to the general, less technical audience; convert highly technical research and resources into easy reading and digestible pieces of content
+* Write up short-form articles around NFTs news & industry – ( 300 and 500 words)
+* Write up Long-form articles on specific projects or topics – ( 2300 words)
+* Provide engaging content for all social media and professional accounts.
+* Content is fully-formatted in XAEGIR’s CMS
+* Follow the provided guidelines on content delivery
+* Contribute to our brand, content, and community strategies with ideas and efforts.
+* Keeping up to date with new and leading projects, companies and developments in the Web3 ecosystem
+* Draft ideas for content on different platforms that meet the criteria of business needs, voice, and governance
 
 **What separates the best from the rest**
 
 _General traits include:_
 
 * Experience with greenfield projects - building a line-of-business from the ground up
-* Obtained recognitions for acts of excellence
+* Obtained recognition for acts of excellence
 * Agile, able to upskill, and reskill as needed
 * Demonstrates leadership and ownership
 * XAEGIR culture-fit
 * Communicative
-* Self-motivated (although we do our share of shared-motivation)
+* Self-motivated (although we do our share of shared motivation)
 * Teamwork that makes sense
 * Highly aware of industry-specific toolings, applications, and resources
 
 _Role-specific traits include:_
 
-* At least one successful token launch
-* Solid understanding of current state of Web3 crypto-economics, and blockchain technologies generally, with a focus on NFT projects
-* Experience with performing various simulations (agent-based, monte carlo, etc.) and extracting insights from data
-* Masters and/or PhD in Statistics, Economics, or Econometrics
+* Great writing skills
+* Have editing abilities
+* Perform solid, organized research
+* Know how to communicate with the audience
+* Know how to write content that drives traffic
+* Be transparent in your communications
+* Manages time well
+* Always communicating internally and externally
+* Experience with visual content creation; specifically, simple 2D animations
+* Experienced in creating user-targeted content by isolating demographics and taking advantage of industry tools
