@@ -12,7 +12,7 @@ job_category: Management
 apply_link: "#"
 
 ---
-People Ops & Experience Manager at XAEGIR
+# People Ops & Experience Manager at XAEGIR
 
 **$10k – $13k • 0.1% – 0.94%**
 
