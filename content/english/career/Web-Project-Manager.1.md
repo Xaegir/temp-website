@@ -12,7 +12,7 @@ job_category: Management
 apply_link: "#"
 
 ---
-Operations Manager at XAEGIR
+# Operations Manager at XAEGIR
 
 **$10k – $13k • 0.2% – 1.45%**
 
