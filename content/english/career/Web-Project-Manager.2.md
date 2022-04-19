@@ -8,7 +8,7 @@ description: XAEGIR is looking for a Tokenomics Lead to join the team. This is a
 image: images/token.png
 location: Remote
 job_type: Full time
-job_category: Business Operations Specialist
+job_category: Specialist
 apply_link: "#"
 
 ---
