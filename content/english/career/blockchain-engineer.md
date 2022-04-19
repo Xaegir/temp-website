@@ -6,7 +6,7 @@ image = "images/career/logo-4.png"
 job_category = "Specialist"
 job_type = "Full time"
 location = "Remote"
-page_header_image = "images/background/about.jpg"
+page_header_image = "images/realms.png"
 title = "Blockchain Engineer"
 watermark = "Blockchain Engineer"
 
