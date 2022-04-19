@@ -5,7 +5,7 @@ watermark: Design Manager
 page_header_image: images/aevetar.png
 description: XAEGIR is looking for a Design Manager to join the team. This is a full-time
   position that is 100% remote with no geographical restrictions.
-image: images/career/logo-3.png
+image: images/aevetar.png
 location: Remote
 job_type: Full time
 job_category: Management
