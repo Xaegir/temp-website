@@ -1,20 +1,19 @@
 +++
 apply_link = "#"
 date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Crypto & Blockchain Analyst to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-draft = true
+description = "XAEGIR is looking for a Blockchain Product Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
 image = "images/career/logo-5.png"
-job_category = "Analysis"
+job_category = "Management"
 job_type = "Full time"
 location = "Remote"
 page_header_image = "images/background/about.jpg"
 title = "Blockchain Product Manager"
-watermark = "Crypto & Blockchain Analyst"
+watermark = "Blockchain Product Manager"
 
 +++
-Crypto & Blockchain Analyst at XAEGIR
+Blockchain Product Manager at XAEGIR
 
-**$10k – $13k • 0.2% – 1.45%**
+**$10k – $13k • 0.15% – 1.2%**
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
@@ -67,10 +66,6 @@ Candidates will enjoy working remotely with a diverse team in a challenging and 
 
 **A day in the life**
 
-Your quest will be to help us find and evaluate new investments and support the team across all portfolio companies, projects, and transactions, with a particular focus on the intersection of blockchain technology and interactive media, and gaming.
-
-The right candidate must be confident with working autonomously, and have high self-accountability, strong communication skills, and great passion for both the gaming and crypto industries, startups, and venture capital.
-
 _General activities include:_
 
 * Have fun and be creative
@@ -81,9 +76,9 @@ _General activities include:_
 
 _Role-specific activities include:_
 
-* Perform research on cryptoassets
-* Help manage deal flow pipelines and portfolio initiatives
-* Provide support on crypto product development initiatives
+* Champion of XAEGIR product development; marketplace for NFTs, Aevetars, Realms, dApps, Token ecosystem, and more.
+* Work with senior management team to align business priorities with technology
+* Work with full stack engineers
 
 **Must-have skills**
 
@@ -91,7 +86,7 @@ _General skills include:_
 
 * Possess curiosity, resourcefulness, and open-mindedness to learning.
 * Have the ability to prioritize effectively on long-term projects with short term requirements.
-* Have patience in helping those who are new or unfamiliar
+* Have patience in helping those who are new or unfamiliar!
 * Have a strong work ethic and hustle. Both are important, as are communication skills, writing ability, and a business development mindset.
 * Demonstrate knowledge of and interest in improving employee experiences.
 * Communicate when guidance is needed, or when it is not.
@@ -101,16 +96,15 @@ _General skills include:_
 
 _Role-specific skills include:_
 
-* Ambition and grit
-* Hands-on experience with DAOs, NFTs, and DeFi
-* Ability to work with crypto data providers such as Nansen, Nonfungibles, DappRadar, and more. Ability to execute data queries to build dashboards via platforms like Dune Analytics.
-* Keen quantitative and analytical thinking - great attention to detail, fact-driven, and pragmatic
-* Ability to work autonomously, operationally, hands-on with platform developments, or shift to synthesizing and presenting complex data
+* Understand the blockchain and NFT landscape and design a product roadmap accordingly
+* Be responsible for the development of Fenrir, the XAEGIR marketplace for Non-Fungible tokens
+* Propose new solutions for how to potentially integrate a XAEGIR token across the blockchain ecosystem and within XAEGIR Smart Products
 
 **Nice-to-have skills**
 
-* Consistent ability in uncovering new opportunities that deliver outsized returns
-* Strong financial modeling skills
+* Knowledge of fungible token economics and DeFi
+* Experience working with Agile teams
+* In-depth knowledge of best practices in blockchain management and data protection
 
 **Responsibilities**
 
@@ -123,16 +117,7 @@ _General responsibilities include:_
 
 _Role-specific responsibilities include:_
 
-* Provide research reports on cryptoassets and protocols in a structured format
-* Work with team members to peer review and provide feedback on reports
-* Provide actionable intelligence in various relevant aspects of the crypto industry; technology, legal, regulatory, economic, and protocol background details
-* Identify new crypto infrastructure partnerships
-* Analyze new investment opportunities by thoroughly assessing founder teams, market potential, competitive dynamics, tokenomics, product KPIs, customer metrics and other available data.
-* Help manage XAEGIR's deal flow pipelines.
-* Manage portfolio initiatives (e.g. KPI and business plan tracking, fundraising support, strategic support, etc) to identify key areas where XAEGIR can both accelerate individual portfolio companies and promote cross-portfolio synergies.
-* Independently build expertise around industry trends to uncover proprietary information, differentiated opinions, and innovative investment opportunities
-* Engage with digital currency wallets, exchanges, fintechs, and banks
-* Identify investment and M&A opportunities
+* Define and iterate on the product strategy and roadmap by leading protocol team
 
 **What separates the best from the rest**
 
@@ -150,7 +135,4 @@ _General traits include:_
 
 _Role-specific traits include:_
 
-* Proven track record of strong portfolio management and crypto partnerships
-* Scaled emerging crypto product lines from initial proof of concept through go-to-market execution, spanning pricing, strategy, deal structuring, and client support
-
-Candidates will be asked to submit a 4-6 page thesis on an investment opportunity of their choice, which may be a private or public deal
+* Background in product management and experience leading teams *
