@@ -1,16 +1,15 @@
-+++
-apply_link = "#"
-date = 2022-03-15T03:51:57Z
-description = "XAEGIR is looking for a Content Associate to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image = "images/token.png"
-job_category = "Specialist"
-job_type = "Full time"
-location = "Remote"
-page_header_image = "images/token.png"
-title = "Content Associate"
-watermark = "Content Associate"
-
-+++
+---
+title: "Content Associate"
+date: 2022-03-15T03:51:57Z
+watermark: "Content Associate"
+page_header_image: "images/token.png"
+description: "XAEGIR is looking for a Content Associate to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
+image: "images/token.png"
+location: "Remote"
+job_type: "Full time"
+job_category: "Specialist"
+apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSeTBOt6A18u0VOGLW2sLuYPBwdesxvwM1YxnaSwpJ22g5s66Q/viewform?usp=sf_link"
+---
 # Content Associate at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
