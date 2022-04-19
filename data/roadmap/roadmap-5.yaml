@@ -8,36 +8,35 @@ description: Customizable and interoperable NFT avatars.
 initiatives:
 - name: initiative#1
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  focus: NFT Project - 
-  description: This is where the fun begins. Our flagship product, Aevatar
-    consists of highly customizable and composable avatars that grant owners the ability
-    to modify, upgrade, swap and evolve over time. Aevatar will have both deflationary
+  initiative: ''
+  initiativeLink: ''
+  subtitle: DEVELOPMENT
+  status: ''
+  focus: NFT Project -
+  description: This is where the fun begins. Our flagship product, Aevatar consists
+    of highly customizable and composable avatars that grant owners the ability to
+    modify, upgrade, swap and evolve over time. Aevatar will have both deflationary
     and inflationary properties with natural burn methodology that can be used interoperability
     within the Metaverse
 - name: initiative#2
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  focus: Xero - 
-  description: This consists of aesthetic and gaming item components for your
-    Aevetar. This includes further customization, weaponry, vanity items and much
-    more. We can’t wait to find out what other features our amazing community will
-    inpsire.
+  initiative: ''
+  initiativeLink: ''
+  subtitle: DEVELOPMENT
+  status: ''
+  focus: Xero -
+  description: This consists of aesthetic and gaming item components for your Aevetar.
+    This includes further customization, weaponry, vanity items and much more. We
+    can’t wait to find out what other features our amazing community will inpsire.
 - name: initiative#3
   enable: true
-  initiative: Web
-  initiativeLink: Web
-  subtitle: subtitle
-  status: "#status"
-  focus: Mezzanine - 
-  description: What kind of avatar would be worth its salt without the
-    ability to walk around, interact and engage in activities with its peers and environment.
+  initiative: ''
+  initiativeLink: ''
+  subtitle: PLANNING
+  status: ''
+  focus: Mezzanine -
+  description: What kind of avatar would be worth its salt without the ability to
+    walk around, interact and engage in activities with its peers and environment.
     Project Mezzanine is the space in which our users can perform customizations,
     play games, test features, interact with each other and learn about the worlds
     that are yet to come.
