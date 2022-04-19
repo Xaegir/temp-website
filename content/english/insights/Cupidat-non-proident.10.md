@@ -1,13 +1,13 @@
 ---
 title: The Current State of Web 3.0
-date: 2022-03-15T03:51:57+00:00
+date: 2022-03-15T03:51:57.000+00:00
 watermark: The Current State of Web 3.0
 page_header_image: images/thecurrentstateofweb3.jpg
 description: The current climate of Web3 is a volatile one. Frequent shifts in public
   opinion and ideas on regulation make it difficult to asses the current state of
   the space.
 image: images/thecurrentstateofweb3.jpg
-author: Web3 Watchdog
+author: Stephen M. van der Berg
 categories:
 - Investment Planning
 tags:
