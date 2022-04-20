@@ -14,7 +14,7 @@ search = false
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By viewing this website, you agree to XAEGIR's use of cookies."
-enable = false
+enable = true
 expire_days = 2
 [gmap]
 enable = false
