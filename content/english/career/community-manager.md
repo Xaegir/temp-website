@@ -1,18 +1,18 @@
 ---
-title: "Community Manager"
-date: 2022-03-15T03:51:57Z
-watermark: "Community Manager"
-page_header_image: "images/outreach.png"
-description: "XAEGIR is looking for a Community Manager to join the team. This is a full-time position that is 100% remote with no geographical restrictions."
-image: "images/outreach.png"
-location: "Remote"
-job_type: "Full time"
-job_category: "Management"
-apply_link: "https://docs.google.com/forms/d/e/1FAIpQLSc274IMcOdhexwPs_LGZaYNSMsPyXdM4kIA_U-L4PhVrpDlEA/viewform?usp=sf_link"
----
-# Blockchain Product Manager at XAEGIR
+title: Community Manager
+date: 2022-03-15T03:51:57.000+00:00
+watermark: Community Manager
+page_header_image: images/outreach.png
+description: XAEGIR is looking for a Community Manager to join the team. This is a
+  full-time position that is 100% remote with no geographical restrictions.
+image: images/outreach.png
+location: Remote
+job_type: Full time
+job_category: Management
+apply_link: https://docs.google.com/forms/d/e/1FAIpQLSc274IMcOdhexwPs_LGZaYNSMsPyXdM4kIA_U-L4PhVrpDlEA/viewform?usp=sf_link
 
-**$10k – $13k • 0.15% – 1.2%**
+---
+# Community Manager at XAEGIR
 
 ### Why XAEGIR is Your Web3 Vessel in the Storm
 
